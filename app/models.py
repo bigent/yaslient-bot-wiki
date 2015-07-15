@@ -9,7 +9,6 @@ sys.setdefaultencoding("UTF-8")
 locale.setlocale(locale.LC_ALL, ('tr_TR', 'UTF-8'))
 
 site = wiki.Wiki("https://tr.wikipedia.org/w/api.php")
-site.login("Yaslient", "lotr123")
 
 
 

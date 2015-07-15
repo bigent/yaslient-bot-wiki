@@ -8,7 +8,8 @@ sys.setdefaultencoding("utf-8")
 
 
 site = wiki.Wiki("https://tr.wikipedia.org/w/api.php")
-site.login("Yaslient", "lotr123")
+password = raw_input("Sifrenizi giriniz:")
+site.login("Yaslient1", password)
 
 
 params = {'action':'query',
