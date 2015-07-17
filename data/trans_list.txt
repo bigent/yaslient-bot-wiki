@@ -1,1290 +1,1278 @@
-Aruba-->Aruba
-Aruba2-->Aruba2
+Aruba-->Aruba?*?Aruba
+Aruba2-->Aruba2?*?Aruba
 Asia-->Asya
 Asia2-->Asia2
 Atlantic Ocean-->Atlas Okyanusu
-Australia Australian Capital Territory-->Avustralya Avustralya Başkent Bölgesi
-Australia Jervis Bay Territory-->Avustralya Jervis Bay Bölgesi
-Australia New South Wales LGAs-->Avustralya Yeni Güney Galler yerel hükümet alanları
-Australia Norfolk Island-->Avustralya Norfolk Adası
-Australia Northern Territory-->Avustralya Kuzey Toprakları
-Australia Queensland-->Avustralya Queensland
-Australia South Australia-->Avustralya Güney Avustralya
-Australia Sydney-->Avustralya Sidney
-Australia Tasmania-->Avustralya Tasmanya
-Australia Victoria Alpine Shire-->Avustralya Victoria Alpine shire'ı
-Australia Victoria Bass Coast Shire-->Avustralya Victoria Bass Coast shire'ı
-Australia Victoria Borough of Queenscliffe-->Avustralya Victoria Queenscliffe ilçesi
-Australia Victoria City of Ballarat-->Avustralya Victoria Ballarat şehri
-Australia Victoria City of Bendigo-->Avustralya Victoria Bendigo şehri
-Australia Victoria City of Greater Bendigo-->Avustralya Victoria Bendigo büyükşehri
-Australia Victoria City of Greater Geelong-->Avustralya Victoria Geelong büyükşehri
-Australia Victoria City of Greater Shepparton-->Avustralya Victoria Shepparton büyükşehri
-Australia Victoria City of Latrobe-->Avustralya Victoria Latrobe şehri
-Australia Victoria City of Warrnambool-->Avustralya Victoria Warrnambool şehri
-Australia Victoria City of Wodonga-->Avustralya Victoria Wodonga şehri
-Australia Victoria Colac Otway Shire-->Avustralya Victoria Colac Otway shire'ı
-Australia Victoria Corangamite Shire-->Avustralya Victoria Corangamite shire'ı
-Australia Victoria French Island-->Avustralya Victoria Fransız Adası
-Australia Victoria Golden Plains Shire-->Avustralya Victoria Golden Plains shire'ı
-Australia Victoria Pyrenees Shire-->Avustralya Victoria Pyrenees shire'ı
-Australia Victoria Rural City of Ararat-->Avustralya Victoria Ararat şehri
-Australia Victoria Rural City of Benalla-->Avustralya Victoria Benalla şehri
-Australia Victoria Rural City of Horsham-->Avustralya Victoria Horsham şehri
-Australia Victoria Rural City of Mildura-->Avustralya Victoria Mildura şehri
-Australia Victoria Rural City of Swan Hill-->Avustralya Victoria Swan Hill şehri
-Australia Victoria Rural City of Wangaratta-->Avustralya Victoria Wangaratta şehri
-Australia Victoria Shire of Baw Baw-->Avustralya Victoria Baw Baw shire'ı
-Australia Victoria Shire of Buloke-->Avustralya Victoria Buloke shire'ı
-Australia Victoria Shire of Campaspe-->Avustralya Victoria Campaspe shire'ı
-Australia Victoria Shire of Central Goldfields-->Avustralya Victoria Central Goldfields shire'ı
-Australia Victoria Shire of East Gippsland-->Avustralya Victoria East Gippsland shire'ı
-Australia Victoria Shire of Gannawarra-->Avustralya Victoria Gannawarra shire'ı
-Australia Victoria Shire of Glenelg-->Avustralya Victoria Glenelg shire'ı
-Australia Victoria Shire of Hepburn-->Avustralya Victoria Hepburn shire'ı
-Australia Victoria Shire of Hindmarsh-->Avustralya Victoria Hindmarsh shire'ı
-Australia Victoria Shire of Indigo-->Avustralya Victoria Indigo shire'ı
-Australia Victoria Shire of Loddon-->Avustralya Victoria Loddon shire'ı
-Australia Victoria Shire of Macedon Ranges-->Avustralya Victoria Macedon Ranges shire'ı
-Australia Victoria Shire of Mansfield-->Avustralya Victoria Mansfield shire'ı
-Australia Victoria Shire of Mitchell-->Avustralya Victoria Mitchell shire'ı
-Australia Victoria Shire of Moira-->Avustralya Victoria Moira shire'ı
-Australia Victoria Shire of Moorabool-->Avustralya Victoria Moorabool shire'ı
-Australia Victoria Shire of Mount Alexander-->Avustralya Victoria Mount Alexander shire'ı
-Australia Victoria Shire of Moyne-->Avustralya Victoria Moyne shire'ı
-Australia Victoria Shire of Murrindindi-->Avustralya Victoria Murrindindi shire'ı
-Australia Victoria Shire of Northern Grampians-->Avustralya Victoria Northern Grampians shire'ı
-Australia Victoria Shire of Southern Grampians-->Avustralya Victoria Southern Grampians shire'ı
-Australia Victoria Shire of Strathbogie-->Avustralya Victoria Strathbogie shire'ı
-Australia Victoria Shire of Towong-->Avustralya Victoria Towong shire'ı
-Australia Victoria Shire of Wellington-->Avustralya Victoria Wellington shire'ı
-Australia Victoria Shire of West Wimmera-->Avustralya Victoria West Wimmera shire'ı
-Australia Victoria Shire of Yarriambiack-->Avustralya Victoria Yarriambiack shire'ı
-Australia Victoria South Gippsland Shire-->Avustralya Victoria South Gippsland shire'ı
-Australia Victoria Surf Coast Shire-->Avustralya Victoria Surf Coast shire'ı
-Australia Victoria Wellington Shire-->Avustralya Victoria Wellington shire'ı
-Australia Victoria complete Melbourne metropolitan area-->Avustralya Victoria bütün Melbourne metropolü
-Australia Victoria highways-->Avustralya Victoria karayolları
-Australia Victoria metropolitan Melbourne-->Avustralya Victoria  Melbourne
-Australia Western Australia-->Avustralya Batı Avustralya
-Australia Western Australia metropolitan Perth-->Avustralya Batı Avustralya metropolitan Perth
+Australia Australian Capital Territory-->Avustralya Avustralya Başkent Bölgesi?*?Avustralya
+Australia Jervis Bay Territory-->Avustralya Jervis Bay Bölgesi?*?Avustralya
+Australia New South Wales LGAs-->Avustralya Yeni Güney Galler yerel hükümet alanları?*?Avustralya
+Australia Norfolk Island-->Avustralya Norfolk Adası?*?Avustralya
+Australia Northern Territory-->Avustralya Kuzey Toprakları?*?Avustralya
+Australia Queensland-->Avustralya Queensland?*?Avustralya
+Australia South Australia-->Avustralya Güney Avustralya?*?Avustralya
+Australia Sydney-->Avustralya Sidney?*?Avustralya
+Australia Tasmania-->Avustralya Tasmanya?*?Avustralya
+Australia Victoria Alpine Shire-->Avustralya Victoria Alpine shire'ı?*?Avustralya
+Australia Victoria Bass Coast Shire-->Avustralya Victoria Bass Coast shire'ı?*?Avustralya
+Australia Victoria Borough of Queenscliffe-->Avustralya Victoria Queenscliffe ilçesi?*?Avustralya
+Australia Victoria City of Ballarat-->Avustralya Victoria Ballarat şehri?*?Avustralya
+Australia Victoria City of Bendigo-->Avustralya Victoria Bendigo şehri?*?Avustralya
+Australia Victoria City of Greater Bendigo-->Avustralya Victoria Greater Bendigo?*?Avustralya
+Australia Victoria City of Greater Geelong-->Avustralya Victoria Greater Geelong?*?Avustralya
+Australia Victoria City of Greater Shepparton-->Avustralya Victoria Greater Shepparton?*?Avustralya
+Australia Victoria City of Latrobe-->Avustralya Victoria Latrobe şehri?*?Avustralya
+Australia Victoria City of Warrnambool-->Avustralya Victoria Warrnambool şehri?*?Avustralya
+Australia Victoria City of Wodonga-->Avustralya Victoria Wodonga şehri?*?Avustralya
+Australia Victoria Colac Otway Shire-->Avustralya Victoria Colac Otway shire'ı?*?Avustralya
+Australia Victoria Corangamite Shire-->Avustralya Victoria Corangamite shire'ı?*?Avustralya
+Australia Victoria French Island-->Avustralya Victoria Fransız Adası?*?Avustralya
+Australia Victoria Golden Plains Shire-->Avustralya Victoria Golden Plains shire'ı?*?Avustralya
+Australia Victoria Pyrenees Shire-->Avustralya Victoria Pyrenees shire'ı?*?Avustralya
+Australia Victoria Rural City of Ararat-->Avustralya Victoria Ararat şehri?*?Avustralya
+Australia Victoria Rural City of Benalla-->Avustralya Victoria Benalla şehri?*?Avustralya
+Australia Victoria Rural City of Horsham-->Avustralya Victoria Horsham şehri?*?Avustralya
+Australia Victoria Rural City of Mildura-->Avustralya Victoria Mildura şehri?*?Avustralya
+Australia Victoria Rural City of Swan Hill-->Avustralya Victoria Swan Hill şehri?*?Avustralya
+Australia Victoria Rural City of Wangaratta-->Avustralya Victoria Wangaratta şehri?*?Avustralya
+Australia Victoria Shire of Baw Baw-->Avustralya Victoria Baw Baw shire'ı?*?Avustralya
+Australia Victoria Shire of Buloke-->Avustralya Victoria Buloke shire'ı?*?Avustralya
+Australia Victoria Shire of Campaspe-->Avustralya Victoria Campaspe shire'ı?*?Avustralya
+Australia Victoria Shire of Central Goldfields-->Avustralya Victoria Central Goldfields shire'ı?*?Avustralya
+Australia Victoria Shire of East Gippsland-->Avustralya Victoria East Gippsland shire'ı?*?Avustralya
+Australia Victoria Shire of Gannawarra-->Avustralya Victoria Gannawarra shire'ı?*?Avustralya
+Australia Victoria Shire of Glenelg-->Avustralya Victoria Glenelg shire'ı?*?Avustralya
+Australia Victoria Shire of Hepburn-->Avustralya Victoria Hepburn shire'ı?*?Avustralya
+Australia Victoria Shire of Hindmarsh-->Avustralya Victoria Hindmarsh shire'ı?*?Avustralya
+Australia Victoria Shire of Indigo-->Avustralya Victoria Indigo shire'ı?*?Avustralya
+Australia Victoria Shire of Loddon-->Avustralya Victoria Loddon shire'ı?*?Avustralya
+Australia Victoria Shire of Macedon Ranges-->Avustralya Victoria Macedon Ranges shire'ı?*?Avustralya
+Australia Victoria Shire of Mansfield-->Avustralya Victoria Mansfield shire'ı?*?Avustralya
+Australia Victoria Shire of Mitchell-->Avustralya Victoria Mitchell shire'ı?*?Avustralya
+Australia Victoria Shire of Moira-->Avustralya Victoria Moira shire'ı?*?Avustralya
+Australia Victoria Shire of Moorabool-->Avustralya Victoria Moorabool shire'ı?*?Avustralya
+Australia Victoria Shire of Mount Alexander-->Avustralya Victoria Mount Alexander shire'ı?*?Avustralya
+Australia Victoria Shire of Moyne-->Avustralya Victoria Moyne shire'ı?*?Avustralya
+Australia Victoria Shire of Murrindindi-->Avustralya Victoria Murrindindi shire'ı?*?Avustralya
+Australia Victoria Shire of Northern Grampians-->Avustralya Victoria Northern Grampians shire'ı?*?Avustralya
+Australia Victoria Shire of Southern Grampians-->Avustralya Victoria Southern Grampians shire'ı?*?Avustralya
+Australia Victoria Shire of Strathbogie-->Avustralya Victoria Strathbogie shire'ı?*?Avustralya
+Australia Victoria Shire of Towong-->Avustralya Victoria Towong shire'ı?*?Avustralya
+Australia Victoria Shire of Wellington-->Avustralya Victoria Wellington shire'ı?*?Avustralya
+Australia Victoria Shire of West Wimmera-->Avustralya Victoria West Wimmera shire'ı?*?Avustralya
+Australia Victoria Shire of Yarriambiack-->Avustralya Victoria Yarriambiack shire'ı?*?Avustralya
+Australia Victoria South Gippsland Shire-->Avustralya Victoria South Gippsland shire'ı?*?Avustralya
+Australia Victoria Surf Coast Shire-->Avustralya Victoria Surf Coast shire'ı?*?Avustralya
+Australia Victoria Wellington Shire-->Avustralya Victoria Wellington shire'ı?*?Avustralya
+Australia Victoria complete Melbourne metropolitan area-->Avustralya Victoria bütün Melbourne metropolü?*?Avustralya
+Australia Victoria highways-->Avustralya Victoria karayolları?*?Avustralya
+Australia Victoria metropolitan Melbourne-->Avustralya Victoria Melbourne?*?Avustralya
+Australia Western Australia-->Avustralya Batı Avustralya?*?Avustralya
+Australia Western Australia metropolitan Perth-->Avustralya Batı Avustralya metropolitan Perth?*?Avustralya
 Australia and New Zealand-->Avustralya ve Yeni Zelanda
-Australian Capital Territory-->Avustralya Başkent Bölgesi
-Austria EBEL-->Avusturya EBEL
-Baden-Württemberg-->Baden-Württemberg
-Bahamas-->Bahamalar
-Bahrain Manama-->Bahreyn Manama
+Australian Capital Territory-->Avustralya Başkent Bölgesi?*?Avustralya
+Austria EBEL-->Avusturya EBEL?*?Avusturya
+Bahamas-->Bahamalar?*?Bahamalar
+Bahrain Manama-->Bahreyn Manama?*?Bahreyn
 Baikonur Cosmodrome-->Baykonur Baykonur Uzay Üssü
 Balkans-->Balkanlar
 Baltic Sea-->Baltık Denizi
 Baltic states-->Baltık devletleri
 Bantayan-->Bantayan
-Barbados-->Barbados
-Beirut-->Beyrut
-Belgium Brussels-->Belçika Brüksel Başkent Bölgesi
-Belize-->Belize
+Barbados-->Barbados?*?Barbados
+Beirut-->Beyrut?*?Beyrut
+Belgium Brussels-->Belçika Brüksel Başkent Bölgesi?*?Belçika
+Belize-->Belize?*?Belize
 Benelux-->Benelüks
-Bhutan highways-->Bhutan karayolları
-Bhutan protected areas-->Bhutan korunan alanları
+Bhutan highways-->Bhutan karayolları?*?Bhutan
+Bhutan protected areas-->Bhutan korunan alanları?*?Bhutan
 Bohemian Massif-->Bohemya Masifi
-Bolivia-->Bolivya
-Bolivia Cochabamba-->Bolivya Cochabamba
-Bonaire-->Bonaire
-Boston-->ABD Boston
-Brazil Brasília-->Brezilya Brasília
-Brazil Minas Gerais state-->Brezilya Minas Gerais eyaleti
-Brazil Rio de Janeiro-->Brezilya Rio de Janeiro
-Brazil Rio de Janeiro Centro-->Brezilya Rio de Janeiro Merkezi
-Brazil Rio de Janeiro Copacabana-->Brezilya Rio de Janeiro Copacabana
-Brazil Sao Paulo-->Brezilya São Paulo
+Bolivia-->Bolivya?*?Bolivya
+Bolivia Cochabamba-->Bolivya Cochabamba?*?Bolivya
+Bonaire-->Bonaire?*?Bonaire
+Boston-->ABD Boston?*?ABD
+Brazil Brasília-->Brezilya Brasília?*?Brezilya
+Brazil Minas Gerais state-->Brezilya Minas Gerais eyaleti?*?Brezilya
+Brazil Rio de Janeiro-->Brezilya Rio de Janeiro?*?Brezilya
+Brazil Rio de Janeiro Centro-->Brezilya Rio de Janeiro Merkezi?*?Brezilya
+Brazil Rio de Janeiro Copacabana-->Brezilya Rio de Janeiro Copacabana?*?Brezilya
+Brazil Sao Paulo-->Brezilya São Paulo?*?Brezilya
 British Isles-->Britanya Adaları
-Brunei-->Brunei
-Budapest-->Budapeşte
-Bumdeling Wildlife Sanctuary-->Bhutan Bumdeling Doğal Hayatı Koruma Alanı
-Bumthang Bhutan-->Bhutan Bumthang
-Burma Homalin Township-->Myanmar Homalin nahiyesi
-Burma Mergui Archipelago-->Myanmar Mergui takımadaları
-Burma Northern Sagaing Region-->Myanmar Northern Sagaing Bölgesi
-Burma Sagaing-->Myanmar Sagaing
-Cambodia-->Kamboçya
-CanadaGeo-->KanadaGeo###############################################################3
-Canada Baffin Island-->Kanada Baffin Adası
-Canada British Columbia-->Kanada Britanya Kolumbiyası
-Canada British Columbia (no subdivisions)-->Kanada Britanya Kolumbiyası (önizlemesiz)
-Canada Calgary-->Kanada Calgary
-Canada Central Quebec-->Kanada Merkez Quebec
-Canada Eastern Quebec-->Kanada Doğu Quebec 
-Canada Edmonton-->Kanada Edmonton
-Canada Greater Montreal-->Kanada Montreal büyükşehri
-Canada Lac-Saint-Jean Quebec-->Kanada Lac-Saint-Jean Quebec
-Canada Lethbridge-->Kanada Lethbridge
-Canada Manitoba-->Kanada Manitoba
-Canada Montreal-->Kanada Montreal
-Canada New Brunswick-->Kanada New Brunswick
-Canada Newfoundland-->Kanada Newfoundland
-Canada Newfoundland and Labrador-->Kanada Newfoundland ve Labrador
-Canada Northwest Territories-->Kanada Kuzeybatı Toprakları
-Canada Nova Scotia-->Kanada Yeni İskoçya
-Canada Nunavut-->Kanada Nunavut
-Canada Ontario Quebec-->Kanada Ontario Quebec
-Canada Ottawa-->Kanada Ottawa
-Canada PEI-->Kanada PEA
-Canada Prince Edward Island-->Kanada Prens Edward Adası
-Canada Quebec-->Kanada Québec
-Canada Quebec (conic)-->Kanada Quebec (konik)
-Canada Quebec City-->Kanada Quebec şehri
-Canada Saskatchewan-->Kanada Saskatchewan
-Canada Southern Ontario-->Kanada Güney Ontario
-Canada Southern Quebec-->Kanada Güney Quebec
-Canada Toronto-->Kanada Toronto
-Canada Vancouver-->Kanada Vancouver
-Canada Vancouver City-->Kanada Vancouver şehri
-Canada Vancouver Downtown-->Kanada Vancouver şehir merkezi
-Canada Vancouver Richmond-->Kanada Vancouver Richmond
-Canada Western Quebec-->Kanada Western Quebec
-Canada Winnipeg-->Kanada Winnipeg
-Canada Yukon-->Kanada Yukon
+Brunei-->Brunei?*?Brunei
+Budapest-->Macaristan Budapeşte?*?Budapeşte
+Bumdeling Wildlife Sanctuary-->Bhutan Bumdeling Doğal Hayatı Koruma Alanı?*?Bhutan
+Bumthang Bhutan-->Bhutan Bumthang?*?Bhutan
+Burma Homalin Township-->Myanmar Homalin nahiyesi?*?Myanmar
+Burma Mergui Archipelago-->Myanmar Mergui takımadaları?*?Myanmar
+Burma Northern Sagaing Region-->Myanmar Northern Sagaing Bölgesi?*?Myanmar
+Burma Sagaing-->Myanmar Sagaing?*?Myanmar
+Cambodia-->Kamboçya?*?Kamboçya
+CanadaGeo-->KanadaGeo?*?Kanada
+Canada Baffin Island-->Kanada Baffin Adası?*?Kanada
+Canada British Columbia-->Kanada Britanya Kolumbiyası?*?Kanada
+Canada British Columbia (no subdivisions)-->Kanada Britanya Kolumbiyası (önizlemesiz)?*?Kanada
+Canada Calgary-->Kanada Calgary?*?Kanada
+Canada Central Quebec-->Kanada Merkez Quebec?*?Kanada
+Canada Eastern Quebec-->Kanada Doğu Quebec ?*?Kanada
+Canada Edmonton-->Kanada Edmonton?*?Kanada
+Canada Greater Montreal-->Kanada Montreal büyükşehri?*?Kanada
+Canada Lac-Saint-Jean Quebec-->Kanada Lac-Saint-Jean Quebec?*?Kanada
+Canada Lethbridge-->Kanada Lethbridge?*?Kanada
+Canada Manitoba-->Kanada Manitoba?*?Kanada
+Canada Montreal-->Kanada Montreal?*?Kanada
+Canada New Brunswick-->Kanada New Brunswick?*?Kanada
+Canada Newfoundland-->Kanada Newfoundland?*?Kanada
+Canada Newfoundland and Labrador-->Kanada Newfoundland ve Labrador?*?Kanada
+Canada Northwest Territories-->Kanada Kuzeybatı Toprakları?*?Kanada
+Canada Nova Scotia-->Kanada Yeni İskoçya?*?Kanada
+Canada Nunavut-->Kanada Nunavut?*?Kanada
+Canada Ontario Quebec-->Kanada Ontario Quebec?*?Kanada
+Canada Ottawa-->Kanada Ottawa?*?Kanada
+Canada PEI-->Kanada PEA?*?Kanada
+Canada Prince Edward Island-->Kanada Prens Edward Adası?*?Kanada
+Canada Quebec-->Kanada Québec?*?Kanada
+Canada Quebec (conic)-->Kanada Quebec (konik)?*?Kanada
+Canada Quebec City-->Kanada Quebec şehri?*?Kanada
+Canada Saskatchewan-->Kanada Saskatchewan?*?Kanada
+Canada Southern Ontario-->Kanada Güney Ontario?*?Kanada
+Canada Southern Quebec-->Kanada Güney Quebec?*?Kanada
+Canada Toronto-->Kanada Toronto?*?Kanada
+Canada Vancouver-->Kanada Vancouver?*?Kanada
+Canada Vancouver City-->Kanada Vancouver şehri?*?Kanada
+Canada Vancouver Downtown-->Kanada Vancouver şehir merkezi?*?Kanada
+Canada Vancouver Richmond-->Kanada Vancouver Richmond?*?Kanada
+Canada Western Quebec-->Kanada Western Quebec?*?Kanada
+Canada Winnipeg-->Kanada Winnipeg?*?Kanada
+Canada Yukon-->Kanada Yukon?*?Kanada
 Caribbean-->Karayipler
 Carpathian Mountains-->Karpatlar
 Caspian Sea-->Hazar Denizi
 Caucasus-->Kafkaslar
 Central America-->Orta Amerika
 Central Europe-->Orta Avrupa
-Central Serbia relief-->Orta Sırbıstan relief
-Chaco Province-->Arjantin Chaco eyaleti
-Chad-->Çad
-Chile Los Lagos-->Şili Los Lagos
-Chiloé-->Şili Chiloé
-China (equirectangular)-->Çin (equirectangular)
-China Chongqing-->Çin Çongçing
-China Fujian-->Çin Fujian
-China Guangdong-->Çin Guangdong
-China Guangxi-->Çin Guangxi
-China Hainan-->Çin Hainan
-China Hebei-->Çin Hebei
-China Heilongjiang-->Çin Heilongjiang
-China Henan-->Çin Henan
-China Hubei-->Çin Hubei
-China Inner Mongolia-->Çin İç Moğolistan
-China Jilin-->Çin Jilin
-China Liaoning-->Çin Liaoning
-China Macau-->Çin Makao
-China Northern Plain-->Kuzey Çin Ovası
-China Qingdao-->Çin Qingdao
-China Qinghai-->Çin Çinghay
-China Ronggui-->Çin Ronggui
-China Shandong-->Çin Şantung
-China Shanghai-->Çin Şanghay
-China Shanxi-->Çin Şansi
-China Sichuan-->Çin Siçuan
-China Tibet-->Çin Tibet
-China Xinjiang-->Çin Sincan Uygur Özerk Bölgesi
-China Yunnan-->Çin Yünnan
-Chongqing-->Chongqing
-Chubut-->Arjantin Chubut eyaleti
-Chukha Bhutan-->Bhutan Chukha
+Central Serbia relief-->Orta Sırbıstan relief?*?Sırbıstan
+Chaco Province-->Arjantin Chaco eyaleti?*?Arjantin
+Chad-->Çad?*?Çad
+Chile Los Lagos-->Şili Los Lagos?*?Şili
+Chiloé-->Şili Chiloé?*?Şili
+China (equirectangular)-->Çin (equirectangular)?*?Çin
+China Chongqing-->Çin Çongçing?*?Çin
+China Fujian-->Çin Fujian?*?Çin
+China Guangdong-->Çin Guangdong?*?Çin
+China Guangxi-->Çin Guangxi?*?Çin
+China Hainan-->Çin Hainan?*?Çin
+China Hebei-->Çin Hebei?*?Çin
+China Heilongjiang-->Çin Heilongjiang?*?Çin
+China Henan-->Çin Henan?*?Çin
+China Hubei-->Çin Hubei?*?Çin
+China Inner Mongolia-->Çin İç Moğolistan?*?Çin
+China Jilin-->Çin Jilin?*?Çin
+China Liaoning-->Çin Liaoning?*?Çin
+China Macau-->Çin Makao?*?Çin
+China Northern Plain-->Kuzey Çin Ovası?*?Çin
+China Qingdao-->Çin Qingdao?*?Çin
+China Qinghai-->Çin Çinghay?*?Çin
+China Ronggui-->Çin Ronggui?*?Çin
+China Shandong-->Çin Şantung?*?Çin
+China Shanghai-->Çin Şanghay?*?Çin
+China Shanxi-->Çin Şansi?*?Çin
+China Sichuan-->Çin Siçuan?*?Çin
+China Tibet-->Çin Tibet?*?Çin
+China Xinjiang-->Çin Sincan Uygur Özerk Bölgesi?*?Çin
+China Yunnan-->Çin Yünnan?*?Çin
+Chubut-->Arjantin Chubut eyaleti?*?Arjantin
+Chukha Bhutan-->Bhutan Chukha?*?Bhutan
 Cocos Islands-->Cocos Adaları
-Cold War Germany-->Soğuk Savaş Almanya
+Cold War Germany-->Soğuk Savaş Almanya?*?Almanya
 Commonwealth of Nations-->İngiliz Milletler Topluluğu
-Comoros-->Komorlar
-Comoros Grand Comore-->Komorlar Grabd Comore
-Cooper, Texas-->ABD Teksas Cooper
-Costa Rica-->Kosta Rika
-Croatia Central Dalmatia-->Hırvatistan Orta Dalmaçya
-Croatia Krapina-Zagorje County-->Hırvatistan Krapina-Zagorje
-Croatia Krk-->Hırvatistan Krk
-Croatia Northern Dalmatia-->Hırvatistan Kuzey Dalmaçya
-Croatia Osijek-Baranja County-->Hırvatistan Osijek-Baranya
-Croatia Split-Dalmatia County-->Hırvatistan Split-Dalmaçya
-Croatia Vukovar-Syrmia County-->Hırvatistan Vukovar-Syrmia
-Croatia Zadar County-->Hırvatistan Zadar Bölgesi
-Cuba1-->Küba1
+Comoros-->Komorlar?*?Komorlar
+Comoros Grand Comore-->Komorlar Grabd Comore?*?Komorlar
+Cooper, Texas-->ABD Teksas Cooper?*?ABD
+Costa Rica-->Kosta Rika?*?Kosta Rika
+Croatia Central Dalmatia-->Hırvatistan Orta Dalmaçya?*?Hırvatistan
+Croatia Krapina-Zagorje County-->Hırvatistan Krapina-Zagorje?*?Hırvatistan
+Croatia Krk-->Hırvatistan Krk?*?Hırvatistan
+Croatia Northern Dalmatia-->Hırvatistan Kuzey Dalmaçya?*?Hırvatistan
+Croatia Osijek-Baranja County-->Hırvatistan Osijek-Baranya?*?Hırvatistan
+Croatia Split-Dalmatia County-->Hırvatistan Split-Dalmaçya?*?Hırvatistan
+Croatia Vukovar-Syrmia County-->Hırvatistan Vukovar-Syrmia?*?Hırvatistan
+Croatia Zadar County-->Hırvatistan Zadar Bölgesi?*?Hırvatistan
+Cuba1-->Küba1?*?Küba
 Curacao-->Curaçao
-Czech Republic Central Bohemia-->Çek Cumhuriyeti Orta Bohemya
-Czech Republic Greater Prague-->Çek Cumhuriyeti Prag büyükşehri
-Czech Republic Plzen-->Çek Cumhuriyeti Plzeň
-Czech Republic Usti nad Labem-->Çek Cumhuriyeti Ústí nad Labem
-Côte-Nord Region Quebec-->Kanada Côte-Nord Bölgesi Quebec
-Dagana Bhutan-->Bhutan Dagana
-Delta County, Texas-->ABD Texas Delta County
-Denmark Bornholm-->Danimarka Bornholm
-Denmark Copenhagen-->Danimarka Kopenhag
-Denmark Falster-->Danimarka Falster
-Denmark Faroe Islands-->Danimarka Faroe Adaları
-Denmark Funen-->Danimarka Fyn
-Denmark Hadsund-->Danimarka Hadsund
-Denmark Helnæs-->Danimarka Helnæs
-Denmark Lolland-->Danimarka Lolland
-Denmark Møn-->Danimarka Møn
-Denmark Zealand-->Danimarka Sjælland
+Czech Republic Central Bohemia-->Çek Cumhuriyeti Orta Bohemya?*?Çek Cumhuriyeti
+Czech Republic Greater Prague-->Çek Cumhuriyeti Greater Prag?*?Çek Cumhuriyeti
+Czech Republic Plzen-->Çek Cumhuriyeti Plzeň?*?Çek Cumhuriyeti
+Czech Republic Usti nad Labem-->Çek Cumhuriyeti Ústí nad Labem?*?Çek Cumhuriyeti
+Côte-Nord Region Quebec-->Kanada Côte-Nord Bölgesi Quebec?*?Çek Cumhuriyeti
+Dagana Bhutan-->Bhutan Dagana?*?Bhutan
+Delta County, Texas-->ABD Texas Delta County?*?ABD
+Denmark Bornholm-->Danimarka Bornholm?*?Danimarka
+Denmark Copenhagen-->Danimarka Kopenhag?*?Danimarka
+Denmark Falster-->Danimarka Falster?*?Danimarka
+Denmark Faroe Islands-->Danimarka Faroe Adaları?*?Danimarka
+Denmark Funen-->Danimarka Fyn?*?Danimarka
+Denmark Hadsund-->Danimarka Hadsund?*?Danimarka
+Denmark Helnæs-->Danimarka Helnæs?*?Danimarka
+Denmark Lolland-->Danimarka Lolland?*?Danimarka
+Denmark Møn-->Danimarka Møn?*?Danimarka
+Denmark Zealand-->Danimarka Sjælland?*?Danimarka
 Dinaric Alps-->Dinar Alpleri
-Djibouti-->Cibuti
-Dubai-->Dubai
-East Germany-->Doğu Almanya
-East Jerusalem-->Doğu Kudüs
-East Timor-->Doğu Timor
-Ecuador Galápagos Islands-->Ekvador Galapagos Adaları
-Ecuador Guayaguil-->Ekvador Guayaquil
-Ecuador Quito central-->Ekvador Quito merkezi
-Egypt Sinai-->Mısır Sina
-England south-->Birleşik Krallık Güney İngiltere
-England southeast-->Güneydoğu İngiltere
-Equatorial Guinea Bioko-->Ekvator Ginesi Bioko
-Equatorial Guinea mainland-->Ekvator Ginesi anakara
-Eritrea-->Eritre
-Estonia Harju County-->Estonya Harju ili
-Estonia Lääne County-->Estonya Lääne ili
-Estonia Pärnu County-->Estonya Pärnu ili
-Estonia Saare County-->Estonya Saare ili
-Estonia Tallinn-->Estonya Tallinn
-Estonia Valga County-->Estonya Valga ili
-Estonia Viljandi County-->Estonya Viljandi ili
-Estonia Võru County-->Estonya Võru ili
-Ethiopia-->Etiyopya
-Ethiopia Afar Region-->Etiyopya Afar Bölgesi
-Ethiopia Tigray Region-->Etiyopya Tigray Bölgesi
+Djibouti-->Cibuti?*?Cibuti
+Dubai-->Dubai?*?Birleşik Arap Emirlikleri
+East Germany-->Doğu Almanya?*?Almanya
+East Jerusalem-->Doğu Kudüs?*?Filistin?İsrail
+East Timor-->Doğu Timor?*?Doğu Timor
+Ecuador Galápagos Islands-->Ekvador Galapagos Adaları?*?Ekvador
+Ecuador Guayaguil-->Ekvador Guayaquil?*?Ekvador
+Ecuador Quito central-->Ekvador Quito merkezi?*?Ekvador
+Egypt Sinai-->Mısır Sina?*?Mısır
+England south-->Birleşik Krallık Güney İngiltere?*?Birleşik Krallık?İngiltere
+England southeast-->Birleşik Krallık Güneydoğu İngiltere?*?Birleşik Krallık?İngiltere
+Equatorial Guinea Bioko-->Ekvator Ginesi Bioko?*?Ekvator Ginesi
+Equatorial Guinea mainland-->Ekvator Ginesi anakara?*?Ekvator Ginesi
+Eritrea-->Eritre?*?Eritre
+Estonia Harju County-->Estonya Harju ili?*?Estonya
+Estonia Lääne County-->Estonya Lääne ili?*?Estonya
+Estonia Pärnu County-->Estonya Pärnu ili?*?Estonya
+Estonia Saare County-->Estonya Saare ili?*?Estonya
+Estonia Tallinn-->Estonya Tallinn?*?Estonya
+Estonia Valga County-->Estonya Valga ili?*?Estonya
+Estonia Viljandi County-->Estonya Viljandi ili?*?Estonya
+Estonia Võru County-->Estonya Võru ili?*?Estonya
+Ethiopia-->Etiyopya?*?Etiyopya
+Ethiopia Afar Region-->Etiyopya Afar Bölgesi?*?Etiyopya
+Ethiopia Tigray Region-->Etiyopya Tigray Bölgesi?*?Etiyopya
 European Parliament constituencies 2007-->Avrupa Parlamentosu seçim bölgesi 2007
-European Russia-->Avrupa Rusya
-European USSR-->Avrupa SSCB
+European Russia-->Avrupa Rusya?*?Rusya
+European USSR-->Avrupa SSCB?*?Rusya
 European Union-->Avrupa Birliği
-FRG and West Berlin-->Batı Almanya ve Batı Berlin
-Federated States of Micronesia-->Mikronezya Federal Devletleri
-Fiji-->Fiji
-Finland Åland-->Finlandiya Åland
-Finland Åland Islands-->Finlandiya Åland Adaları
-France Ain-->Fransa Ain###################
-France Aisne-->Fransa Aisne
-France Allier-->Fransa Allier
-France Alpes-de-Haute-Provence-->Fransa Alpes-de-Haute-Provence
-France Alsace-->Fransa Alsas
-France Angers-->Fransa Angers
-France Aquitaine-->Fransa Akitanya
-France Auvergne-->Fransa Auvergne
-France Basse-Normandie-->Fransa Aşağı Normandiya
-France Bordeaux-->Fransa Bordeaux
-France Bourgogne-->Fransa Burgonya
-France Brest-->Fransa Brest
-France Bretagne-->Fransa Bretonya
-France Burgundy-->Fransa Burgonya
-France Caen-->Fransa Caen
-France Centre-->Fransa Merkez
-France Champagne-Ardenne-->Fransa Champagne-Ardenne
-France Charente-->Fransa Charente
-France Charente-Maritime-->Fransa Charente-Maritime
-France Corsica-->Fransa Korsika
-France Côtes-d'Armor-->Fransa Côtes-d'Armor
-France Finistère-->Fransa Finistère
-France Franche-Comté-->Fransa Franche-Comté
-France Haute-Garonne-->Fransa Haute-Garonne
-France Haute-Normandie-->Fransa Yukarı Normandiya
-France Hautes-Alpes-->Fransa Hautes-Alpes
-France Ille-et-Vilaine-->Fransa Ille-et-Vilaine
-France Kerguelen-->Fransa Kerguelen Adaları
-France Landes-->Fransa Landes
-France Languedoc-Roussillon-->Fransa Languedoc-Roussillon
-France Le Havre-->Fransa Le Havre
-France Le Mans-->Fransa Le Mans
-France Lille-->Fransa Lille
-France Limousin-->Fransa Limousin
-France Loire-Atlantique-->Fransa Loire-Atlantique
-France Lorient-->Fransa Lorient
-France Lorraine-->Fransa Lorraine
-France Mayotte-->Fransa Mayotte
-France Midi-Pyrénées-->Fransa Midi-Pyrénées
-France Montpellier-->Fransa Montpellier
-France Morbihan-->Fransa Morbihan
-France Nantes-->Fransa Nantes
-France Nice-->Fransa Nice
-France Nord-Pas-de-Calais-->Fransa Nord-Pas-de-Calais
-France Orléans-->Fransa Orléans
-France Paris 1st arrondissement-->Fransa Paris 1. idare bölgesi
-France Pas-de-Calais-->Fransa Pas-de-Calais
-France Pays de la Loire-->Fransa Pays de la Loire
-France Picardie-->Fransa Picardie
-France Poitiers-->Fransa Poitiers
-France Poitou-Charentes-->Fransa Poitou-Charentes
-France Provence-Alpes-Côte d'Azur-->Fransa Provence-Alpes-Côte d'Azur
-France Quimper-->Fransa Quimper
-France Reims-->Fransa Reims
-France Rennes-->Fransa Rennes
-France Rhône-Alpes-->Fransa Rhône-Alpes
-France Rouen-->Fransa Rouen
-France Saint-Brieuc-->Fransa Saint-Brieuc
-France Saint-Malo-->Fransa Saint-Malo
-France Saint-Nazaire-->Fransa Saint-Nazaire
-France Savoie-->Fransa Savoie
-France Strasbourg-->Fransa Strazburg
-France Toulouse-->Fransa Toulouse
-France Tours-->Fransa Tours
-France Vannes-->Fransa Vannes
-France Vaucluse-->Fransa Vaucluse
-France Vienne-->Fransa Vienne
-France Île-de-France-->Fransa Île-de-France
-French Guiana-->Fransız Guyanası
-French Polynesia-->Fransız Polinezyası
-Fuerteventura-->Fuerteventura
-Fukuoka city-->Japonya Fukuoka şehri
-Futuna-->Fransa Wallis ve Futuna Adaları
+FRG and West Berlin-->Batı Almanya ve Batı Berlin?*?Almanya
+Federated States of Micronesia-->Mikronezya Federal Devletleri?*?Mikronezya Federal Devletleri
+Fiji-->Fiji?*?Birleşik Krallık
+Finland Åland-->Finlandiya Åland?*?Finlandiya
+Finland Åland Islands-->Finlandiya Åland Adaları?*?Finlandiya
+France Ain-->Fransa Ain?*?Fransa
+France Aisne-->Fransa Aisne?*?Fransa
+France Allier-->Fransa Allier?*?Fransa
+France Alpes-de-Haute-Provence-->Fransa Alpes-de-Haute-Provence?*?Fransa
+France Alsace-->Fransa Alsas?*?Fransa
+France Angers-->Fransa Angers?*?Fransa
+France Aquitaine-->Fransa Akitanya?*?Fransa
+France Auvergne-->Fransa Auvergne?*?Fransa
+France Basse-Normandie-->Fransa Aşağı Normandiya?*?Fransa
+France Bordeaux-->Fransa Bordeaux?*?Fransa
+France Bourgogne-->Fransa Burgonya?*?Fransa
+France Brest-->Fransa Brest?*?Fransa
+France Bretagne-->Fransa Bretonya?*?Fransa
+France Burgundy-->Fransa Burgonya?*?Fransa
+France Caen-->Fransa Caen?*?Fransa
+France Centre-->Fransa Merkez?*?Fransa
+France Champagne-Ardenne-->Fransa Champagne-Ardenne?*?Fransa
+France Charente-->Fransa Charente?*?Fransa
+France Charente-Maritime-->Fransa Charente-Maritime?*?Fransa
+France Corsica-->Fransa Korsika?*?Fransa
+France Côtes-d'Armor-->Fransa Côtes-d'Armor?*?Fransa
+France Finistère-->Fransa Finistère?*?Fransa
+France Franche-Comté-->Fransa Franche-Comté?*?Fransa
+France Haute-Garonne-->Fransa Haute-Garonne?*?Fransa
+France Haute-Normandie-->Fransa Yukarı Normandiya?*?Fransa
+France Hautes-Alpes-->Fransa Hautes-Alpes?*?Fransa
+France Ille-et-Vilaine-->Fransa Ille-et-Vilaine?*?Fransa
+France Kerguelen-->Fransa Kerguelen Adaları?*?Fransa
+France Landes-->Fransa Landes?*?Fransa
+France Languedoc-Roussillon-->Fransa Languedoc-Roussillon?*?Fransa
+France Le Havre-->Fransa Le Havre?*?Fransa
+France Le Mans-->Fransa Le Mans?*?Fransa
+France Lille-->Fransa Lille?*?Fransa
+France Limousin-->Fransa Limousin?*?Fransa
+France Loire-Atlantique-->Fransa Loire-Atlantique?*?Fransa
+France Lorient-->Fransa Lorient?*?Fransa
+France Lorraine-->Fransa Lorraine?*?Fransa
+France Mayotte-->Fransa Mayotte?*?Fransa
+France Midi-Pyrénées-->Fransa Midi-Pyrénées?*?Fransa
+France Montpellier-->Fransa Montpellier?*?Fransa
+France Morbihan-->Fransa Morbihan?*?Fransa
+France Nantes-->Fransa Nantes?*?Fransa
+France Nice-->Fransa Nice?*?Fransa
+France Nord-Pas-de-Calais-->Fransa Nord-Pas-de-Calais?*?Fransa
+France Orléans-->Fransa Orléans?*?Fransa
+France Paris 1st arrondissement-->Fransa Paris 1. idare bölgesi?*?Fransa
+France Pas-de-Calais-->Fransa Pas-de-Calais?*?Fransa
+France Pays de la Loire-->Fransa Pays de la Loire?*?Fransa
+France Picardie-->Fransa Picardie?*?Fransa
+France Poitiers-->Fransa Poitiers?*?Fransa
+France Poitou-Charentes-->Fransa Poitou-Charentes?*?Fransa
+France Provence-Alpes-Côte d'Azur-->Fransa Provence-Alpes-Côte d'Azur?*?Fransa
+France Quimper-->Fransa Quimper?*?Fransa
+France Reims-->Fransa Reims?*?Fransa
+France Rennes-->Fransa Rennes?*?Fransa
+France Rhône-Alpes-->Fransa Rhône-Alpes?*?Fransa
+France Rouen-->Fransa Rouen?*?Fransa
+France Saint-Brieuc-->Fransa Saint-Brieuc?*?Fransa
+France Saint-Malo-->Fransa Saint-Malo?*?Fransa
+France Saint-Nazaire-->Fransa Saint-Nazaire?*?Fransa
+France Savoie-->Fransa Savoie?*?Fransa
+France Strasbourg-->Fransa Strazburg?*?Fransa
+France Toulouse-->Fransa Toulouse?*?Fransa
+France Tours-->Fransa Tours?*?Fransa
+France Vannes-->Fransa Vannes?*?Fransa
+France Vaucluse-->Fransa Vaucluse?*?Fransa
+France Vienne-->Fransa Vienne?*?Fransa
+France Île-de-France-->Fransa Île-de-France?*?Fransa
+French Guiana-->Fransız Guyanası?*?Fransa
+French Polynesia-->Fransız Polinezyası?*?Fransa
+Fuerteventura-->Fuerteventura?*?Kanarya Adaları
+Fukuoka city-->Japonya Fukuoka şehri?*?Japonya
+Futuna-->Fransa Wallis ve Futuna Adaları?*?Fransa
 Făgăraş Mountains-->Făgăraş Dağları
-GDR-->Doğu Almanya
-Gasa Bhutan-->Bhutan Gasa
-Georgia Abkhazia-->Gürcistan Abhazya
-Georgia Adjara-->Gürcistan Acara Özerk Cumhuriyeti
-Georgia Guria-->Gürcistan Guria
-Georgia Kazbegi District-->Gürcistan Kazbegi bölgesi
-Georgia Samegrelo-Zemo Svaneti-->Gürcistan Samegrelo-Zemo Svaneti
-Germany 1937-->Almanya 1937
-Germany Austria Switzerland-->Almanya Avusturya İsviçre
-Germany Baden-Württemberg-->Almanya Baden-Württemberg
-Germany Bavaria-->Almanya Bavyera
-Germany Berlin-->Almanya Berlin
-Germany Berlin central-->Almanya Berlin'nin merkezi
-Germany Brandenburg-->Almanya Brandenburg
-Germany Bremen-->Almanya Bremen
-Germany Frankfurt am Main-->Almanya Frankfurt am Main
-Germany Hamburg-->Almanya Hamburg
-Germany Hessen-->Almanya Hessen
-Germany Lower Saxony-->Almanya Aşağı Saksonya
-Germany Mecklenburg-Vorpommern-->Almanya Mecklenburg-Vorpommern
-Germany Nordrhein-Westfalen-->Almanya Kuzey Ren-Vestfalya
-Germany Rheinland-Pfalz-->Almanya Renanya-Palatina
-Germany Rhineland-Palatinate-->Almanya Rheinland-Pfalz
-Germany Saarland-->Almanya Saarland
-Germany Sachsen-->Almanya Saksonya
-Germany Sachsen-Anhalt-->Almanya Saksonya-Anhalt
-Germany Saxony-Anhalt-->Almanya Saksonya Anhalt
-Germany Schleswig-Holstein-->Almanya Schleswig-Holstein
-Germany Thuringia-->Almanya Türingiya
-Germany Thüringen-->Almanya Thüringen
-Gibraltar-->Cebelitarık
-Golan-->Golan
+GDR-->Doğu Almanya?*?Almanya
+Gasa Bhutan-->Bhutan Gasa?*?Bhutan
+Georgia Abkhazia-->Gürcistan Abhazya?*?Gürcistan
+Georgia Adjara-->Gürcistan Acara Özerk Cumhuriyeti?*?Gürcistan
+Georgia Guria-->Gürcistan Guria?*?Gürcistan
+Georgia Kazbegi District-->Gürcistan Kazbegi bölgesi?*?Gürcistan
+Georgia Samegrelo-Zemo Svaneti-->Gürcistan Samegrelo-Zemo Svaneti?*?Gürcistan
+Germany 1937-->Almanya 1937?*?Almanya
+Germany Austria Switzerland-->Almanya Avusturya İsviçre?*?Almanya?Avusturya?İsviçre
+Germany Baden-Württemberg-->Almanya Baden-Württemberg?*?Almanya
+Germany Bavaria-->Almanya Bavyera?*?Almanya
+Germany Berlin-->Almanya Berlin?*?Almanya
+Germany Berlin central-->Almanya Berlin'nin merkezi?*?Almanya
+Germany Brandenburg-->Almanya Brandenburg?*?Almanya
+Germany Bremen-->Almanya Bremen?*?Almanya
+Germany Frankfurt am Main-->Almanya Frankfurt am Main?*?Almanya
+Germany Hamburg-->Almanya Hamburg?*?Almanya
+Germany Hessen-->Almanya Hessen?*?Almanya
+Germany Lower Saxony-->Almanya Aşağı Saksonya?*?Almanya
+Germany Mecklenburg-Vorpommern-->Almanya Mecklenburg-Vorpommern?*?Almanya
+Germany Nordrhein-Westfalen-->Almanya Kuzey Ren-Vestfalya?*?Almanya
+Germany Rheinland-Pfalz-->Almanya Renanya-Palatina?*?Almanya
+Germany Rhineland-Palatinate-->Almanya Rheinland-Pfalz?*?Almanya
+Germany Saarland-->Almanya Saarland?*?Almanya
+Germany Sachsen-->Almanya Saksonya?*?Almanya
+Germany Sachsen-Anhalt-->Almanya Saksonya-Anhalt?*?Almanya
+Germany Saxony-Anhalt-->Almanya Saksonya Anhalt?*?Almanya
+Germany Schleswig-Holstein-->Almanya Schleswig-Holstein?*?Almanya
+Germany Thuringia-->Almanya Türingiya?*?Almanya
+Germany Thüringen-->Almanya Thüringen?*?Almanya
+Gibraltar-->Cebelitarık?*?Britanya Denizaşırı Toprakları
 Golan Heights-->Golan Tepeleri
 Great Lakes-->Büyük Göller
-Greece Athens central-->Yunanistan Atina merkezi
-Greece Dimos Edessas-->Yunanistan Dimos Edessas
-Greece Dimos Skydras-->Yunanistan Dimos Skydras
-Greece Peloponnese-->Yunanistan Mora Yarımadası
-Greenland Disko Bay-->Grönland Disko Bay
-Greenland Mid East-->Grönland Mid East
-Greenland Nuuk-->Grönland Nuuk
-Greenland South-->Grönland Güney
-Greenland Thule-->Grönland Thule
-Grenada-->Grenada
-Guadeloupe-->Guadeloupe
-Guayana-->Guyana
-Guinea Conakry-->Gine Konakri
-Haa Bhutan-->Bhutan Haa
-Haiti-->Haiti
-Hermon-->Suriye ve Lübnan
+Greece Athens central-->Yunanistan Atina merkezi?*?Yunanistan
+Greece Dimos Edessas-->Yunanistan Dimos Edessas?*?Yunanistan
+Greece Dimos Skydras-->Yunanistan Dimos Skydras?*?Yunanistan
+Greece Peloponnese-->Yunanistan Mora Yarımadası?*?Yunanistan
+Greenland Disko Bay-->Grönland Disko Bay?*?Grönland
+Greenland Mid East-->Grönland Mid East?*?Grönland
+Greenland Nuuk-->Grönland Nuuk?*?Grönland
+Greenland South-->Grönland Güney?*?Grönland
+Greenland Thule-->Grönland Thule?*?Grönland
+Grenada-->Grenada?*?Grenada
+Guadeloupe-->Guadeloupe?*?Fransa
+Guayana-->Guyana?*?Guyana
+Guinea Conakry-->Gine Konakri?*?Gine
+Haa Bhutan-->Bhutan Haa?*?Bhutan
+Haiti-->Haiti?*?Haiti
+Hermon-->Suriye ve Lübnan?*?Suriye?Lübnan
 High Tatras-->High Tatras
-Honduras-->Honduras
-Hong Kong-->Çin Hong Kong
-Hong Kong Island-->Çin Hong Kong Adası
-Hong Kong MTR-->Çin Hong Kong MTR
-Hungary Bekes-->Macaristan Békés
-Hungary Heves-->Macaristan Heves
-Hungary Jasz-Nagykun-Szolnok-->Macaristan Jasz-Nagykun-Szolnok
-Hungary Pest-->Macaristan Pest
+Honduras-->Honduras?*?Honduras
+Hong Kong-->Çin Hong Kong?*?Çin
+Hong Kong Island-->Çin Hong Kong Adası?*?Çin
+Hong Kong MTR-->Çin Hong Kong MTR?*?Çin
+Hungary Bekes-->Macaristan Békés?*?Macaristan
+Hungary Heves-->Macaristan Heves?*?Macaristan
+Hungary Jasz-Nagykun-Szolnok-->Macaristan Jasz-Nagykun-Szolnok?*?Macaristan
+Hungary Pest-->Macaristan Pest?*?Macaristan
 Iberia-->İber Yarımadası
 Iberia relief-->İber Yarımadası relief
-India Andaman and Nicobar Islands-->Hindistan Andaman ve Nikobar Adaları
-India Andhra Pradesh-->Hindistan Andhra Pradeş
-India Arunachal Pradesh-->Hindistan Arunaçhal Pradeş
-India Assam-->Hindistan Assam
-India Bangalore-->Hindistan Bangalore
-India Bhopal-->Hindistan Bhopal
-India Bihar-->Hindistan Bihar
-India Chandigarh-->Hindistan Çhandigarh
-India Chattisgarh-->Hindistan Chhattisgarh
-India Chennai-->Hindistan Chennai
-India Dadra and Nagar Haveli-->Hindistan Dadra ve Nagar Haveli
-India Delhi central-->Hindistan Delhi'nin merkezi
-India Goa-->Hindistan Goa
-India Gujarat-->Hindistan Gucerat
-India Haryana-->Hindistan Haryana
-India Himachal Pradesh-->Hindistan Himaçhal Pradeş
-India Jammu and Kashmir-->Hindistan Cemmu ve Keşmir
-India Jharkhand-->Hindistan Jharkhand
-India Karnataka-->Hindistan Karnataka
-India Kerala-->Hindistan Kerala
-India Kochi-->Hindistan Kochi
-India Lakshadweep-->Hindistan Lakşadvip Adaları
-India Madhya Pradesh-->Hindistan Madhya Pradeş
-India Maharashtra-->Hindistan Maharaştra
-India Manipur-->Hindistan Manipur
-India Meghalaya-->Hindistan Meghalaya
-India Mizoram-->Hindistan Mizoram
-India Mumbai-->Hindistan Mumbai
-India Nagaland-->Hindistan Nagaland
-India Nagpur-->Hindistan Nagpur
-India Orissa-->Hindistan Orissa
-India Patna-->Hindistan Patna
-India Pondicherry-->Hindistan Puduçeri
-India Punjab-->Hindistan Pencap
-India Rajasthan-->Hindistan Racastan
-India Sikkim-->Hindistan Sikkim
-India Tamil Nadu-->Hindistan Tamil Nadu
-India Tiruchirapalli-->Hindistan Tiruchirapalli
-India Tripura-->Hindistan Tripura
-India Uttar Pradesh-->Hindistan Uttar Pradeş
-India Uttarakhand-->Hindistan Uttarakhand
-India West Bengal-->Hindistan Batı Bengal
+India Andaman and Nicobar Islands-->Hindistan Andaman ve Nikobar Adaları?*?Hindistan
+India Andhra Pradesh-->Hindistan Andhra Pradeş?*?Hindistan
+India Arunachal Pradesh-->Hindistan Arunaçhal Pradeş?*?Hindistan
+India Assam-->Hindistan Assam?*?Hindistan
+India Bangalore-->Hindistan Bangalore?*?Hindistan
+India Bhopal-->Hindistan Bhopal?*?Hindistan
+India Bihar-->Hindistan Bihar?*?Hindistan
+India Chandigarh-->Hindistan Çhandigarh?*?Hindistan
+India Chattisgarh-->Hindistan Chhattisgarh?*?Hindistan
+India Chennai-->Hindistan Chennai?*?Hindistan
+India Dadra and Nagar Haveli-->Hindistan Dadra ve Nagar Haveli?*?Hindistan
+India Delhi central-->Hindistan Delhi'nin merkezi?*?Hindistan
+India Goa-->Hindistan Goa?*?Hindistan
+India Gujarat-->Hindistan Gucerat?*?Hindistan
+India Haryana-->Hindistan Haryana?*?Hindistan
+India Himachal Pradesh-->Hindistan Himaçhal Pradeş?*?Hindistan
+India Jammu and Kashmir-->Hindistan Cemmu ve Keşmir?*?Hindistan
+India Jharkhand-->Hindistan Jharkhand?*?Hindistan
+India Karnataka-->Hindistan Karnataka?*?Hindistan
+India Kerala-->Hindistan Kerala?*?Hindistan
+India Kochi-->Hindistan Kochi?*?Hindistan
+India Lakshadweep-->Hindistan Lakşadvip Adaları?*?Hindistan
+India Madhya Pradesh-->Hindistan Madhya Pradeş?*?Hindistan
+India Maharashtra-->Hindistan Maharaştra?*?Hindistan
+India Manipur-->Hindistan Manipur?*?Hindistan
+India Meghalaya-->Hindistan Meghalaya?*?Hindistan
+India Mizoram-->Hindistan Mizoram?*?Hindistan
+India Mumbai-->Hindistan Mumbai?*?Hindistan
+India Nagaland-->Hindistan Nagaland?*?Hindistan
+India Nagpur-->Hindistan Nagpur?*?Hindistan
+India Orissa-->Hindistan Orissa?*?Hindistan
+India Patna-->Hindistan Patna?*?Hindistan
+India Pondicherry-->Hindistan Puduçeri?*?Hindistan
+India Punjab-->Hindistan Pencap?*?Hindistan
+India Rajasthan-->Hindistan Racastan?*?Hindistan
+India Sikkim-->Hindistan Sikkim?*?Hindistan
+India Tamil Nadu-->Hindistan Tamil Nadu?*?Hindistan
+India Tiruchirapalli-->Hindistan Tiruchirapalli?*?Hindistan
+India Tripura-->Hindistan Tripura?*?Hindistan
+India Uttar Pradesh-->Hindistan Uttar Pradeş?*?Hindistan
+India Uttarakhand-->Hindistan Uttarakhand?*?Hindistan
+India West Bengal-->Hindistan Batı Bengal?*?Hindistan
 Indian Ocean-->Hint Okyanusu
-Indonesia (provinces)-->Endonezya (illeri)
-Indonesia Aceh-->Endonezya Açe
-Indonesia Bintan-->Endonezya Bintan
-Indonesia Bird's Head Peninsula-->Endonezya Kuş Kafası Yarımadası
-Indonesia Halmahera-->Endonezya Halmahera
-Indonesia Jakarta-->Endonezya Cakarta
-Indonesia Java-->Endonezya Cava Adası
-Indonesia Kalimantan-->Endonezya Kalimantan
-Indonesia Sumatra North-->Endonezya Kuzey Sumatra
-Indonesia Sumatra South-->Endonezya Güney Sumatra
-Indonesia Sumba-->Endonezya Sumba
-Indonesia Timor-->Endonezya Timor
-Indonesia West Papua-->Endonezya Batı Papua
-Ipswich-->Birleşik Krallık Ipswich
-Iran Isfahan-->İran İsfahan
-Iran Tehran-->İran Tahran
-Iraq Arbil-->Irak Erbil
-Iraq Baghdad-->Irak Bağdat
-Iraq Mosul-->Irak Musul
-Iraq Sulaymaniyah-->Irak Süleymaniye
-Ireland Central Dublin-->İrlanda Dublin'in merkezi
+Indonesia (provinces)-->Endonezya (illeri)?*?Endonezya
+Indonesia Aceh-->Endonezya Açe?*?Endonezya
+Indonesia Bintan-->Endonezya Bintan?*?Endonezya
+Indonesia Bird's Head Peninsula-->Endonezya Kuş Kafası Yarımadası?*?Endonezya
+Indonesia Halmahera-->Endonezya Halmahera?*?Endonezya
+Indonesia Jakarta-->Endonezya Cakarta?*?Endonezya
+Indonesia Java-->Endonezya Cava Adası?*?Endonezya
+Indonesia Kalimantan-->Endonezya Kalimantan?*?Endonezya
+Indonesia Sumatra North-->Endonezya Kuzey Sumatra?*?Endonezya
+Indonesia Sumatra South-->Endonezya Güney Sumatra?*?Endonezya
+Indonesia Sumba-->Endonezya Sumba?*?Endonezya
+Indonesia Timor-->Endonezya Timor?*?Endonezya
+Indonesia West Papua-->Endonezya Batı Papua?*?Endonezya
+Ipswich-->Birleşik Krallık Ipswich?*?Birleşik Krallık?İngiltere
+Iran Isfahan-->İran İsfahan?*?İran
+Iran Tehran-->İran Tahran?*?İran
+Iraq Arbil-->Irak Erbil?*?İran
+Iraq Baghdad-->Irak Bağdat?*?Irak
+Iraq Mosul-->Irak Musul?*?Irak
+Iraq Sulaymaniyah-->Irak Süleymaniye?*?Irak
+Ireland Central Dublin-->İrlanda Orta Dublin?*?İrlanda
 Island of Ireland-->İrlanda Adası
 Isle of Man-->Man Adası
-Israel Golan-->İsrail Golan
-Israel Golan Heights-->İsrail Golan Tepeleri
-Israel ashkelon-->İsrail Aşkelon
-Israel binyamin-->İsrail Binyamin
-Italia Sardegna-->İtalya Sardinya
-Italia Sicilia-->İtalya Sicilya
-Italy Calabria-->İtalya Calabria
-Italy Emilia-Romagna-->Emilia-Romagna
-Italy Milan-->İtalya Milano
-Italy Milan Central-->İtalya Milano'nun merkezi
-Italy North-->İtalya Kuzey
-Italy Piemont-->İtalya Piyemonte
-Italy Rome-->İtalya Roma
-Italy Rome Antiquity-->İtalya Roma (antik)
-Italy South Tyrol-->İtalya Güney Tirol
-Italy Tuscany-->İtalya Toskana
-Italy Umbria-->İtalya Umbria
-Ivory Coast-->Fildişi Sahili
-Jamaica-->Jamaika
-Japan Ryukyu Islands-->Japonya Ryukyu Adaları
-Jerusalem-->Kudüs
-Jigme Dorji National Park-->Bhutan Jigme Dorji Milli Parkı
-Jigme Singye Wangchuck National Park-->Bhutan Jigme Singye Wangchuck Milli Parkı
+Israel Golan-->İsrail Golan?*?İsrail
+Israel Golan Heights-->İsrail Golan Tepeleri?*?İsrail
+Israel ashkelon-->İsrail Aşkelon?*?İsrail
+Israel binyamin-->İsrail Binyamin?*?İsrail
+Italia Sardegna-->İtalya Sardinya?*?İtalya
+Italia Sicilia-->İtalya Sicilya?*?İtalya
+Italy Calabria-->İtalya Calabria?*?İtalya
+Italy Emilia-Romagna-->İtalya Emilia-Romagna?*?İtalya
+Italy Milan-->İtalya Milano?*?İtalya
+Italy Milan Central-->İtalya Orta Milano?*?İtalya
+Italy North-->İtalya Kuzey?*?İtalya
+Italy Piemont-->İtalya Piyemonte?*?İtalya
+Italy Rome-->İtalya Roma?*?İtalya
+Italy Rome Antiquity-->İtalya Roma (antik)?*?İtalya
+Italy South Tyrol-->İtalya Güney Tirol?*?İtalya
+Italy Tuscany-->İtalya Toskana?*?İtalya
+Italy Umbria-->İtalya Umbria?*?İtalya
+Ivory Coast-->Fildişi Sahili?*?Fildişi Sahili
+Jamaica-->Jamaika?*?Jamaika
+Japan Ryukyu Islands-->Japonya Ryukyu Adaları?*?Japonya
+Jerusalem-->Kudüs?*?Filistin?İsrail
+Jigme Dorji National Park-->Bhutan Jigme Dorji Milli Parkı?*?Bhutan
+Jigme Singye Wangchuck National Park-->Bhutan Jigme Singye Wangchuck Milli Parkı?*?Bhutan
 Karakoram-->Karakurum Dağları
-Khaling Wildlife Sanctuary-->Bhutan Khaling Doğal Hayatı Koruma Alanı
-Kingdom of Hungary-->Macaristan Krallığı
-Kingdom of the East Angles-->Doğu Anglia Krallığı
-Kiribati-->Kiribati
-Kyoto city-->Japonya Kyoto
-Lancaster-->İngiltere Lancaster
-Latvia Daugavpils-->Letonya Daugavpils
-Latvia Daugavpils Municipality-->Letonya Daugavpils Belediyesi
-Latvia Riga-->Letonya Riga
-Lebanon Beirut-->Lübnan Beyrut
-Lesotho-->Lesotho
-Lesser Antilles-->Küçük Antiller
-Lhuntse Bhutan-->Bhutan Lhuntse
-Libya Benghazi-->Libya Bingazi
-Libya Tripoli-->Libya Trablus
-Libya Tripoli Old City-->Libya Trablus Old City
-Lower Egypt-->Aşağı Mısır
-Madagascar-->Madagaskar
-Malaysia Borneo-->Malezya Borneo
-Malaysia East-->Malezya Doğu
-Malaysia Kuala Lumpur-->Malezya Kuala Lumpur
-Malaysia Kuala Lumpur central-->Malezya Kuala Lumpur'un merkezi
-Malaysia peninsula-->Malezya yarımadası
-Malaysia West-->Malezya Batı
-Maldives Haa Alif-->Maldivler Haa Alif
-Mali-->Mali##########################################
-Manchester Metrolink-->İngiltere Manchester metro hatları
-Mandatory Palestine-->Birleşik Krallık Filistin Mandası
-Marshall islands-->Marshall Adaları
-Martinique-->Fransa Martinique
-Mauritania-->Moritanya
+Khaling Wildlife Sanctuary-->Bhutan Khaling Doğal Hayatı Koruma Alanı?*?Bhutan
+Kingdom of Hungary-->Macaristan Krallığı?*?Macaristan
+Kingdom of the East Angles-->Doğu Anglia Krallığı?*?İngiltere
+Kiribati-->Kiribati?*?Kiribati
+Kyoto city-->Japonya Kyoto?*?Japonya
+Lancaster-->İngiltere Lancaster?*?İngiltere?Birleşik Krallık
+Latvia Daugavpils-->Letonya Daugavpils?*?Letonya
+Latvia Daugavpils Municipality-->Letonya Daugavpils Belediyesi?*?Letonya
+Latvia Riga-->Letonya Riga?*?Letonya
+Lebanon Beirut-->Lübnan Beyrut?*?Lübnan
+Lesotho-->Lesotho?*?Lesotho
+Lesser Antilles-->Küçük Antiller?*?Küçük Antiller
+Lhuntse Bhutan-->Bhutan Lhuntse?*?Bhutan
+Libya Benghazi-->Libya Bingazi?*?Libya
+Libya Tripoli-->Libya Trablus?*?Libya
+Libya Tripoli Old City-->Libya Trablus Old City?*?Libya
+Lower Egypt-->Aşağı Mısır?*?Mısır
+Madagascar-->Madagaskar?*?Madagascar
+Malaysia Borneo-->Malezya Borneo?*?Malezya
+Malaysia East-->Malezya Doğu?*?Malezya
+Malaysia Kuala Lumpur-->Malezya Kuala Lumpur?*?Malezya
+Malaysia Kuala Lumpur central-->Malezya Kuala Lumpur'un merkezi?*?Malezya
+Malaysia peninsula-->Malezya yarımadası?*?Malezya
+Malaysia West-->Malezya Batı?*?
+Maldives Haa Alif-->Maldivler Haa Alif?*?Maldivler
+Mali-->Mali?*?Mali
+Manchester Metrolink-->İngiltere Manchester metro hatları?*?İngiltere?Birleşik Krallık
+Mandatory Palestine-->Birleşik Krallık Filistin Mandası?*?Birleşik Krallık
+Marshall islands-->Marshall Adaları?*?Marshall Adaları
+Martinique-->Martinique?*?Fransa
+Mauritania-->Moritanya?*?Moritanya
 Mediterranean-->Akdeniz
 Mesoamerica-->Mezoamerika
 Mesopotamia-->Mezopotamya
 Mesopotamia2-->Mezopotamya2
-Metro Manila-->Filipinler Metro Manila
-Mexico Baja California Sur-->Meksika Güney Aşağı Kaliforniya
-Mexico Campeche-->Meksika Campeche
-Mexico Colima-->Meksika Colima
-Mexico Cozumel-->Meksika Cozumel
-Mexico Federal District-->Meksika Federal Bölge
-Mexico Mexico City-->Meksika Meksiko
-Mexico Oaxaca-->Meksika Oaxaca
-Mexico Quintana Roo-->Meksika Quintana Roo
-Mexico State of Mexico-->Meksika Meksika
-Mexico Tabasco-->Meksika Tabasco
-Mexico Tijuana-->Meksika Tijuana
-Mexico Tijuana Centro-->Meksika Tijuana'nın merkezi
-Mexico Yucatan-->Meksika Yucatán
+Metro Manila-->Filipinler Metro Manila?*?Filipinler
+Mexico Baja California Sur-->Meksika Güney Aşağı Kaliforniya?*?Meksika
+Mexico Campeche-->Meksika Campeche?*?Meksika
+Mexico Colima-->Meksika Colima?*?Meksika
+Mexico Cozumel-->Meksika Cozumel?*?Meksika
+Mexico Federal District-->Meksika Federal Bölge?*?Meksika
+Mexico Mexico City-->Meksika Meksiko?*?Meksika
+Mexico Oaxaca-->Meksika Oaxaca?*?Meksika
+Mexico Quintana Roo-->Meksika Quintana Roo?*?Meksika
+Mexico State of Mexico-->Meksika Meksika?*?Meksika
+Mexico Tabasco-->Meksika Tabasco?*?Meksika
+Mexico Tijuana-->Meksika Tijuana?*?Meksika
+Mexico Tijuana Centro-->Meksika Tijuana'nın merkezi?*?Meksika
+Mexico Yucatan-->Meksika Yucatán?*?Meksika
 Middle East-->Orta Doğu
 Middle East2-->Orta Doğu2
-Moldova Transnistria-->Moldova Transdinyester
-Mombasa-->Kenya Mombasa
-Monaco-->Monako
-Mongar Bhutan-->Bhutan Mongar
-Mongolia-->Moğolistan
+Moldova Transnistria-->Moldova Transdinyester?*?Moldova
+Mombasa-->Kenya Mombasa?*?Kenya
+Monaco-->Monako?*?Monako
+Mongar Bhutan-->Bhutan Mongar?*?Bhutan
+Mongolia-->Moğolistan?*?Moğolistan
 Moon-->Ay
-Morocco Greater Casablanca-->Fas Grand Casablanca
-Morocco Northern Morocco-->Fas Kuzey Fas
-NDH-->Hırvatistan Bağımsız Devleti
-NDH (east)-->Hırvatistan Bağımsız Devleti (doğu)
-NDH 41 (east)-->Hırvatistan Bağımsız Devleti 41 (doğu)
-NDH 43 (east)-->Hırvatistan Bağımsız Devleti 43 (doğu)
-NKR-->DKC
-Nagorno-Karabakh Republic-->Dağlık Karabağ Cumhuriyeti
-Nahariya-->Batı Celile
-Nairobi-->Kenya Nairobi
-National parks of South Korea-->Güney Kore'deki milli parklar
-Nauru-->Nauru
-Netherlands ABC islands-->Hollanda ABC adaları
-Netherlands Amsterdam-->Hollanda Amsterdam
-Netherlands Amsterdam Central-->Hollanda Amsterdam'ın merkezi
-Netherlands Amsterdam Greater-->Hollanda Amsterdam büyükşehri
-Netherlands Amsterdam metro station-->Hollanda Amsterdam metro istasyonları
-Netherlands Antilles-->Hollanda Antiller
-Netherlands Drenthe-->Hollanda Drenthe
-Netherlands Dutch railway station-->Hollanda Flemenkçe tren istasyonları
-Netherlands Groningen-->Hollanda Groningen
-Netherlands Haarlem-->Hollanda Haarlem
-Netherlands North Brabant-->Hollanda Kuzey Brabant
-Netherlands RandstadRail station-->Hollanda hafif raylı istasyonları
-Netherlands Rotterdam-->Hollanda Rotterdam
-New Caledonia-->Fransa Yeni Kaledonya
-New York Staten Island-->ABD New York Staten Island
-New Zealand Auckland-->Yeni Zelanda Auckland
-New Zealand Christchurch-->Yeni Zelanda Christchurch
-New Zealand Christchurch street-->Yeni Zelanda Christchurch cadde
-New Zealand Invercargill street-->Yeni Zelanda Invercargill cadde
-New Zealand Marlborough-->Yeni Zelanda Marlborough
-New Zealand North Island-->Yeni Zelanda Kuzey Adası
-New Zealand Northland-->Yeni Zelanda Northland
-New Zealand South Island-->Yeni Zelanda Güney Adası
-New Zealand Taranaki-->Yeni Zelanda Taranaki
-New Zealand Wellington-->Yeni Zelanda Wellington
-New Zealand West Coast-->Yeni Zelanda West Coast
-New Zealand transparent-->Yeni Zelanda transparent
-Nicaragua-->Nikaragua
-Nigeria Lagos-->Nijerya Lagos
-Niue-->Yeni Zelanda Niue
-Nordenskiöld Archipelago-->Nordenskiöld Takımadaları
+Morocco Greater Casablanca-->Fas Grand Casablanca?*?Fas
+Morocco Northern Morocco-->Fas Kuzey Fas?*?Fas
+NDH-->Hırvatistan Bağımsız Devleti?*?Hırvatistan
+NDH (east)-->Hırvatistan Bağımsız Devleti (doğu)?*?Hırvatistan
+NDH 41 (east)-->Hırvatistan Bağımsız Devleti 41 (doğu)?*?Hırvatistan
+NDH 43 (east)-->Hırvatistan Bağımsız Devleti 43 (doğu)?*?Hırvatistan
+Nagorno-Karabakh Republic-->Dağlık Karabağ Cumhuriyeti?*?Dağlık Karabağ
+Nairobi-->Kenya Nairobi?*?Kenya
+National parks of South Korea-->Güney Kore'deki milli parklar?*?Güney Kore
+Nauru-->Nauru?*?Nauru
+Netherlands ABC islands-->Hollanda ABC adaları?*?Hollanda
+Netherlands Amsterdam-->Hollanda Amsterdam?*?Hollanda
+Netherlands Amsterdam Central-->Hollanda Orta Amsterdam?*?Hollanda
+Netherlands Amsterdam Greater-->Hollanda Greater Amsterdam?*?Hollanda
+Netherlands Amsterdam metro station-->Hollanda Amsterdam metro istasyonları?*?Hollanda
+Netherlands Antilles-->Hollanda Antiller?*?Hollanda
+Netherlands Drenthe-->Hollanda Drenthe?*?Hollanda
+Netherlands Dutch railway station-->Hollanda Flemenkçe tren istasyonları?*?Hollanda
+Netherlands Groningen-->Hollanda Groningen?*?Hollanda
+Netherlands Haarlem-->Hollanda Haarlem?*?Hollanda
+Netherlands North Brabant-->Hollanda Kuzey Brabant?*?Hollanda
+Netherlands RandstadRail station-->Hollanda hafif raylı istasyonları?*?Hollanda
+Netherlands Rotterdam-->Hollanda Rotterdam?*?Hollanda
+New Caledonia-->Yeni Kaledonya?*?Yeni Kaledonya
+New York Staten Island-->ABD New York Staten Island?*?ABD
+New Zealand Auckland-->Yeni Zelanda Auckland?*?Yeni Zelanda
+New Zealand Christchurch-->Yeni Zelanda Christchurch?*?Yeni Zelanda
+New Zealand Christchurch street-->Yeni Zelanda Christchurch cadde?*?Yeni Zelanda
+New Zealand Invercargill street-->Yeni Zelanda Invercargill cadde?*?Yeni Zelanda
+New Zealand Marlborough-->Yeni Zelanda Marlborough?*?Yeni Zelanda
+New Zealand North Island-->Yeni Zelanda Kuzey Adası?*?Yeni Zelanda
+New Zealand Northland-->Yeni Zelanda Northland?*?Yeni Zelanda
+New Zealand South Island-->Yeni Zelanda Güney Adası?*?Yeni Zelanda
+New Zealand Taranaki-->Yeni Zelanda Taranaki?*?Yeni Zelanda
+New Zealand Wellington-->Yeni Zelanda Wellington?*?Yeni Zelanda
+New Zealand West Coast-->Yeni Zelanda West Coast?*?Yeni Zelanda
+New Zealand transparent-->Yeni Zelanda transparent?*?Yeni Zelanda
+Nicaragua-->Nikaragua?*?Nikaragua
+Nigeria Lagos-->Nijerya Lagos?*?Nijerya
+Niue-->Yeni Zelanda Niue?*?Yeni Zelanda
+Nordenskiöld Archipelago-->Nordenskiöld Takımadaları?*?Rusya
 North America-->Kuzey Amerika
 North Atlantic-->Kuzey Atlas
 North Pacific-->Kuzey Pasifik
 North Sea-->Kuzey Denizi
-North West England-->Birleşik Krallık Kuzey-Batı İngiltere
+North West England-->Birleşik Krallık Kuzey-Batı İngiltere?*?Birleşik Krallık?İngiltere
 Northern Central America-->Kuzey Orta Amerika
-Northern England-->Birleşik Krallık Kuzey İngiltere
-Norway Akershus-->Norveç Akershus
-Norway Aust-Agder-->Norveç Aust-Agder
-Norway Buskerud-->Norveç Buskerud
-Norway Finnmark-->Norveç Finnmark
-Norway Hedmark-->Norveç Hedmark
-Norway Hordaland-->Norveç Hordaland
-Norway Møre og Romsdal-->Norveç Møre og Romsdal
-Norway Nord-Trøndelag-->Norway Nord-Trøndelag
-Norway Nordland-->Norveç Nordland
-Norway North-->Norveç Kuzey
-Norway Oppland-->Norveç Oppland
-Norway Oslo-->Norveç Oslo
-Norway Oslo Central-->Norveç Oslo'nun merkezi
-Norway Rogaland-->Norveç Rogaland
-Norway Sogn og Fjordane-->Norveç Sogn og Fjordane
-Norway Sør-Trøndelag-->Norveç Sør-Trøndelag
-Norway Telemark-->Norveç Telemark
-Norway Troms-->Norveç Troms
-Norway Vest-Agder-->Norveç Vest-Agder
-Norway Vestfold-->Norveç Vestfold
-Norway Østfold-->Norveç Østfold
-Occupied Yugoslavia-->İşgal edilmiş Yugoslavya
+Northern England-->Birleşik Krallık Kuzey İngiltere?*?Birleşik Krallık?İngiltere
+Norway Akershus-->Norveç Akershus?*?Norveç
+Norway Aust-Agder-->Norveç Aust-Agder?*?Norveç
+Norway Buskerud-->Norveç Buskerud?*?Norveç
+Norway Finnmark-->Norveç Finnmark?*?Norveç
+Norway Hedmark-->Norveç Hedmark?*?Norveç
+Norway Hordaland-->Norveç Hordaland?*?Norveç
+Norway Møre og Romsdal-->Norveç Møre og Romsdal?*?Norveç
+Norway Nord-Trøndelag-->Norway Nord-Trøndelag?*?Norveç
+Norway Nordland-->Norveç Nordland?*?Norveç
+Norway North-->Norveç Kuzey?*?Norveç
+Norway Oppland-->Norveç Oppland?*?Norveç
+Norway Oslo-->Norveç Oslo?*?Norveç
+Norway Oslo Central-->Norveç Orta Oslo?*?Norveç
+Norway Rogaland-->Norveç Rogaland?*?Norveç
+Norway Sogn og Fjordane-->Norveç Sogn og Fjordane?*?Norveç
+Norway Sør-Trøndelag-->Norveç Sør-Trøndelag?*?Norveç
+Norway Telemark-->Norveç Telemark?*?Norveç
+Norway Troms-->Norveç Troms?*?Norveç
+Norway Vest-Agder-->Norveç Vest-Agder?*?Norveç
+Norway Vestfold-->Norveç Vestfold?*?Norveç
+Norway Østfold-->Norveç Østfold?*?Norveç
+Occupied Yugoslavia-->İşgal edilmiş Yugoslavya?*?Yugoslavya
 Oceania-->Okyanusya
-Old Jerusalem-->Eski Kudüs
+Old Jerusalem-->Eski Kudüs?*?İsrail?Filistin
 Pacific Ocean-->Büyük Okyanus
-Pakistan Karachi-->Pakistan Karaçi
-Pakistan Lahore-->Pakistan Lahor
-Pakistan Sindh-->Pakistan Sind
-Palau-->Palau
-Palestine Gaza-->Filistin Gazze
+Pakistan Karachi-->Pakistan Karaçi?*?Pakistan
+Pakistan Lahore-->Pakistan Lahor?*?Pakistan
+Pakistan Sindh-->Pakistan Sind?*?Pakistan
+Palau-->Palau?*?Palau
+Palestine Gaza-->Filistin Gazze?*?Filistin
 Pannonian Basin-->Panoniyen Havzası
-Papua New Guinea-->Papua Yeni Gine
-Papua New Guinea Bougainville Island-->Papua Yeni Gine Bougainville
-Papua New Guinea East New Britain-->Papua Yeni Gine Doğu Yeni Britanya
-Papua New Guinea Gulf Province-->Papua Yeni Gine Gulf eyaleti
-Papua New Guinea New Britain and Ireland-->Papua Yeni Gine Yeni Britanya and Yeni İrlanda
-Papua New Guinea New Ireland-->Papua Yeni Gine Yeni İrlanda
-Papua New Guinea Sandaun Province-->Papua Yeni Gine Sandaun eyaleti
-Papua New Guinea West New Britain-->Papua Yeni Gine Batı Yeni Britanya
-Paraguay-->Paraguay
-Paro Bhutan-->Bhutan Paro
-Pemagatshel Bhutan-->Bhutan Pemagatshel
+Papua New Guinea-->Papua Yeni Gine?*?Papua Yeni Gine
+Papua New Guinea Bougainville Island-->Papua Yeni Gine Bougainville?*?Papua Yeni Gine
+Papua New Guinea East New Britain-->Papua Yeni Gine Doğu Yeni Britanya?*?Papua Yeni Gine
+Papua New Guinea Gulf Province-->Papua Yeni Gine Gulf eyaleti?*?Papua Yeni Gine
+Papua New Guinea New Britain and Ireland-->Papua Yeni Gine Yeni Britanya and Yeni İrlanda?*?Papua Yeni Gine
+Papua New Guinea New Ireland-->Papua Yeni Gine Yeni İrlanda?*?Papua Yeni Gine
+Papua New Guinea Sandaun Province-->Papua Yeni Gine Sandaun eyaleti?*?Papua Yeni Gine
+Papua New Guinea West New Britain-->Papua Yeni Gine Batı Yeni Britanya?*?Papua Yeni Gine
+Paraguay-->Paraguay?*?Paraguay
+Paro Bhutan-->Bhutan Paro?*?Bhutan
+Pemagatshel Bhutan-->Bhutan Pemagatshel?*?Bhutan
 Persian Gulf-->Basra Körfezi
-Peru Lima-->Peru Lima
-Phibsoo Wildlife Sanctuary-->Bhutan Phibsoo Doğal Hayatı Koruma Alanı
-Philadelphia-->ABD Philadelphia
-Pittsburgh-->ABD Pittsburgh
-Pittsburgh central-->ABD Pittsburgh'un merkezi
-Poland 1939-->Polonya 1939
-Portugal Azores Terceira-->Portekiz Azorlar Terceira
-Portugal Madeira-->Portekiz Madeira
-Portugal Madeira Island-->Portekiz Madeira Adaları
-Principe-->São Tomé ve Príncipe Príncipe Adası
-Punakha Bhutan-->Bhutan Punakha
+Peru Lima-->Peru Lima?*?Peru
+Phibsoo Wildlife Sanctuary-->Bhutan Phibsoo Doğal Hayatı Koruma Alanı?*?Bhutan
+Philadelphia-->ABD Philadelphia?*?ABD
+Pittsburgh-->ABD Pittsburgh?*?ABD
+Pittsburgh central-->ABD Orta Pittsburgh?*?ABD
+Poland 1939-->Polonya 1939?*?Polonya
+Portugal Azores Terceira-->Portekiz Azorlar Terceira?*?Portekiz
+Portugal Madeira-->Portekiz Madeira?*?Portekiz
+Portugal Madeira Island-->Portekiz Madeira Adaları?*?Portekiz
+Principe-->São Tomé ve Príncipe Príncipe Adası?*?São Tomé ve Príncipe
+Punakha Bhutan-->Bhutan Punakha?*?Bhutan
 Pyrenees-->Pireneler
-Reunion-->Fransa Réunion
+Reunion-->Réunion?*?Fransa
 Rift Valley-Western-->Rift Vadisi-Batı
-Royal Manas National Park-->Bhutan Royal Manas Milli Parkı
-Russia (equirectangular)-->Rusya (equirectangular)
-Russia Adygea-->Rusya Adıge Cumhuriyeti
-Russia Altai Krai-->Rusya Altay Krayı
-Russia Altai Republic-->Rusya Altay Cumhuriyeti
-Russia Amur Oblast-->Rusya Amur Oblastı
-Russia Arkhangelsk Oblast-->Rusya Arhangelsk Oblastı
-Russia Arkhangelsk Oblast 2-->Rusya Arhangelsk Oblastı 2
-Russia Astrakhan Oblast-->Rusya Astrakhan Oblast
-Russia Bashkortostan-->Rusya Başkurdistan
-Russia Belgorod Oblast-->Rusya Belgorod Oblastı
-Russia Bryansk Oblast-->Rusya Bryansk Oblastı
-Russia Buryatia-->Rusya Buryatya
-Russia Central Federal District-->Rusya Merkez Federal Bölgesi
-Russia Chechnya-->Rusya Çeçenistan
-Russia Chelyabinsk Oblast-->Rusya Çelyabinsk Oblastı
-Russia Chukotka Autonomous Okrug-->Rusya Çukotka Özerk Okrugu
-Russia Chuvash Republic-->Rusya Çuvaş Cumhuriyeti
-Russia Chuvashia-->Rusya Çuvaşistan
-Russia Far Eastern Federal District-->Rusya Uzak Doğu Federal Bölgesi
-Russia Ingushetia-->Rusya İnguşetya
-Russia Irkutsk Oblast-->Rusya İrkutsk Oblastı
-Russia Ivanovo Oblast-->Rusya İvanovo Oblastı
-Russia Jewish Autonomous Oblast-->Rusya Yahudi Özerk Oblastı
-Russia Kabardino-Balkar Republic-->Rusya Kabardino-Balkarya
-Russia Kaliningrad Oblast-->Rusya Kaliningrad Oblastı
-Russia Kalmykia-->Rusya Kalmukya
-Russia Kaluga Oblast-->Rusya Kaluga Oblastı
-Russia Kamchatka Krai-->Rusya Kamçatka Krayı
-Russia Karachay-Cherkess Republic-->Rusya Karaçay-Çerkes Cumhuriyeti
-Russia Karachay-Cherkessia-->Rusya Karaçay-Çerkes
-Russia Karelia-->Rusya Karelya
-Russia Kemerovo Oblast-->Rusya Kemerovo Oblast
-Russia Khabarovsk Krai-->Rusya Khabarovsk Krai
-Russia Khakassia-->Rusya Hakasya
-Russia Khanty–Mansi Autonomous Okrug-->Rusya Hantı-Mansi Özerk Okrugu
-Russia Kirov Oblast-->Rusya Kirov Oblastı
-Russia Komi Republic-->Rusya Komi Cumhuriyeti
-Russia Kostroma Oblast-->Rusya Kostroma Oblastı
-Russia Krasnoyarsk Krai-->Rusya Krasnodar Krayı
-Russia Kurgan Oblast-->Rusya Kurgan Oblastı
-Russia Kuril Islands-->Rusya Kuril Adaları
-Russia Kursk Oblast-->Rusya Kursk Oblastı
-Russia Leningrad Oblast-->Rusya Leningrad Oblastı
-Russia Lipetsk Oblast-->Rusya Lipetsk Oblastı
-Russia Magadan Oblast-->Rusya Magadan Oblastı
-Russia Mari El-->Rusya Mari El
-Russia Mordovia-->Rusya Mordovya
-Russia Moscow-->Rusya Moskova
-Russia Moscow Central-->Rusya Moskova'nın merkezi
-Russia Moscow MKAD-->Rusya Moskova Çevre Yolu
-Russia Moscow Oblast-->Rusya Moskova Oblastı
-Russia Moscow Oblast Kolomna Rayon-->Rusya Moskova Oblastı Kolomna Rayon
-Russia Murmansk Oblast-->Rusya Murmansk Oblastı
-Russia Nenets Autonomous Okrug-->Rusya Nenets Özerk Okrugu
-Russia Nizhny Novgorod Oblast-->Rusya Nijniy Novgorod Oblastı
-Russia North Ossetia-Alania-->Rusya Kuzey Osetya-Alanya
-Russia Northwestern Federal District-->Rusya Kuzeybatı Federal Bölgesi
-Russia Novaya Zemlya-->Rusya Novaya Zemlya
-Russia Novgorod Oblast-->Rusya Novgorod Oblastı
-Russia Novosibirsk Oblast-->Rusya Novosibirsk Oblastı
-Russia Omsk Oblast-->Rusya Omsk Oblastı
-Russia Orenburg Oblast-->Rusya Orenburg Oblastı
-Russia Oryol Oblast-->Rusya Oryol Oblastı
-Russia Penza Oblast-->Rusya Penza Oblastı
-Russia Perm Krai-->Rusya Perm Krayı
-Russia Primorsky Krai-->Rusya Primorskiy Krayı
-Russia Pskov Oblast-->Rusya Pskov Oblastı
-Russia Republic of Tatarstan-->Rusya Tataristan
-Russia Rostov Oblast-->Rusya Rostov Oblastı
-Russia Ryazan Oblast-->Rusya Ryazan Oblastı
-Russia Saint Petersburg-->Rusya Sankt Peterburg
-Russia Saint Petersburg central-->Rusya Sankt Peterburg'un merkezi
-Russia Sakhalin-->Rusya Sahalin
-Russia Sakhalin Oblast-->Rusya Sahalin Oblastı
-Russia Samara Oblast-->Rusya Samara Oblastı
-Russia Saratov Oblast-->Rusya Saratov Oblastı
-Russia Shantar Islands-->Rusya Shantar Adaları
-Russia Smolensk Oblast-->Rusya Smolensk Oblastı
-Russia Southern Federal District-->Rusya Güney Federal Bölgesi
-Russia Stavropol Krai-->Rusya Stavropol Krayı
-Russia Sverdlovsk Oblast-->Rusya Sverdlovsk Oblastı
-Russia Tambov Oblast-->Rusya Tambov Oblastı
-Russia Tomsk Oblast-->Rusya Tomsk Oblastı
-Russia Tula Oblast-->Rusya Tula Oblastı
-Russia Tuva Republic-->Rusya Tuva Cumhuriyeti
-Russia Tver Oblast-->Rusya Tver Oblastı
-Russia Tyumen Oblast-->Rusya Tümen Oblastı
-Russia Udmurtia-->Rusya Udmurtya
-Russia Ulyanovsk Oblast-->Rusya Ulyanovsk Oblastı
-Russia Vladimir Oblast-->Rusya Vladimir Oblastı
-Russia Volga Federal District-->Rusya Volga Federal Bölgesi
-Russia Volgograd Oblast-->Rusya Volgograd Oblastı
-Russia Vologda Oblast-->Rusya Vologda Oblastı
-Russia Vologda Oblast Nyuksensky District-->Rusya Vologda Oblastı Nyuksensky Bölgesi
-Russia Voronezh-->Rusya Voronej
-Russia Voronezh Oblast-->Rusya Voronej Oblastı
-Russia Western-->Rusya Batı
-Russia Yamalo-Nenets Autonomous Okrug-->Rusya Yamalo-Nenets Özerk Okrugu
-Russia Yaroslavl Oblast-->Rusya Yaroslavl Oblastı
-Russia Zabaykalsky Krai-->Rusya Zabaykalskiy Krayı
-Ryukyu-->Ryukyu
-Réunion-->Fransa Réunion
-Saint-Barthélemy-->Fransa Saint Barthélemy
-Saint-Martin-->Fransa Saint Martin
-Saint-Pierre-et-Miquelon-->Fransa Saint Pierre ve Miquelon
-Saint Kitts and Nevis-->Saint Kitts ve Nevis
-Saint Lucia-->Saint Lucia
-Saint Vincent and the Grenadines-->Saint Vincent ve Grenadinler
-Sakteng Wildlife Sanctuary-->Bhutan Sakteng Doğal Hayatı Koruma Alanı
-Samdrup Jongkhar Bhutan-->Bhutan Samdrup Jongkhar
-Samoa-->Samoa
-Samtse Bhutan-->Bhutan Samtse
-San Diego County, California-->ABD Kaliforniya San Diego County
-Sao Tome-->São Tomé
-Sao Tome and Principe-->São Tomé ve Príncipe
-Sardegna-->İtalya Sardinya
-Sarpang Bhutan-->Bhutan Sarpang
+Royal Manas National Park-->Bhutan Royal Manas Milli Parkı?*?Bhutan
+Russia (equirectangular)-->Rusya (equirectangular)?*?Rusya
+Russia Adygea-->Rusya Adıge Cumhuriyeti?*?Rusya
+Russia Altai Krai-->Rusya Altay Krayı?*?Rusya
+Russia Altai Republic-->Rusya Altay Cumhuriyeti?*?Rusya
+Russia Amur Oblast-->Rusya Amur Oblastı?*?Rusya
+Russia Arkhangelsk Oblast-->Rusya Arhangelsk Oblastı?*?Rusya
+Russia Arkhangelsk Oblast 2-->Rusya Arhangelsk Oblastı 2?*?Rusya
+Russia Astrakhan Oblast-->Rusya Astrakhan Oblast?*?Rusya
+Russia Bashkortostan-->Rusya Başkurdistan?*?Rusya
+Russia Belgorod Oblast-->Rusya Belgorod Oblastı?*?Rusya
+Russia Bryansk Oblast-->Rusya Bryansk Oblastı?*?Rusya
+Russia Buryatia-->Rusya Buryatya?*?Rusya
+Russia Central Federal District-->Rusya Merkez Federal Bölgesi?*?Rusya
+Russia Chechnya-->Rusya Çeçenistan?*?Rusya
+Russia Chelyabinsk Oblast-->Rusya Çelyabinsk Oblastı?*?Rusya
+Russia Chukotka Autonomous Okrug-->Rusya Çukotka Özerk Okrugu?*?Rusya
+Russia Chuvash Republic-->Rusya Çuvaş Cumhuriyeti?*?Rusya
+Russia Chuvashia-->Rusya Çuvaşistan?*?Rusya
+Russia Far Eastern Federal District-->Rusya Uzak Doğu Federal Bölgesi?*?Rusya
+Russia Ingushetia-->Rusya İnguşetya?*?Rusya
+Russia Irkutsk Oblast-->Rusya İrkutsk Oblastı?*?Rusya
+Russia Ivanovo Oblast-->Rusya İvanovo Oblastı?*?Rusya
+Russia Jewish Autonomous Oblast-->Rusya Yahudi Özerk Oblastı?*?Rusya
+Russia Kabardino-Balkar Republic-->Rusya Kabardino-Balkarya?*?Rusya
+Russia Kaliningrad Oblast-->Rusya Kaliningrad Oblastı?*?Rusya
+Russia Kalmykia-->Rusya Kalmukya?*?Rusya
+Russia Kaluga Oblast-->Rusya Kaluga Oblastı?*?Rusya
+Russia Kamchatka Krai-->Rusya Kamçatka Krayı?*?Rusya
+Russia Karachay-Cherkess Republic-->Rusya Karaçay-Çerkes Cumhuriyeti?*?Rusya
+Russia Karachay-Cherkessia-->Rusya Karaçay-Çerkes?*?Rusya
+Russia Karelia-->Rusya Karelya?*?Rusya
+Russia Kemerovo Oblast-->Rusya Kemerovo Oblast?*?Rusya
+Russia Khabarovsk Krai-->Rusya Khabarovsk Krai?*?Rusya
+Russia Khakassia-->Rusya Hakasya?*?Rusya
+Russia Khanty–Mansi Autonomous Okrug-->Rusya Hantı-Mansi Özerk Okrugu?*?Rusya
+Russia Kirov Oblast-->Rusya Kirov Oblastı?*?Rusya
+Russia Komi Republic-->Rusya Komi Cumhuriyeti?*?Rusya
+Russia Kostroma Oblast-->Rusya Kostroma Oblastı?*?Rusya
+Russia Krasnoyarsk Krai-->Rusya Krasnodar Krayı?*?Rusya
+Russia Kurgan Oblast-->Rusya Kurgan Oblastı?*?Rusya
+Russia Kuril Islands-->Rusya Kuril Adaları?*?Rusya
+Russia Kursk Oblast-->Rusya Kursk Oblastı?*?Rusya
+Russia Leningrad Oblast-->Rusya Leningrad Oblastı?*?Rusya
+Russia Lipetsk Oblast-->Rusya Lipetsk Oblastı?*?Rusya
+Russia Magadan Oblast-->Rusya Magadan Oblastı?*?Rusya
+Russia Mari El-->Rusya Mari El?*?Rusya
+Russia Mordovia-->Rusya Mordovya?*?Rusya
+Russia Moscow-->Rusya Moskova?*?Rusya
+Russia Moscow Central-->Rusya Orta Moskova?*?Rusya
+Russia Moscow MKAD-->Rusya Moskova Çevre Yolu?*?Rusya
+Russia Moscow Oblast-->Rusya Moskova Oblastı?*?Rusya
+Russia Moscow Oblast Kolomna Rayon-->Rusya Moskova Oblastı Kolomna Rayon?*?Rusya
+Russia Murmansk Oblast-->Rusya Murmansk Oblastı?*?Rusya
+Russia Nenets Autonomous Okrug-->Rusya Nenets Özerk Okrugu?*?Rusya
+Russia Nizhny Novgorod Oblast-->Rusya Nijniy Novgorod Oblastı?*?Rusya
+Russia North Ossetia-Alania-->Rusya Kuzey Osetya-Alanya?*?Rusya
+Russia Northwestern Federal District-->Rusya Kuzeybatı Federal Bölgesi?*?Rusya
+Russia Novaya Zemlya-->Rusya Novaya Zemlya?*?Rusya
+Russia Novgorod Oblast-->Rusya Novgorod Oblastı?*?Rusya
+Russia Novosibirsk Oblast-->Rusya Novosibirsk Oblastı?*?Rusya
+Russia Omsk Oblast-->Rusya Omsk Oblastı?*?Rusya
+Russia Orenburg Oblast-->Rusya Orenburg Oblastı?*?Rusya
+Russia Oryol Oblast-->Rusya Oryol Oblastı?*?Rusya
+Russia Penza Oblast-->Rusya Penza Oblastı?*?Rusya
+Russia Perm Krai-->Rusya Perm Krayı?*?Rusya
+Russia Primorsky Krai-->Rusya Primorskiy Krayı?*?Rusya
+Russia Pskov Oblast-->Rusya Pskov Oblastı?*?Rusya
+Russia Republic of Tatarstan-->Rusya Tataristan?*?Rusya
+Russia Rostov Oblast-->Rusya Rostov Oblastı?*?Rusya
+Russia Ryazan Oblast-->Rusya Ryazan Oblastı?*?Rusya
+Russia Saint Petersburg-->Rusya Sankt Peterburg?*?Rusya
+Russia Saint Petersburg central-->Rusya Orta Sankt Peterburg?*?Rusya
+Russia Sakhalin-->Rusya Sahalin?*?Rusya
+Russia Sakhalin Oblast-->Rusya Sahalin Oblastı?*?Rusya
+Russia Samara Oblast-->Rusya Samara Oblastı?*?Rusya
+Russia Saratov Oblast-->Rusya Saratov Oblastı?*?Rusya
+Russia Shantar Islands-->Rusya Shantar Adaları?*?Rusya
+Russia Smolensk Oblast-->Rusya Smolensk Oblastı?*?Rusya
+Russia Southern Federal District-->Rusya Güney Federal Bölgesi?*?Rusya
+Russia Stavropol Krai-->Rusya Stavropol Krayı?*?Rusya
+Russia Sverdlovsk Oblast-->Rusya Sverdlovsk Oblastı?*?Rusya
+Russia Tambov Oblast-->Rusya Tambov Oblastı?*?Rusya
+Russia Tomsk Oblast-->Rusya Tomsk Oblastı?*?Rusya
+Russia Tula Oblast-->Rusya Tula Oblastı?*?Rusya
+Russia Tuva Republic-->Rusya Tuva Cumhuriyeti?*?Rusya
+Russia Tver Oblast-->Rusya Tver Oblastı?*?Rusya
+Russia Tyumen Oblast-->Rusya Tümen Oblastı?*?Rusya
+Russia Udmurtia-->Rusya Udmurtya?*?Rusya
+Russia Ulyanovsk Oblast-->Rusya Ulyanovsk Oblastı?*?Rusya
+Russia Vladimir Oblast-->Rusya Vladimir Oblastı?*?Rusya
+Russia Volga Federal District-->Rusya Volga Federal Bölgesi?*?Rusya
+Russia Volgograd Oblast-->Rusya Volgograd Oblastı?*?Rusya
+Russia Vologda Oblast-->Rusya Vologda Oblastı?*?Rusya
+Russia Vologda Oblast Nyuksensky District-->Rusya Vologda Oblastı Nyuksensky Bölgesi?*?Rusya
+Russia Voronezh-->Rusya Voronej?*?Rusya
+Russia Voronezh Oblast-->Rusya Voronej Oblastı?*?Rusya
+Russia Western-->Rusya Batı?*?Rusya
+Russia Yamalo-Nenets Autonomous Okrug-->Rusya Yamalo-Nenets Özerk Okrugu?*?Rusya
+Russia Yaroslavl Oblast-->Rusya Yaroslavl Oblastı?*?Rusya
+Russia Zabaykalsky Krai-->Rusya Zabaykalskiy Krayı?*?Rusya
+Ryukyu-->Ryukyu?*?Çin
+Saint-Barthélemy-->Saint Barthélemy?*?Fransa
+Saint-Martin-->Saint Martin?*?Fransa
+Saint-Pierre-et-Miquelon-->Saint Pierre ve Miquelon?*?Fransa
+Saint Kitts and Nevis-->Saint Kitts ve Nevis?*?Saint Kitts ve Nevis
+Saint Lucia-->Saint Lucia?*?Saint Lucia
+Saint Vincent and the Grenadines-->Saint Vincent ve Grenadinler?*?Saint Vincent ve Grenadinler
+Sakteng Wildlife Sanctuary-->Bhutan Sakteng Doğal Hayatı Koruma Alanı?*?Bhutan
+Samdrup Jongkhar Bhutan-->Bhutan Samdrup Jongkhar?*?Bhutan
+Samoa-->Samoa?*?Samoa
+Samtse Bhutan-->Bhutan Samtse?*?Bhutan
+San Diego County, California-->ABD Kaliforniya San Diego County?*?ABD
+Sao Tome-->São Tomé?*?São Tomé ve Príncipe
+Sao Tome and Principe-->São Tomé ve Príncipe?*?São Tomé ve Príncipe
+Sardegna-->İtalya Sardinya?*?İtalya
+Sarpang Bhutan-->Bhutan Sarpang?*?Bhutan
 Scandinavia-->İskandinavya
-Scotland Aberdeen-->İskoçya Aberdeen
-Scotland Aberdeen Central-->İskoçya Aberdeen'in merkezi
-Scotland Aberdeenshire-->İskoçya Aberdeenshire
-Scotland Angus-->İskoçya Angus
-Scotland Argyll and Bute-->İskoçya Argyll ve Bute
-Scotland Badenoch and Strathspey-->İskoçya Badenoch ve Strathspey
-Scotland Caithness-->İskoçya Caithness
-Scotland Clackmannanshire-->İskoçya Clackmannanshire
-Scotland Dumfries and Galloway-->İskoçya Dumfries ve Galloway
-Scotland Dundee-->İskoçya Dundee
-Scotland East Ayrshire-->İskoçya Doğu Ayrshire
-Scotland East Dunbartonshire-->İskoçya Doğu Dunbartonshire
-Scotland East Lothian-->İskoçya Doğu Lothian
-Scotland East Renfrewshire-->İskoçya Doğu Renfrewshire
-Scotland Edinburgh-->İskoçya Edinburgh
-Scotland Edinburgh Central-->İskoçya Edinburgh'un merkezi
-Scotland Falkirk-->İskoçya Falkirk
-Scotland Fife-->İskoçya Fife
-Scotland Glasgow-->İskoçya Glasgow
-Scotland Glasgow Central-->İskoçya Glasgow'un merkezi
-Scotland Highland-->İskoçya Highland
-Scotland Inverclyde-->İskoçya Inverclyde
-Scotland Inverness-->İskoçya Inverness
-Scotland Isle of Skye-->İskoçya Skye
-Scotland Lochaber-->İskoçya Lochaber
-Scotland Midlothian-->İskoçya Midlothian
-Scotland Moray-->İskoçya Moray
-Scotland Nairn-->İskoçya Nairn
-Scotland North Ayrshire-->İskoçya Kuzey Ayrshire
-Scotland North Lanarkshire-->İskoçya Kuzey Lanarkshire
-Scotland Orkney-->İskoçya Orkney Adaları
-Scotland Outer Hebrides-->İskoçya Dış Hebridler
-Scotland Perth and Kinross-->İskoçya Perth ve Kinross
-Scotland Renfrewshire-->İskoçya Renfrewshire
-Scotland Ross and Cromarty-->İskoçya Ross ve Cromarty
-Scotland Scottish Borders-->İskoçya İşkoç Sınırları
-Scotland Shetland-->İskoçya Shetland
-Scotland Shetland Whalsay-->İskoçya Shetland Whalsay
-Scotland South Ayrshire-->İskoçya Güney Ayrshire
-Scotland South Lanarkshire-->İskoçya Güney Lanarkshire
-Scotland Stirling-->İskoçya Stirling
-Scotland Sutherland-->İskoçya Sutherland
-Scotland West Dunbartonshire-->İskoçya Batı Dunbartonshire
-Scotland West Lothian-->İskoçya Batı Lothian
-Singapore-->Singapur
-Sint Maarten-->Sint Maarten
-Slovenia Central-->Slovenya Merkez
-Slovenia Inner Carniola-Karst-->Slovenya İç Kranjska-Karst
-Slovenia North West-->Slovenya Kuzeybatı
-Slovenia Podravska-->Slovenya Podravska
-Slovenia Pomurska-->Slovenya Pomurje
-Slovenia South East-->Slovenya Güneydoğu
-Slovenia South West-->Slovenya Güneybatı
-Solapur District-->Hindistan Maharaştra Solapur Bölgesi
-Solomon Islands-->Solomon Adaları
-Solomon Islands Guadalcanal-->Solomon Adaları Guadalcanal
-Somaliland-->Somaliland
+Scotland Aberdeen-->İskoçya Aberdeen?*?İskoçya
+Scotland Aberdeen Central-->İskoçya Orta Aberdeen?*?İskoçya
+Scotland Aberdeenshire-->İskoçya Aberdeenshire?*?İskoçya
+Scotland Angus-->İskoçya Angus?*?İskoçya
+Scotland Argyll and Bute-->İskoçya Argyll ve Bute?*?İskoçya
+Scotland Badenoch and Strathspey-->İskoçya Badenoch ve Strathspey?*?İskoçya
+Scotland Caithness-->İskoçya Caithness?*?İskoçya
+Scotland Clackmannanshire-->İskoçya Clackmannanshire?*?İskoçya
+Scotland Dumfries and Galloway-->İskoçya Dumfries ve Galloway?*?İskoçya
+Scotland Dundee-->İskoçya Dundee?*?İskoçya
+Scotland East Ayrshire-->İskoçya Doğu Ayrshire?*?İskoçya
+Scotland East Dunbartonshire-->İskoçya Doğu Dunbartonshire?*?İskoçya
+Scotland East Lothian-->İskoçya Doğu Lothian?*?İskoçya
+Scotland East Renfrewshire-->İskoçya Doğu Renfrewshire?*?İskoçya
+Scotland Edinburgh-->İskoçya Edinburgh?*?İskoçya
+Scotland Edinburgh Central-->İskoçya Orta Edinburgh?*?İskoçya
+Scotland Falkirk-->İskoçya Falkirk?*?İskoçya
+Scotland Fife-->İskoçya Fife?*?İskoçya
+Scotland Glasgow-->İskoçya Glasgow?*?İskoçya
+Scotland Glasgow Central-->İskoçya Orta Glasgow?*?İskoçya
+Scotland Highland-->İskoçya Highland?*?İskoçya
+Scotland Inverclyde-->İskoçya Inverclyde?*?İskoçya
+Scotland Inverness-->İskoçya Inverness?*?İskoçya
+Scotland Isle of Skye-->İskoçya Skye?*?İskoçya
+Scotland Lochaber-->İskoçya Lochaber?*?İskoçya
+Scotland Midlothian-->İskoçya Midlothian?*?İskoçya
+Scotland Moray-->İskoçya Moray?*?İskoçya
+Scotland Nairn-->İskoçya Nairn?*?İskoçya
+Scotland North Ayrshire-->İskoçya Kuzey Ayrshire?*?İskoçya
+Scotland North Lanarkshire-->İskoçya Kuzey Lanarkshire?*?İskoçya
+Scotland Orkney-->İskoçya Orkney Adaları?*?İskoçya
+Scotland Outer Hebrides-->İskoçya Dış Hebridler?*?İskoçya
+Scotland Perth and Kinross-->İskoçya Perth ve Kinross?*?İskoçya
+Scotland Renfrewshire-->İskoçya Renfrewshire?*?İskoçya
+Scotland Ross and Cromarty-->İskoçya Ross ve Cromarty?*?İskoçya
+Scotland Scottish Borders-->İskoçya İşkoç Sınırları?*?İskoçya
+Scotland Shetland-->İskoçya Shetland?*?İskoçya
+Scotland Shetland Whalsay-->İskoçya Shetland Whalsay?*?İskoçya
+Scotland South Ayrshire-->İskoçya Güney Ayrshire?*?İskoçya
+Scotland South Lanarkshire-->İskoçya Güney Lanarkshire?*?İskoçya
+Scotland Stirling-->İskoçya Stirling?*?İskoçya
+Scotland Sutherland-->İskoçya Sutherland?*?İskoçya
+Scotland West Dunbartonshire-->İskoçya Batı Dunbartonshire?*?İskoçya
+Scotland West Lothian-->İskoçya Batı Lothian?*?İskoçya
+Singapore-->Singapur?*?Singapur
+Sint Maarten-->Sint Maarten?*?Sint Maarten?*?Hollanda
+Slovenia Central-->Slovenya Merkez?*?Slovenya
+Slovenia Inner Carniola-Karst-->Slovenya İç Kranjska-Karst?*?Slovenya
+Slovenia North West-->Slovenya Kuzeybatı?*?Slovenya
+Slovenia Podravska-->Slovenya Podravska?*?Slovenya
+Slovenia Pomurska-->Slovenya Pomurje?*?Slovenya
+Slovenia South East-->Slovenya Güneydoğu?*?Slovenya
+Slovenia South West-->Slovenya Güneybatı?*?Slovenya
+Solapur District-->Hindistan Maharaştra Solapur Bölgesi?*?Hindistan
+Solomon Islands-->Solomon Adaları?*?Solomon Adaları
+Solomon Islands Guadalcanal-->Solomon Adaları Guadalcanal?*?Solomon Adaları
+Somaliland-->Somaliland?*?Somaliland
 South-West Scandinavia-->Güneybatı İskandinavya
-South Africa Eastern Cape-->Güney Afrika Doğu Kap
-South Africa Free State-->Güney Afrika Özgür Devlet
-South Africa Gauteng-->Güney Afrika Gauteng
-South Africa Gauteng Greater Johannesburg-->Güney Afrika Gauteng Johannesburg büyükşehri
-South Africa KwaZulu-Natal-->Güney Afrika KwaZulu-Natal
-South Africa KwaZulu-Natal Greater Durban-->Güney Afrika KwaZulu-Natal Durban büyükşehri
-South Africa Limpopo-->Güney Afrika Limpopo
-South Africa Mpumalanga-->Güney Afrika Mpumalanga
-South Africa North West-->Güney Afrika Kuzeybatı
-South Africa Northern Cape-->Güney Afrika Kuza Kap
-South Africa Western Cape-->Güney Afrika Batı Kap
-South Africa Western Cape Cape Town-->Güney Afrika Batı Kap Cape Town
-South Africa Western Cape Cape Town Central-->Güney Afrika Batı Kap Cape Town'un merkezi
+South Africa Eastern Cape-->Güney Afrika Doğu Kap?*?Güney Afrika
+South Africa Free State-->Güney Afrika Özgür Devlet?*?Güney Afrika
+South Africa Gauteng-->Güney Afrika Gauteng?*?Güney Afrika
+South Africa Gauteng Greater Johannesburg-->Güney Afrika Gauteng Greater Johannesburg?*?Güney Afrika
+South Africa KwaZulu-Natal-->Güney Afrika KwaZulu-Natal?*?Güney Afrika
+South Africa KwaZulu-Natal Greater Durban-->Güney Afrika KwaZulu-Natal Greater Durban?*?Güney Afrika
+South Africa Limpopo-->Güney Afrika Limpopo?*?Güney Afrika
+South Africa Mpumalanga-->Güney Afrika Mpumalanga?*?Güney Afrika
+South Africa North West-->Güney Afrika Kuzeybatı?*?Güney Afrika
+South Africa Northern Cape-->Güney Afrika Kuza Kap?*?Güney Afrika
+South Africa Western Cape-->Güney Afrika Batı Kap?*?Güney Afrika
+South Africa Western Cape Cape Town-->Güney Afrika Batı Kap Cape Town?*?Güney Afrika
+South Africa Western Cape Cape Town Central-->Güney Afrika Orta Batı Kap Cape Town?*?Güney Afrika
 South America-->Güney Amerika
 South Atlantic-->Güney Atlantik
 South Caria-->Güney Karya
 South China Sea-->Güney Çin Denizi
-South Georgia-->Birleşik Krallık Güney Georgia
-South Korea Seoul-->Güney Kore Seul
-South Shetland Islands-->Güney Shetland Adaları
-South Sudan-->Güney Sudan
+South Georgia-->Birleşik Krallık Güney Georgia?*?Birleşik Krallık
+South Korea Seoul-->Güney Kore Seul?*?Güney Kore
+South Shetland Islands-->Güney Shetland Adaları?*?Birleşik Krallık
+South Sudan-->Güney Sudan?*?Güney Sudan
 South West Asia-->Güneybatı Asya
-Southampton-->Southampton
-Southern Quebec-->Güney Quebec
-Southern Sudan-->Güney Sudan
-Spain Andalusia-->İspanya Endülüs
-Spain Asturias-->İspanya Asturias
-Spain Barcelona-->İspanya Barselona
-Spain Barcelona municipality-->İspanya Barselona Belediyesi
-Spain Barcelona province-->İspanya Barselona ili
-Spain Basque Country-->İspanya Bask Bölgesi
-Spain Cadiz-->İspanya Cádiz ili
-Spain Canary Islands-->İspanya Kanarya Adaları
-Spain Cantabria-->İspanya Kantabria
-Spain Castile-La Mancha-->İspanya Kastilya-La Mancha
-Spain Castile and León-->İspanya Kastilya ve Leon
-Spain Community of Madrid-->İspanya Madrid topluluğu
-Spain Extremadura-->İspanya Ekstremadura
-Spain Galicia-->İspanya Galiçya
-Spain Guadalajara-->İspanya Guadalajara ili
-Spain Ibiza-->İspanya İbiza
-Spain La Rioja-->İspanya La Rioja
-Spain Madrid-->İspanya Madrid
-Spain Majorca-->İspanya Mayorka
-Spain Minorca-->İspanya Minorka
-Spain Murcia-->İspanya Murcia
-Spain Navarre-->İspanya Navarra
-Spain Palma-->İspanya Palma
-Spain Province of Albacete-->İspanya Albacete ili
-Spain Province of Alicante-->İspanya Alicante ili
-Spain Province of Castellón-->İspanya Castellón ili
-Spain Province of Granada-->İspanya Granada ili
-Spain Province of Málaga-->İspanya Málaga ili
-Spain Province of Seville-->İspanya Sevilla ili
-Spain Province of Valencia-->İspanya Valensiya ili
-Spain Seville-->İspanya Sevilla
-Spain Tenerife-->İspanya Tenerife
-Spain Álava-->İspanya Álava ili
-Sri Lanka-->Sri Lanka
-Stockton-->İngiltere Stockton
-Sudan (2005-2011)-->Sudan (2005-2011)
-Sudan Khartoum-->Sudan Hartum
-Suffolk-->İngiltere Suffolk
-Suriname-->Surinam
-Swaziland-->Svaziland
-Sweden, 40south-->İsveç 40 güney
-Sweden Blekinge-->İsveç Blekinge
-Sweden Dalarna-->İsveç Dalarna
-Sweden Gotland-->İsveç Gotland
-Sweden Gotland modified-->İsveç Gotland modifiyeli
-Sweden Gävleborg-->İsveç Gävleborg
-Sweden Halland-->İsveç Halland
-Sweden Jämtland-->İsveç Jämtland
-Sweden Jönköping-->İsveç Jönköping
-Sweden Kalmar-->İsveç Kalmar
-Sweden Kronoberg-->İsveç Kronoberg
-Sweden Norrbotten-->İsveç Norrbotten
-Sweden Skåne-->İsveç Skåne
-Sweden Stockholm-->İsveç Stockholm
-Sweden Södermanland-->İsveç Södermanland
-Sweden Uppsala-->İsveç Uppsala
-Sweden Värmland-->İsveç Värmland
-Sweden Västerbotten-->İsveç Västerbotten
-Sweden Västernorrland-->İsveç Västernorrland
-Sweden Västmanland-->İsveç Västmanland
-Sweden Västra Götaland-->İsveç Västra Götaland
-Sweden Örebro-->İsveç Örebro
-Sweden Östergötland-->İsveç Östergötland
-Syria Aleppo-->Suriye Halep
-Syria Damascus-->Suriye Şam
-Syria Golan-->Suriye Golan
-Syria Golan Heights-->Suriye Golan Tepeleri
-Syria Old Damascus-->Suriye Eski Şam
-Syria and Lebanon-->Suriye ve Lübnan
-Tahiti-->Fransa Tahiti
-Tansania-->Tanzanya
-Tanzania-->Tanzanya
-Thailand Bangkok-->Tayland Bangkok
-Thrumshingla National Park-->Bhutan Thrumshingla Milli Parkı
-Thimphu Bhutan-->Bhutan Thimphu
-Tierra del Fuego-->Arjantin Tierra del Fuego
-Tonga-->Tonga
-Trashigang Bhutan-->Bhutan Trashigang
-Trashiyangtse Bhutan-->Bhutan Trashiyangtse
-Trinidad and Tobago-->Trinidad ve Tobago
-Trongsa Bhutan-->Bhutan Trongsa
-Tsirang Bhutan-->Bhutan Tsirang
-Tunisia Greater Tunis-->Tunus Tunus büyükşehri
-Tunisia Tunis-->Tunus Tunus
-Tuvalu-->Tuvalu
-USA Arizona-->ABD Arizona
-USA Arkansas-->ABD Arkansas
-USA Bronx-->ABD Bronx
-USA California-->ABD Kaliforniya
-USA California Southern-->ABD Kaliforniya Güney
-USA Colorado-->ABD Colorado
-USA Connecticut-->ABD Connecticut
-USA Delaware-->ABD Delaware
-USA District of Columbia-->ABD Kolumbiya Bölgesi
-USA Florida-->ABD Florida
-USA Florida Volusia County-->ABD Florida Volusia County
-USA Georgia-->ABD Georgia
-USA Grand Forks-->ABD Grand Forks
-USA Guam-->ABD Guam
-USA Hawaii-->ABD Hawaii
-USA Hawaiian Islands-->ABD Hawaii Adaları
-USA Idaho-->ABD Idaho
-USA Illinois-->ABD Illinois
-USA Illinois Champaign County-->ABD Illinois Champaign County
-USA Illinois Edgar County-->ABD Illinois Edgar County
-USA Illinois Fulton County-->ABD Illinois Fulton County
-USA Illinois Iroquois County-->ABD Illinois Iroquois County
-USA Illinois Ogle County-->ABD Illinois Ogle County
-USA Illinois Peoria County-->ABD Illinois Peoria County
-USA Illinois Tazewell County-->ABD Illinois Tazewell County
-USA Illinois Vermilion County-->ABD Illinois Vermilion County
-USA Indiana-->ABD Indiana
-USA Indiana Adams County-->ABD Indiana Adams County
-USA Indiana Bartholomew County-->ABD Indiana Bartholomew County
-USA Indiana Benton County-->ABD Indiana Benton County
-USA Indiana Blackford County-->ABD Indiana Blackford County
-USA Indiana Boone County-->ABD Indiana Boone County
-USA Indiana Brown County-->ABD Indiana Brown County
-USA Indiana Carroll County-->ABD Indiana Carroll County
-USA Indiana Cass County-->ABD Indiana Cass County
-USA Indiana Clark County-->ABD Indiana Clark County
-USA Indiana Clay County-->ABD Indiana Clay County
-USA Indiana Fountain County-->ABD Indiana Fountain County
-USA Indiana Harrison County-->ABD Indiana Harrison County
-USA Indiana Martin County-->ABD Indiana Martin County
-USA Indiana Parke County-->ABD Indiana Parke County
-USA Indiana Sullivan County-->ABD Indiana Sullivan County
-USA Indiana Tippecanoe County-->ABD Indiana Tippecanoe County
-USA Indiana Vermillion County-->ABD Indiana Vermillion County
-USA Indiana Vigo County-->ABD Indiana Vigo County
-USA Indiana Warren County-->ABD Indiana Warren County
-USA Indiana Washington County-->ABD Indiana Washington County
-USA Indianapolis-->ABD Indianapolis
-USA Indianapolis central-->ABD Indianapolis'in merkezi
-USA Iowa-->ABD Iowa
-USA Kansas-->ABD Kansas
-USA Kentucky-->ABD Kentucky
-USA Los Angeles Metropolitan Area-->ABD Los Angeles Metropol Alanı
-USA Louisiana-->ABD Louisiana
-USA Maine-->ABD Maine
-USA Maryland-->ABD Maryland
-USA Mass Cape Cod-->ABD Mass Cape Cod
-USA Michigan-->ABD Michigan
-USA Minnesota-->ABD Minnesota
-USA Minnesota Duluth-->ABD Minnesota Duluth
-USA Minnesota Duluth (West Duluth)-->ABD Minnesota Duluth (Batı Duluth)
-USA Minnesota Duluth Lg-->ABD Minnesota Duluth Lg
-USA Mississippi-->ABD Mississippi
-USA Missouri-->ABD Missouri
-USA Montana-->ABD Montana
-USA Nebraska-->ABD Nebraska
-USA Nevada-->ABD Nevada
-USA New Hampshire-->ABD New Hampshire
-USA New Jersey-->ABD New Jersey
-USA New Jersey Atlantic County-->ABD New Jersey Atlantic County
-USA New Jersey Bergen County-->ABD New Jersey Bergen County
-USA New Jersey Burlington County-->ABD New Jersey Burlington County
-USA New Jersey Camden County-->ABD New Jersey Camden County
-USA New Jersey Cape May County-->ABD New Jersey Cape May County
-USA New Jersey Cumberland County-->ABD New Jersey Cumberland County
-USA New Jersey Essex County-->ABD New Jersey Essex County
-USA New Jersey Gloucester County-->ABD New Jersey Gloucester County
-USA New Jersey Hudson County-->ABD New Jersey Hudson County
-USA New Jersey Hunterdon County-->ABD New Jersey Hunterdon County
-USA New Jersey Middlesex County-->ABD New Jersey Middlesex County
-USA New Jersey Monmouth County-->ABD New Jersey Monmouth County
-USA New Jersey Morris County-->ABD New Jersey Morris County
-USA New Jersey Ocean County-->ABD New Jersey Ocean County
-USA New Jersey Passaic County-->ABD New Jersey Passaic County
-USA New Jersey Salem County-->ABD New Jersey Salem County
-USA New Jersey Somerset County-->ABD New Jersey Somerset County
-USA New Jersey Sussex County-->ABD New Jersey Sussex County
-USA New Jersey Union County-->ABD New Jersey Union County
-USA New Jersey Warren County-->ABD New Jersey Warren County
-USA New Mexico-->ABD New Mexico
-USA New York 2-->ABD New York 2
-USA New York Adirondack Park-->ABD New York Adirondack Park
-USA New York City-->ABD New York (şehir)
-USA New York City Subway-->ABD New York Metro
-USA North Carolina-->ABD Kuzey Karolina
-USA North Dakota-->ABD Kuzey Dakota
-USA Northern Mariana Islands-->ABD Kuzey Mariana Adaları
-USA Ohio-->ABD Ohio
-USA Oklahoma-->ABD Oklahoma
-USA Oregon-->ABD Oregon
-USA Portland-->ABD Portland
-USA Portland downtown-->ABD Portland şehir merkezi
-USA Puerto Rico-->ABD Porto Riko
-USA Rhode Island-->ABD Rhode Island
-USA South Carolina-->ABD Güney Karolina
-USA South Dakota-->ABD Güney Dakota
-USA Tennessee-->ABD Tennessee
-USA Texas-->ABD Teksas
-USA Utah-->ABD Utah
-USA Vermont-->ABD Vermont
-USA Virgin Islands-->ABD Virgin Adaları
-USA Virginia-->ABD Virginia
-USA Washington-->ABD Washington
-USA Washington Benton County-->ABD Washington Benton County
-USA Washington Yakima County-->ABD Washington Yakima County
-USA West-->ABD Batı
-USA West Virginia-->ABD Batı Virginia
-USA Wisconsin-->ABD Wisconsin
-USA Wyoming-->ABD Wyoming
-USSR-->SSCB
-US Virgin Islands Saint Croix-->ABD Virgin Adaları Saint Croix
-Uganda-->Uganda
-Uganda Kampala-->Uganda Kampala
-Uganda Kampala central-->Uganda Kampala'nın merkezi
-Ukraine Alushta-->Ukrayna Aluşta
-Ukraine Dnipropetrovsk Oblast-->Ukrayna Dnipropetrovsk Oblastı
-Ukraine Ivano-Frankivsk Oblast-->Ukrayna İvano-Frankivsk Oblastı
-Ukraine Kharkiv Oblast-->Ukrayna Harkiv Oblastı
-Ukraine Khmelnytskyi Oblast-->Ukrayna Hmelnitski Oblastı
-Ukraine Kiev Oblast-->Ukrayna Kiev Oblastı
-Ukraine Lviv Oblast-->Ukrayna Lviv Oblastı
-Ukraine Sumy Oblast-->Ukrayna Sumy Oblastı
-Ukraine Ternopil Oblast-->Ukrayna Ternopil Oblastı
-Ukraine Vinnytsia Oblast-->Ukrayna Vinnitsa Oblastı
-Ukraine Yalta-->Ukrayna Yalta
-Ukraine Zakarpattia Oblast-->Ukrayna Zakarpatya Oblastı
-United Kingdom Alderney-->Birleşik Krallık Alderney
-United Kingdom Anguilla-->Birleşik Krallık Anguilla
-United Kingdom Bedfordshire-->United Kingdom Bedfordshire
-United Kingdom Berkshire-->Birleşik Krallık Berkshire
-United Kingdom Bermuda-->Birleşik Krallık Bermuda
-United Kingdom Brecon Beacons-->Birleşik Krallık Brecon Beacons
-United Kingdom Brighton-->Birleşik Krallık Brighton
-United Kingdom Brighton and Hove-->Birleşik Krallık Brighton ve Hove
-United Kingdom Bristol-->Birleşik Krallık Bristol
-United Kingdom British Virgin Islands-->Birleşik Krallık Britanya Virjin Adaları
-United Kingdom Buckinghamshire-->Birleşik Krallık Buckinghamshire
-United Kingdom Cambridge-->Birleşik Krallık Cambridge
-United Kingdom Cambridge Central-->Birleşik Krallık Cambridge'in merkezi
-United Kingdom Cambridgeshire-->Birleşik Krallık Cambridgeshire
-United Kingdom Cayman Islands-->Birleşik Krallık Cayman Adaları
-United Kingdom Channel Islands-->Birleşik Krallık Manş Adaları
-United Kingdom Cheshire-->Birleşik Krallık Cheshire
-United Kingdom Chichester-->Birleşik Krallık Chichester
-United Kingdom Chichester District-->Birleşik Krallık Chichester Bölgesi
-United Kingdom City of Preston-->Birleşik Krallık Preston Şehri
-United Kingdom Cornwall-->Birleşik Krallık Cornwall
-United Kingdom Cornwall (mainland)-->Birleşik Krallık Cornwall (anakara)
-United Kingdom Cornwall southwest-->Birleşik Krallık Cornwall güneybatı
-United Kingdom County Durham-->Birleşik Krallık Durham Kontluğu
-United Kingdom Crawley-->Birleşik Krallık Crawley
-United Kingdom Cumbria-->Birleşik Krallık Cumbria
-United Kingdom Dartmoor-->Birleşik Krallık Dartmoor
-United Kingdom Derbyshire-->Birleşik Krallık Derbyshire
-United Kingdom Devon-->Birleşik Krallık Devon
-United Kingdom Dorset-->Birleşik Krallık Dorset
-United Kingdom Durham-->Birleşik Krallık Durham
-United Kingdom East Riding of Yorkshire-->Birleşik Krallık East Riding Yorkshire
-United Kingdom East Sussex-->Birleşik Krallık East Sussex
-United Kingdom Edinburgh-->Birleşik Krallık Edinburgh
-United Kingdom England-->Birleşik Krallık İngiltere
-United Kingdom England Southeast-->Birleşik Krallık İngiltere Güneydoğu
-United Kingdom Essex-->Birleşik Krallık Essex
-United Kingdom Exmoor-->Birleşik Krallık Exmoor
-United Kingdom Falkland Islands-->Birleşik Krallık Falkland Adaları
-United Kingdom Forest of Bowland-->Birleşik Krallık Bowland Ormanı
-United Kingdom Gloucestershire-->Birleşik Krallık Gloucestershire
-United Kingdom Greater Belfast-->Birleşik Krallık Greater Belfast
-United Kingdom Greater Liverpool-->Birleşik Krallık Greater Liverpool
-United Kingdom Greater London-->Birleşik Krallık Greater London
-United Kingdom Greater Manchester-->Birleşik Krallık Greater Manchester
-United Kingdom Guernsey-->Birleşik Krallık Guernsey
-United Kingdom Hampshire-->Birleşik Krallık Hampshire
-United Kingdom Herefordshire-->Birleşik Krallık Herefordshire
-United Kingdom Hertfordshire-->Birleşik Krallık Hertfordshire
-United Kingdom Isle of Wight-->Birleşik Krallık Wight Adası
-United Kingdom Isles of Scilly-->Birleşik Krallık Scilly Adaları
-United Kingdom Kent-->Birleşik Krallık Kent
-United Kingdom Lake District-->Birleşik Krallık Lake District
-United Kingdom Lancashire-->Birleşik Krallık Lancashire
-United Kingdom Leicestershire-->Birleşik Krallık Leicestershire
-United Kingdom Lincolnshire-->Birleşik Krallık Lincolnshire
-United Kingdom Liverpool-->Birleşik Krallık Liverpool
-United Kingdom Liverpool Central-->Birleşik Krallık Liverpool'un merkezi
-United Kingdom London Barking and Dagenham-->Birleşik Krallık Londra Barking ve Dagenham
-United Kingdom London Barnet-->Birleşik Krallık Londra Barnet
-United Kingdom London Bexley-->Birleşik Krallık Londra Bexley
-United Kingdom London Brent-->Birleşik Krallık Londra Brent
-United Kingdom London Bromley-->Birleşik Krallık Londra Bromley
-United Kingdom London Camden-->Birleşik Krallık Londra Camden
-United Kingdom London City of London-->Birleşik Krallık Londra Londra Şehri
-United Kingdom London Croydon-->Birleşik Krallık Londra Croydon
-United Kingdom London Ealing-->Birleşik Krallık Londra Ealing
-United Kingdom London Enfield-->Birleşik Krallık Londra Enfield
-United Kingdom London Greenwich-->Birleşik Krallık Londra Greenwich
-United Kingdom London Hackney-->Birleşik Krallık Londra Hackney
-United Kingdom London Hammersmith and Fulham-->Birleşik Krallık Londra Hammersmith ve Fulham
-United Kingdom London Haringey-->Birleşik Krallık Londra Haringey
-United Kingdom London Harrow-->Birleşik Krallık Londra Harrow
-United Kingdom London Havering-->Birleşik Krallık Londra Havering
-United Kingdom London Hillingdon-->Birleşik Krallık Londra Hillingdon
-United Kingdom London Hounslow-->Birleşik Krallık Londra Hounslow
-United Kingdom London Islington-->Birleşik Krallık Londra Islington
-United Kingdom London Kensington-->Birleşik Krallık Londra Kensington
-United Kingdom London Kensington and Chelsea-->Birleşik Krallık Londra Kensington ve Chelsea
-United Kingdom London Kingston upon Thames-->Birleşik Krallık Londra Kingston
-United Kingdom London Lambeth-->Birleşik Krallık Londra Lambeth
-United Kingdom London Lewisham-->Birleşik Krallık Londra Lewisham
-United Kingdom London Merton-->Birleşik Krallık Londra Merton
-United Kingdom London Newham-->Birleşik Krallık Londra Newham
-United Kingdom London Redbridge-->Birleşik Krallık Londra Redbridge
-United Kingdom London Richmond upon Thames-->Birleşik Krallık Londra Richmond upon Thames
-United Kingdom London Southwark-->Birleşik Krallık Londra Southwark
-United Kingdom London Sutton-->Birleşik Krallık Londra Sutton
-United Kingdom London Tower Hamlets-->Birleşik Krallık Londra Tower Hamlets
-United Kingdom London Waltham Forest-->Birleşik Krallık Londra Waltham Forest
-United Kingdom London Wandsworth-->Birleşik Krallık Londra Wandsworth
-United Kingdom London Westminster-->Birleşik Krallık Londra Westminster
-United Kingdom Manchester-->Birleşik Krallık Manchester
-United Kingdom Merseyside-->Birleşik Krallık Merseyside
-United Kingdom Montserrat-->Birleşik Krallık Montserrat
-United Kingdom Norfolk-->Birleşik Krallık Norfolk
-United Kingdom Northern Ireland-->Kuzey İrlanda
-United Kingdom North Yorkshire-->Birleşik Krallık North Yorkshire
-United Kingdom Northamptonshire-->Birleşik Krallık Northamptonshire
-United Kingdom Northumberland-->Birleşik Krallık Northumberland
-United Kingdom Nottinghamshire-->Birleşik Krallık Nottinghamshire
-United Kingdom Oldham-->Birleşik Krallık Oldham
-United Kingdom Oxford (central)-->Birleşik Krallık Oxford (merkez)
-United Kingdom Oxfordshire-->Birleşik Krallık Oxfordshire
-United Kingdom Plymouth-->Birleşik Krallık Plymouth
-United Kingdom Preston central-->Birleşik Krallık Preston'ın merkezi
-United Kingdom Reading-->Birleşik Krallık Reading
-United Kingdom Reading Central-->Birleşik Krallık Reading Merkez
-United Kingdom Rutland-->Birleşik Krallık Rutland
-United Kingdom Scotland-->Birleşik Krallık İskoçya
-United Kingdom Sheffield-->Birleşik Krallık Sheffield
-United Kingdom Shropshire-->Birleşik Krallık Shropshire
-United Kingdom Soho-->Birleşik Krallık Soho
-United Kingdom Somerset-->Birleşik Krallık Somerset
-United Kingdom South Yorkshire-->Birleşik Krallık Güney Yorkshire
-United Kingdom Southampton-->Birleşik Krallık Southampton
-United Kingdom Staffordshire-->Birleşik Krallık Staffordshire
-United Kingdom Suffolk-->Birleşik Krallık Suffolk
-United Kingdom Surrey-->Birleşik Krallık Surrey
-United Kingdom Tristan da Cunha-->Birleşik Krallık Tristan da Cunha
-United Kingdom Turks and Caicos Islands-->Birleşik Krallık Turks ve Caicos Adaları
-United Kingdom Tyne and Wear-->Birleşik Krallık Tyne ve Wear
-United Kingdom Wales-->Birleşik Krallık Galler
-United Kingdom Warwickshire-->Birleşik Krallık Warwickshire
-United Kingdom West Midlands-->Birleşik Krallık West Midlands
-United Kingdom West Sussex-->Birleşik Krallık Batı Sussex
-United Kingdom West Yorkshire-->Birleşik Krallık Batı Yorkshire
-United Kingdom Wiltshire-->Birleşik Krallık Wiltshire
-United Kingdom Worcestershire-->Birleşik Krallık Worcestershire
-United Kingdom Yorkshire Dales-->Birleşik Krallık Yorkshire Dales
-United States Anaheim-->ABD Anaheim
-United States Atlanta Central-->ABD Atlanta
-United States Bakersfield-->ABD Bakersfield
-United States Bakersfield Downtown-->ABD Bakersfield şehir merkezi
-United States Baltimore-->ABD Baltimore
-United States California Carmel-->ABD Kaliforniya Carmel
-United States Chicago-->ABD Şikago
-United States Chicago Central-->ABD Şikago Merkez
-United States Chicago Downtown-->ABD Şikago şehir merkezi
-United States Chicago Exelon Pavilions-->ABD Şikago Exelon Pavilions
-United States Chicago Greater-->ABD Şikago büyükşehri
-United States Chicago Loop-->ABD Şikago Loop
-United States Chicago Near North Side-->ABD Şikago Near North Side
-United States Cleveland-->ABD Cleveland
-United States District of Columbia street-->ABD Kolumbiya Bölgesi cadde
-United States Downtown Las Vegas-->ABD Las Vegas şehir merkezi
-United States Fresno-->ABD Fresno
-United States Long Beach-->ABD Long Beach
-United States Los Angeles Central-->ABD Los Angeles Merkez
-United States Los Angeles Downtown-->ABD Los Angeles şehir merkezi
-United States Los Angeles Southern-->ABD Los Angeles Güney
-United States Los Angeles Western-->ABD Los Angeles Batı
-United States Manhattan-->ABD Manhattan
-United States Miami-->ABD Miami
-United States Miami Central-->ABD Miami Merkez
-United States Missouri St. Louis-->ABD Missouri St. Louis
-United States Monterey Peninsula-->ABD Monterey
-United States Mountain View-->ABD Mountain View
-United States Oakland-->ABD Oakland
-United States Sacramento-->ABD Sacramento
-United States San Diego-->ABD San Diego
-United States San Diego Northeastern-->ABD San Diego kuzeydoğu
-United States San Diego Northwestern-->ABD San Diego kuzeybatı
-United States San Diego Southern-->ABD San Diego güney
-United States San Fernando Valley-->ABD San Fernando Valley
-United States San Francisco-->ABD San Francisco
-United States San Francisco Central-->ABD San Francisco Merkez
-United States San Francisco County-->ABD San Francisco County
-United States San Jose-->ABD San Jose
-United States Umnak Island-->ABD Umnak
-United States Unalaska Island-->ABD Unalaska Adası
-United States Virginia Alexandria-->ABD Virginia Alexandria
-United States Virginia Alexandria Historical District-->ABD Virginia Alexandria Tarihi Bölge
-United States Washington, D.C.-->ABD Washington, D.C.
-United States Washington, D.C. central-->ABD Washington, D.C.'nin merkezi
-United States Washington, D.C. east-->ABD Washington, D.C. doğu
-Upper Galilee-->Yukarı Celile
-Uruguay Montevideo-->Uruguay Montevideo
-Uruguay Montevideo Ciudad Vieja-->Uruguay Montevideo Ciudad Vieja
+Spain Andalusia-->İspanya Endülüs?*?İspanya
+Spain Asturias-->İspanya Asturias?*?İspanya
+Spain Barcelona-->İspanya Barselona?*?İspanya
+Spain Barcelona municipality-->İspanya Barselona Belediyesi?*?İspanya
+Spain Barcelona province-->İspanya Barselona ili?*?İspanya
+Spain Basque Country-->İspanya Bask Bölgesi?*?İspanya
+Spain Cadiz-->İspanya Cádiz ili?*?İspanya
+Spain Canary Islands-->İspanya Kanarya Adaları?*?İspanya
+Spain Cantabria-->İspanya Kantabria?*?İspanya
+Spain Castile-La Mancha-->İspanya Kastilya-La Mancha?*?İspanya
+Spain Castile and León-->İspanya Kastilya ve Leon?*?İspanya
+Spain Community of Madrid-->İspanya Madrid topluluğu?*?İspanya
+Spain Extremadura-->İspanya Ekstremadura?*?İspanya
+Spain Galicia-->İspanya Galiçya?*?İspanya
+Spain Guadalajara-->İspanya Guadalajara ili?*?İspanya
+Spain Ibiza-->İspanya İbiza?*?İspanya
+Spain La Rioja-->İspanya La Rioja?*?İspanya
+Spain Madrid-->İspanya Madrid?*?İspanya
+Spain Majorca-->İspanya Mayorka?*?İspanya
+Spain Minorca-->İspanya Minorka?*?İspanya
+Spain Murcia-->İspanya Murcia?*?İspanya
+Spain Navarre-->İspanya Navarra?*?İspanya
+Spain Palma-->İspanya Palma?*?İspanya
+Spain Province of Albacete-->İspanya Albacete ili?*?İspanya
+Spain Province of Alicante-->İspanya Alicante ili?*?İspanya
+Spain Province of Castellón-->İspanya Castellón ili?*?İspanya
+Spain Province of Granada-->İspanya Granada ili?*?İspanya
+Spain Province of Málaga-->İspanya Málaga ili?*?İspanya
+Spain Province of Seville-->İspanya Sevilla ili?*?İspanya
+Spain Province of Valencia-->İspanya Valensiya ili?*?İspanya
+Spain Seville-->İspanya Sevilla?*?İspanya
+Spain Tenerife-->İspanya Tenerife?*?İspanya
+Spain Álava-->İspanya Álava ili?*?İspanya
+Sri Lanka-->Sri Lanka?*?Sri Lanka
+Stockton-->İngiltere Stockton?*?İngiltere?Birleşik Krallık
+Sudan (2005-2011)-->Sudan (2005-2011)?*?Sudan
+Sudan Khartoum-->Sudan Hartum?*?Sudan
+Suriname-->Surinam?*?Surinam
+Swaziland-->Svaziland?*?Svaziland
+Sweden, 40south-->İsveç 40 güney?*?İsveç
+Sweden Blekinge-->İsveç Blekinge?*?İsveç
+Sweden Dalarna-->İsveç Dalarna?*?İsveç
+Sweden Gotland-->İsveç Gotland?*?İsveç
+Sweden Gotland modified-->İsveç Gotland modifiyeli?*?İsveç
+Sweden Gävleborg-->İsveç Gävleborg?*?İsveç
+Sweden Halland-->İsveç Halland?*?İsveç
+Sweden Jämtland-->İsveç Jämtland?*?İsveç
+Sweden Jönköping-->İsveç Jönköping?*?İsveç
+Sweden Kalmar-->İsveç Kalmar?*?İsveç
+Sweden Kronoberg-->İsveç Kronoberg?*?İsveç
+Sweden Norrbotten-->İsveç Norrbotten?*?İsveç
+Sweden Skåne-->İsveç Skåne?*?İsveç
+Sweden Stockholm-->İsveç Stockholm?*?İsveç
+Sweden Södermanland-->İsveç Södermanland?*?İsveç
+Sweden Uppsala-->İsveç Uppsala?*?İsveç
+Sweden Värmland-->İsveç Värmland?*?İsveç
+Sweden Västerbotten-->İsveç Västerbotten?*?İsveç
+Sweden Västernorrland-->İsveç Västernorrland?*?İsveç
+Sweden Västmanland-->İsveç Västmanland?*?İsveç
+Sweden Västra Götaland-->İsveç Västra Götaland?*?İsveç
+Sweden Örebro-->İsveç Örebro?*?İsveç
+Sweden Östergötland-->İsveç Östergötland?*?İsveç
+Syria Aleppo-->Suriye Halep?*?Suriye
+Syria Damascus-->Suriye Şam?*?Suriye
+Syria Golan-->Suriye Golan?*?Suriye
+Syria Golan Heights-->Suriye Golan Tepeleri?*?Suriye
+Syria Old Damascus-->Suriye Eski Şam?*?Suriye
+Syria and Lebanon-->Suriye ve Lübnan?*?Suriye
+Tahiti-->Tahiti?*?Fransa
+Tansania-->Tanzanya?*?Tanzanya
+Thailand Bangkok-->Tayland Bangkok?*?Tayland
+Thrumshingla National Park-->Bhutan Thrumshingla Milli Parkı?*?Bhutan
+Thimphu Bhutan-->Bhutan Thimphu?*?Bhutan
+Tierra del Fuego-->Arjantin Tierra del Fuego?*?Arjantin
+Tonga-->Tonga?*?Tonga
+Trashigang Bhutan-->Bhutan Trashigang?*?Bhutan
+Trashiyangtse Bhutan-->Bhutan Trashiyangtse?*?Bhutan
+Trinidad and Tobago-->Trinidad ve Tobago?*?Trinidad ve Tobago
+Trongsa Bhutan-->Bhutan Trongsa?*?Bhutan
+Tsirang Bhutan-->Bhutan Tsirang?*?Bhutan
+Tunisia Greater Tunis-->Tunus Greater Tunus?*?Tunus
+Tunisia Tunis-->Tunus Tunus?*?Tunus
+Tuvalu-->Tuvalu?*?Tuvalu
+USA Arizona-->ABD Arizona?*?ABD
+USA Arkansas-->ABD Arkansas?*?ABD
+USA Bronx-->ABD Bronx?*?ABD
+USA California-->ABD Kaliforniya?*?ABD
+USA California Southern-->ABD Kaliforniya Güney?*?ABD
+USA Colorado-->ABD Colorado?*?ABD
+USA Connecticut-->ABD Connecticut?*?ABD
+USA Delaware-->ABD Delaware?*?ABD
+USA District of Columbia-->ABD Kolumbiya Bölgesi?*?ABD
+USA Florida-->ABD Florida?*?ABD
+USA Florida Volusia County-->ABD Florida Volusia County?*?ABD
+USA Georgia-->ABD Georgia?*?ABD
+USA Grand Forks-->ABD Grand Forks?*?ABD
+USA Guam-->ABD Guam?*?ABD
+USA Hawaii-->ABD Hawaii?*?ABD
+USA Hawaiian Islands-->ABD Hawaii Adaları?*?ABD
+USA Idaho-->ABD Idaho?*?ABD
+USA Illinois-->ABD Illinois?*?ABD
+USA Illinois Champaign County-->ABD Illinois Champaign County?*?ABD
+USA Illinois Edgar County-->ABD Illinois Edgar County?*?ABD
+USA Illinois Fulton County-->ABD Illinois Fulton County?*?ABD
+USA Illinois Iroquois County-->ABD Illinois Iroquois County?*?ABD
+USA Illinois Ogle County-->ABD Illinois Ogle County?*?ABD
+USA Illinois Peoria County-->ABD Illinois Peoria County?*?ABD
+USA Illinois Tazewell County-->ABD Illinois Tazewell County?*?ABD
+USA Illinois Vermilion County-->ABD Illinois Vermilion County?*?ABD
+USA Indiana-->ABD Indiana?*?ABD
+USA Indiana Adams County-->ABD Indiana Adams County?*?ABD
+USA Indiana Bartholomew County-->ABD Indiana Bartholomew County?*?ABD
+USA Indiana Benton County-->ABD Indiana Benton County?*?ABD
+USA Indiana Blackford County-->ABD Indiana Blackford County?*?ABD
+USA Indiana Boone County-->ABD Indiana Boone County?*?ABD
+USA Indiana Brown County-->ABD Indiana Brown County?*?ABD
+USA Indiana Carroll County-->ABD Indiana Carroll County?*?ABD
+USA Indiana Cass County-->ABD Indiana Cass County?*?ABD
+USA Indiana Clark County-->ABD Indiana Clark County?*?ABD
+USA Indiana Clay County-->ABD Indiana Clay County?*?ABD
+USA Indiana Fountain County-->ABD Indiana Fountain County?*?ABD
+USA Indiana Harrison County-->ABD Indiana Harrison County?*?ABD
+USA Indiana Martin County-->ABD Indiana Martin County?*?ABD
+USA Indiana Parke County-->ABD Indiana Parke County?*?ABD
+USA Indiana Sullivan County-->ABD Indiana Sullivan County?*?ABD
+USA Indiana Tippecanoe County-->ABD Indiana Tippecanoe County?*?ABD
+USA Indiana Vermillion County-->ABD Indiana Vermillion County?*?ABD
+USA Indiana Vigo County-->ABD Indiana Vigo County?*?ABD
+USA Indiana Warren County-->ABD Indiana Warren County?*?ABD
+USA Indiana Washington County-->ABD Indiana Washington County?*?ABD
+USA Indianapolis-->ABD Indianapolis?*?ABD
+USA Indianapolis central-->ABD Orta Indianapolis?*?ABD
+USA Iowa-->ABD Iowa?*?ABD
+USA Kansas-->ABD Kansas?*?ABD
+USA Kentucky-->ABD Kentucky?*?ABD
+USA Los Angeles Metropolitan Area-->ABD Los Angeles Metropol Alanı?*?ABD
+USA Louisiana-->ABD Louisiana?*?ABD
+USA Maine-->ABD Maine?*?ABD
+USA Maryland-->ABD Maryland?*?ABD
+USA Mass Cape Cod-->ABD Mass Cape Cod?*?ABD
+USA Michigan-->ABD Michigan?*?ABD
+USA Minnesota-->ABD Minnesota?*?ABD
+USA Minnesota Duluth-->ABD Minnesota Duluth?*?ABD
+USA Minnesota Duluth (West Duluth)-->ABD Minnesota Duluth (Batı Duluth)?*?ABD
+USA Minnesota Duluth Lg-->ABD Minnesota Duluth Lg?*?ABD
+USA Mississippi-->ABD Mississippi?*?ABD
+USA Missouri-->ABD Missouri?*?ABD
+USA Montana-->ABD Montana?*?ABD
+USA Nebraska-->ABD Nebraska?*?ABD
+USA Nevada-->ABD Nevada?*?ABD
+USA New Hampshire-->ABD New Hampshire?*?ABD
+USA New Jersey-->ABD New Jersey?*?ABD
+USA New Jersey Atlantic County-->ABD New Jersey Atlantic County?*?ABD
+USA New Jersey Bergen County-->ABD New Jersey Bergen County?*?ABD
+USA New Jersey Burlington County-->ABD New Jersey Burlington County?*?ABD
+USA New Jersey Camden County-->ABD New Jersey Camden County?*?ABD
+USA New Jersey Cape May County-->ABD New Jersey Cape May County?*?ABD
+USA New Jersey Cumberland County-->ABD New Jersey Cumberland County?*?ABD
+USA New Jersey Essex County-->ABD New Jersey Essex County?*?ABD
+USA New Jersey Gloucester County-->ABD New Jersey Gloucester County?*?ABD
+USA New Jersey Hudson County-->ABD New Jersey Hudson County?*?ABD
+USA New Jersey Hunterdon County-->ABD New Jersey Hunterdon County?*?ABD
+USA New Jersey Middlesex County-->ABD New Jersey Middlesex County?*?ABD
+USA New Jersey Monmouth County-->ABD New Jersey Monmouth County?*?ABD
+USA New Jersey Morris County-->ABD New Jersey Morris County?*?ABD
+USA New Jersey Ocean County-->ABD New Jersey Ocean County?*?ABD
+USA New Jersey Passaic County-->ABD New Jersey Passaic County?*?ABD
+USA New Jersey Salem County-->ABD New Jersey Salem County?*?ABD
+USA New Jersey Somerset County-->ABD New Jersey Somerset County?*?ABD
+USA New Jersey Sussex County-->ABD New Jersey Sussex County?*?ABD
+USA New Jersey Union County-->ABD New Jersey Union County?*?ABD
+USA New Jersey Warren County-->ABD New Jersey Warren County?*?ABD
+USA New Mexico-->ABD New Mexico?*?ABD
+USA New York 2-->ABD New York 2?*?ABD
+USA New York Adirondack Park-->ABD New York Adirondack Park?*?ABD
+USA New York City-->ABD New York (şehir)?*?ABD
+USA New York City Subway-->ABD New York Metro?*?ABD
+USA North Carolina-->ABD Kuzey Karolina?*?ABD
+USA North Dakota-->ABD Kuzey Dakota?*?ABD
+USA Northern Mariana Islands-->ABD Kuzey Mariana Adaları?*?ABD
+USA Ohio-->ABD Ohio?*?ABD
+USA Oklahoma-->ABD Oklahoma?*?ABD
+USA Oregon-->ABD Oregon?*?ABD
+USA Portland-->ABD Portland?*?ABD
+USA Portland downtown-->ABD Portland şehir merkezi?*?ABD
+USA Puerto Rico-->ABD Porto Riko?*?ABD
+USA Rhode Island-->ABD Rhode Island?*?ABD
+USA South Carolina-->ABD Güney Karolina?*?ABD
+USA South Dakota-->ABD Güney Dakota?*?ABD
+USA Tennessee-->ABD Tennessee?*?ABD
+USA Texas-->ABD Teksas?*?ABD
+USA Utah-->ABD Utah?*?ABD
+USA Vermont-->ABD Vermont?*?ABD
+USA Virgin Islands-->ABD Virgin Adaları?*?ABD
+USA Virginia-->ABD Virginia?*?ABD
+USA Washington-->ABD Washington?*?ABD
+USA Washington Benton County-->ABD Washington Benton County?*?ABD
+USA Washington Yakima County-->ABD Washington Yakima County?*?ABD
+USA West-->ABD Batı?*?ABD
+USA West Virginia-->ABD Batı Virginia?*?ABD
+USA Wisconsin-->ABD Wisconsin?*?ABD
+USA Wyoming-->ABD Wyoming?*?ABD
+USSR-->SSCB?*?Rusya
+US Virgin Islands Saint Croix-->ABD Virgin Adaları Saint Croix?*?ABD
+Uganda-->Uganda?*?Uganda
+Uganda Kampala-->Uganda Kampala?*?Uganda
+Uganda Kampala central-->Uganda Orta Kampala?*?Uganda
+Ukraine Alushta-->Ukrayna Aluşta?*?Ukrayna
+Ukraine Dnipropetrovsk Oblast-->Ukrayna Dnipropetrovsk Oblastı?*?Ukrayna
+Ukraine Ivano-Frankivsk Oblast-->Ukrayna İvano-Frankivsk Oblastı?*?Ukrayna
+Ukraine Kharkiv Oblast-->Ukrayna Harkiv Oblastı?*?Ukrayna
+Ukraine Khmelnytskyi Oblast-->Ukrayna Hmelnitski Oblastı?*?Ukrayna
+Ukraine Kiev Oblast-->Ukrayna Kiev Oblastı?*?Ukrayna
+Ukraine Lviv Oblast-->Ukrayna Lviv Oblastı?*?Ukrayna
+Ukraine Sumy Oblast-->Ukrayna Sumy Oblastı?*?Ukrayna
+Ukraine Ternopil Oblast-->Ukrayna Ternopil Oblastı?*?Ukrayna
+Ukraine Vinnytsia Oblast-->Ukrayna Vinnitsa Oblastı?*?Ukrayna
+Ukraine Yalta-->Ukrayna Yalta?*?Ukrayna
+Ukraine Zakarpattia Oblast-->Ukrayna Zakarpatya Oblastı?*?Ukrayna
+United Kingdom Alderney-->Birleşik Krallık Alderney?*?Birleşik Krallık
+United Kingdom Anguilla-->Birleşik Krallık Anguilla?*?Birleşik Krallık
+United Kingdom Bedfordshire-->United Kingdom Bedfordshire?*?Birleşik Krallık
+United Kingdom Berkshire-->Birleşik Krallık Berkshire?*?Birleşik Krallık
+United Kingdom Bermuda-->Birleşik Krallık Bermuda?*?Birleşik Krallık
+United Kingdom Brecon Beacons-->Birleşik Krallık Brecon Beacons?*?Birleşik Krallık
+United Kingdom Brighton-->Birleşik Krallık Brighton?*?Birleşik Krallık
+United Kingdom Brighton and Hove-->Birleşik Krallık Brighton ve Hove?*?Birleşik Krallık
+United Kingdom Bristol-->Birleşik Krallık Bristol?*?Birleşik Krallık
+United Kingdom British Virgin Islands-->Birleşik Krallık Britanya Virjin Adaları?*?Birleşik Krallık
+United Kingdom Buckinghamshire-->Birleşik Krallık Buckinghamshire?*?Birleşik Krallık
+United Kingdom Cambridge-->Birleşik Krallık Cambridge?*?Birleşik Krallık
+United Kingdom Cambridge Central-->Birleşik Krallık Orta Cambridge?*?Birleşik Krallık
+United Kingdom Cambridgeshire-->Birleşik Krallık Cambridgeshire?*?Birleşik Krallık
+United Kingdom Cayman Islands-->Birleşik Krallık Cayman Adaları?*?Birleşik Krallık
+United Kingdom Channel Islands-->Birleşik Krallık Manş Adaları?*?Birleşik Krallık
+United Kingdom Cheshire-->Birleşik Krallık Cheshire?*?Birleşik Krallık
+United Kingdom Chichester-->Birleşik Krallık Chichester?*?Birleşik Krallık
+United Kingdom Chichester District-->Birleşik Krallık Chichester Bölgesi?*?Birleşik Krallık
+United Kingdom City of Preston-->Birleşik Krallık Preston Şehri?*?Birleşik Krallık
+United Kingdom Cornwall-->Birleşik Krallık Cornwall?*?Birleşik Krallık
+United Kingdom Cornwall (mainland)-->Birleşik Krallık Cornwall (anakara)?*?Birleşik Krallık
+United Kingdom Cornwall southwest-->Birleşik Krallık Cornwall güneybatı?*?Birleşik Krallık
+United Kingdom County Durham-->Birleşik Krallık Durham Kontluğu?*?Birleşik Krallık
+United Kingdom Crawley-->Birleşik Krallık Crawley?*?Birleşik Krallık
+United Kingdom Cumbria-->Birleşik Krallık Cumbria?*?Birleşik Krallık
+United Kingdom Dartmoor-->Birleşik Krallık Dartmoor?*?Birleşik Krallık
+United Kingdom Derbyshire-->Birleşik Krallık Derbyshire?*?Birleşik Krallık
+United Kingdom Devon-->Birleşik Krallık Devon?*?Birleşik Krallık
+United Kingdom Dorset-->Birleşik Krallık Dorset?*?Birleşik Krallık
+United Kingdom Durham-->Birleşik Krallık Durham?*?Birleşik Krallık
+United Kingdom East Riding of Yorkshire-->Birleşik Krallık East Riding Yorkshire?*?Birleşik Krallık
+United Kingdom East Sussex-->Birleşik Krallık East Sussex?*?Birleşik Krallık
+United Kingdom Edinburgh-->Birleşik Krallık Edinburgh?*?Birleşik Krallık?İskoçya
+United Kingdom England-->Birleşik Krallık İngiltere?*?Birleşik Krallık?İngiltere
+United Kingdom England Southeast-->Birleşik Krallık İngiltere Güneydoğu?*?Birleşik Krallık?İngiltere
+United Kingdom Essex-->Birleşik Krallık Essex?*?Birleşik Krallık
+United Kingdom Exmoor-->Birleşik Krallık Exmoor?*?Birleşik Krallık
+United Kingdom Falkland Islands-->Birleşik Krallık Falkland Adaları?*?Birleşik Krallık
+United Kingdom Forest of Bowland-->Birleşik Krallık Bowland Ormanı?*?Birleşik Krallık
+United Kingdom Gloucestershire-->Birleşik Krallık Gloucestershire?*?Birleşik Krallık
+United Kingdom Greater Belfast-->Birleşik Krallık Greater Belfast?*?Birleşik Krallık
+United Kingdom Greater Liverpool-->Birleşik Krallık Greater Liverpool?*?Birleşik Krallık
+United Kingdom Greater London-->Birleşik Krallık Greater London?*?Birleşik Krallık
+United Kingdom Greater Manchester-->Birleşik Krallık Greater Manchester?*?Birleşik Krallık
+United Kingdom Guernsey-->Birleşik Krallık Guernsey?*?Birleşik Krallık
+United Kingdom Hampshire-->Birleşik Krallık Hampshire?*?Birleşik Krallık
+United Kingdom Herefordshire-->Birleşik Krallık Herefordshire?*?Birleşik Krallık
+United Kingdom Isle of Wight-->Birleşik Krallık Wight Adası?*?Birleşik Krallık
+United Kingdom Isles of Scilly-->Birleşik Krallık Scilly Adaları?*?Birleşik Krallık
+United Kingdom Kent-->Birleşik Krallık Kent?*?Birleşik Krallık
+United Kingdom Lake District-->Birleşik Krallık Lake District?*?Birleşik Krallık
+United Kingdom Lancashire-->Birleşik Krallık Lancashire?*?Birleşik Krallık
+United Kingdom Leicestershire-->Birleşik Krallık Leicestershire?*?Birleşik Krallık
+United Kingdom Lincolnshire-->Birleşik Krallık Lincolnshire?*?Birleşik Krallık
+United Kingdom Liverpool-->Birleşik Krallık Liverpool?*?Birleşik Krallık
+United Kingdom Liverpool Central-->Birleşik Krallık Orta Liverpool?*?Birleşik Krallık
+United Kingdom London Barking and Dagenham-->Birleşik Krallık Londra Barking ve Dagenham?*?Birleşik Krallık
+United Kingdom London Barnet-->Birleşik Krallık Londra Barnet?*?Birleşik Krallık
+United Kingdom London Bexley-->Birleşik Krallık Londra Bexley?*?Birleşik Krallık
+United Kingdom London Brent-->Birleşik Krallık Londra Brent?*?Birleşik Krallık
+United Kingdom London Bromley-->Birleşik Krallık Londra Bromley?*?Birleşik Krallık
+United Kingdom London Camden-->Birleşik Krallık Londra Camden?*?Birleşik Krallık
+United Kingdom London City of London-->Birleşik Krallık Londra Londra Şehri?*?Birleşik Krallık
+United Kingdom London Croydon-->Birleşik Krallık Londra Croydon?*?Birleşik Krallık
+United Kingdom London Ealing-->Birleşik Krallık Londra Ealing?*?Birleşik Krallık
+United Kingdom London Enfield-->Birleşik Krallık Londra Enfield?*?Birleşik Krallık
+United Kingdom London Greenwich-->Birleşik Krallık Londra Greenwich?*?Birleşik Krallık
+United Kingdom London Hackney-->Birleşik Krallık Londra Hackney?*?Birleşik Krallık
+United Kingdom London Hammersmith and Fulham-->Birleşik Krallık Londra Hammersmith ve Fulham?*?Birleşik Krallık
+United Kingdom London Haringey-->Birleşik Krallık Londra Haringey?*?Birleşik Krallık
+United Kingdom London Harrow-->Birleşik Krallık Londra Harrow?*?Birleşik Krallık
+United Kingdom London Havering-->Birleşik Krallık Londra Havering?*?Birleşik Krallık
+United Kingdom London Hillingdon-->Birleşik Krallık Londra Hillingdon?*?Birleşik Krallık
+United Kingdom London Hounslow-->Birleşik Krallık Londra Hounslow?*?Birleşik Krallık
+United Kingdom London Islington-->Birleşik Krallık Londra Islington?*?Birleşik Krallık
+United Kingdom London Kensington-->Birleşik Krallık Londra Kensington?*?Birleşik Krallık
+United Kingdom London Kensington and Chelsea-->Birleşik Krallık Londra Kensington ve Chelsea?*?Birleşik Krallık
+United Kingdom London Kingston upon Thames-->Birleşik Krallık Londra Kingston?*?Birleşik Krallık
+United Kingdom London Lambeth-->Birleşik Krallık Londra Lambeth?*?Birleşik Krallık
+United Kingdom London Lewisham-->Birleşik Krallık Londra Lewisham?*?Birleşik Krallık
+United Kingdom London Merton-->Birleşik Krallık Londra Merton?*?Birleşik Krallık
+United Kingdom London Newham-->Birleşik Krallık Londra Newham?*?Birleşik Krallık
+United Kingdom London Redbridge-->Birleşik Krallık Londra Redbridge?*?Birleşik Krallık
+United Kingdom London Richmond upon Thames-->Birleşik Krallık Londra Richmond upon Thames?*?Birleşik Krallık
+United Kingdom London Southwark-->Birleşik Krallık Londra Southwark?*?Birleşik Krallık
+United Kingdom London Sutton-->Birleşik Krallık Londra Sutton?*?Birleşik Krallık
+United Kingdom London Tower Hamlets-->Birleşik Krallık Londra Tower Hamlets?*?Birleşik Krallık
+United Kingdom London Waltham Forest-->Birleşik Krallık Londra Waltham Forest?*?Birleşik Krallık
+United Kingdom London Wandsworth-->Birleşik Krallık Londra Wandsworth?*?Birleşik Krallık
+United Kingdom London Westminster-->Birleşik Krallık Londra Westminster?*?Birleşik Krallık
+United Kingdom Manchester-->Birleşik Krallık Manchester?*?Birleşik Krallık
+United Kingdom Merseyside-->Birleşik Krallık Merseyside?*?Birleşik Krallık
+United Kingdom Montserrat-->Birleşik Krallık Montserrat?*?Birleşik Krallık
+United Kingdom Norfolk-->Birleşik Krallık Norfolk?*?Birleşik Krallık
+United Kingdom Northern Ireland-->Kuzey İrlanda?*?Birleşik Krallık
+United Kingdom North Yorkshire-->Birleşik Krallık North Yorkshire?*?Birleşik Krallık
+United Kingdom Northamptonshire-->Birleşik Krallık Northamptonshire?*?Birleşik Krallık
+United Kingdom Northumberland-->Birleşik Krallık Northumberland?*?Birleşik Krallık
+United Kingdom Nottinghamshire-->Birleşik Krallık Nottinghamshire?*?Birleşik Krallık
+United Kingdom Oldham-->Birleşik Krallık Oldham?*?Birleşik Krallık
+United Kingdom Oxford (central)-->Birleşik Krallık Oxford (merkez)?*?Birleşik Krallık
+United Kingdom Oxfordshire-->Birleşik Krallık Oxfordshire?*?Birleşik Krallık
+United Kingdom Plymouth-->Birleşik Krallık Plymouth?*?Birleşik Krallık
+United Kingdom Preston central-->Birleşik Krallık Orta Preston?*?Birleşik Krallık
+United Kingdom Reading-->Birleşik Krallık Reading?*?Birleşik Krallık
+United Kingdom Reading Central-->Birleşik Krallık Reading Merkez?*?Birleşik Krallık
+United Kingdom Rutland-->Birleşik Krallık Rutland?*?Birleşik Krallık
+United Kingdom Scotland-->Birleşik Krallık İskoçya?*?Birleşik Krallık?İskoçya
+United Kingdom Sheffield-->Birleşik Krallık Sheffield?*?Birleşik Krallık
+United Kingdom Shropshire-->Birleşik Krallık Shropshire?*?Birleşik Krallık
+United Kingdom Soho-->Birleşik Krallık Soho?*?Birleşik Krallık
+United Kingdom Somerset-->Birleşik Krallık Somerset?*?Birleşik Krallık
+United Kingdom South Yorkshire-->Birleşik Krallık Güney Yorkshire?*?Birleşik Krallık
+United Kingdom Southampton-->Birleşik Krallık Southampton?*?Birleşik Krallık
+United Kingdom Staffordshire-->Birleşik Krallık Staffordshire?*?Birleşik Krallık
+United Kingdom Suffolk-->Birleşik Krallık Suffolk?*?Birleşik Krallık
+United Kingdom Surrey-->Birleşik Krallık Surrey?*?Birleşik Krallık
+United Kingdom Tristan da Cunha-->Birleşik Krallık Tristan da Cunha?*?Birleşik Krallık
+United Kingdom Turks and Caicos Islands-->Birleşik Krallık Turks ve Caicos Adaları?*?Birleşik Krallık
+United Kingdom Tyne and Wear-->Birleşik Krallık Tyne ve Wear?*?Birleşik Krallık
+United Kingdom Wales-->Birleşik Krallık Galler?*?Birleşik Krallık?Galler
+United Kingdom Warwickshire-->Birleşik Krallık Warwickshire?*?Birleşik Krallık
+United Kingdom West Midlands-->Birleşik Krallık West Midlands?*?Birleşik Krallık
+United Kingdom West Sussex-->Birleşik Krallık Batı Sussex?*?Birleşik Krallık
+United Kingdom West Yorkshire-->Birleşik Krallık Batı Yorkshire?*?Birleşik Krallık
+United Kingdom Wiltshire-->Birleşik Krallık Wiltshire?*?Birleşik Krallık
+United Kingdom Worcestershire-->Birleşik Krallık Worcestershire?*?Birleşik Krallık
+United Kingdom Yorkshire Dales-->Birleşik Krallık Yorkshire Dales?*?Birleşik Krallık
+United States Anaheim-->ABD Anaheim?*?ABD
+United States Atlanta Central-->ABD Atlanta?*?ABD
+United States Bakersfield-->ABD Bakersfield?*?ABD
+United States Bakersfield Downtown-->ABD Bakersfield şehir merkezi?*?ABD
+United States Baltimore-->ABD Baltimore?*?ABD
+United States California Carmel-->ABD Kaliforniya Carmel?*?ABD
+United States Chicago-->ABD Şikago?*?ABD
+United States Chicago Central-->ABD Şikago Merkez?*?ABD
+United States Chicago Downtown-->ABD Şikago şehir merkezi?*?ABD
+United States Chicago Exelon Pavilions-->ABD Şikago Exelon Pavilions?*?ABD
+United States Chicago Greater-->ABD Greaer Şikago?*?ABD
+United States Chicago Loop-->ABD Şikago Loop?*?ABD
+United States Chicago Near North Side-->ABD Şikago Near North Side?*?ABD
+United States Cleveland-->ABD Cleveland?*?ABD
+United States District of Columbia street-->ABD Kolumbiya Bölgesi cadde?*?ABD
+United States Downtown Las Vegas-->ABD Las Vegas şehir merkezi?*?ABD
+United States Fresno-->ABD Fresno?*?ABD
+United States Long Beach-->ABD Long Beach?*?ABD
+United States Los Angeles Central-->ABD Los Angeles Merkez?*?ABD
+United States Los Angeles Downtown-->ABD Los Angeles şehir merkezi?*?ABD
+United States Los Angeles Southern-->ABD Los Angeles Güney?*?ABD
+United States Los Angeles Western-->ABD Los Angeles Batı?*?ABD
+United States Manhattan-->ABD Manhattan?*?ABD
+United States Miami-->ABD Miami?*?ABD
+United States Miami Central-->ABD Miami Merkez?*?ABD
+United States Missouri St. Louis-->ABD Missouri St. Louis?*?ABD
+United States Monterey Peninsula-->ABD Monterey?*?ABD
+United States Mountain View-->ABD Mountain View?*?ABD
+United States Oakland-->ABD Oakland?*?ABD
+United States Sacramento-->ABD Sacramento?*?ABD
+United States San Diego-->ABD San Diego?*?ABD
+United States San Diego Northeastern-->ABD San Diego kuzeydoğu?*?ABD
+United States San Diego Northwestern-->ABD San Diego kuzeybatı?*?ABD
+United States San Diego Southern-->ABD San Diego güney?*?ABD
+United States San Fernando Valley-->ABD San Fernando Valley?*?ABD
+United States San Francisco-->ABD San Francisco?*?ABD
+United States San Francisco Central-->ABD San Francisco Merkez?*?ABD
+United States San Francisco County-->ABD San Francisco County?*?ABD
+United States San Jose-->ABD San Jose?*?ABD
+United States Umnak Island-->ABD Umnak?*?ABD
+United States Unalaska Island-->ABD Unalaska Adası?*?ABD
+United States Virginia Alexandria-->ABD Virginia Alexandria?*?ABD
+United States Virginia Alexandria Historical District-->ABD Virginia Alexandria Tarihi Bölge?*?ABD
+United States Washington, D.C.-->ABD Washington, D.C.?*?ABD
+United States Washington, D.C. central-->ABD Washington, D.C.'nin merkezi?*?ABD
+United States Washington, D.C. east-->ABD Washington, D.C. doğu?*?ABD
+Upper Galilee-->Yukarı Celile?*?İsrail?Filistin
+Uruguay Montevideo-->Uruguay Montevideo?*?Uruguay
+Uruguay Montevideo Ciudad Vieja-->Uruguay Montevideo Ciudad Vieja?*?Uruguay
 Valley of Spercheios-->Spercheios Vadisi
-Vanuatu-->Vanuatu
-Venezuela Caracas-->Venezuela Caracas
+Vanuatu-->Vanuatu?*?Vanuatu
+Venezuela Caracas-->Venezuela Caracas?*?Venezuela
 Venus-->Venüs
-Vilnius-->Litcanya Vilnius
-Vojvodina-->Sırbistan Voyvodina
-Wales Anglesey-->Galler Anglesey
-Wales Blaenau Gwent-->Galler Blaenau Gwent
-Wales Bridgend-->Galler Bridgend
-Wales Caerphilly-->Galler Caerphilly
-Wales Cardiff-->Galler Cardiff
-Wales Cardiff Central-->Galler Cardiff Merkez
-Wales Carmarthenshire-->Galler Carmarthenshire
-Wales Ceredigion-->Galler Ceredigion
-Wales Conwy-->Galler Conwy
-Wales Denbighshire-->Galler Denbighshire
-Wales Flintshire-->Galler Flintshire
-Wales Gwynedd-->Galler Gwynedd
-Wales Merthyr Tydfil-->Galler Merthyr Tydfil
-Wales Monmouth-->Galler Monmouth
-Wales Monmouthshire-->Wales Monmouthshire
-Wales Neath Port Talbot-->Galler Kuzey Port Talbot
-Wales Newport-->Galler Newport
-Wales Newport 2-->Galler Newport 2
-Wales Pembrokeshire-->Galler Pembrokeshire
-Wales Powys-->Galler Powys
-Wales Rhondda Cynon Taf-->Galler Rhondda Cynon Taf
-Wales Snowdonia-->Galler Snowdonia
-Wales Swansea-->Wales Swansea
-Wales Torfaen-->Galler Torfaen
-Wales Vale of Glamorgan-->Galler Vale of Glamorgan
-Wales Vale of Glamorgan Barry-->Galler Vale of Glamorgan Barry
-Wales Wrexham-->Galler Wrexham
-Wallis-->Fransa Wallis
-Wallis and Futuna-->Fransa Wallis ve Futuna Adaları
-Wangchuck Centennial Park-->Bhutan Wangchuck Yüzyıl Parkı
-Wangdue Phodrang Bhutan-->Bhutan Wangdue Phodrang
-West Bank-->Batı Şeria
+Vilnius-->Litvanya Vilnius?*?Litvanya
+Vojvodina-->Sırbistan Voyvodina?*?Sırbistan
+Wales Anglesey-->Galler Anglesey?*?Galler?Birleşik Krallık
+Wales Blaenau Gwent-->Galler Blaenau Gwent?*?Galler?Birleşik Krallık
+Wales Bridgend-->Galler Bridgend?*?Galler?Birleşik Krallık
+Wales Caerphilly-->Galler Caerphilly?*?Galler?Birleşik Krallık
+Wales Cardiff-->Galler Cardiff?*?Galler?Birleşik Krallık
+Wales Cardiff Central-->Galler Cardiff Merkez?*?Galler?Birleşik Krallık
+Wales Carmarthenshire-->Galler Carmarthenshire?*?Galler?Birleşik Krallık
+Wales Ceredigion-->Galler Ceredigion?*?Galler?Birleşik Krallık
+Wales Conwy-->Galler Conwy?*?Galler?Birleşik Krallık
+Wales Denbighshire-->Galler Denbighshire?*?Galler?Birleşik Krallık
+Wales Flintshire-->Galler Flintshire?*?Galler?Birleşik Krallık
+Wales Gwynedd-->Galler Gwynedd?*?Galler?Birleşik Krallık
+Wales Merthyr Tydfil-->Galler Merthyr Tydfil?*?Galler?Birleşik Krallık
+Wales Monmouth-->Galler Monmouth?*?Galler?Birleşik Krallık
+Wales Monmouthshire-->Wales Monmouthshire?*?Galler?Birleşik Krallık
+Wales Neath Port Talbot-->Galler Kuzey Port Talbot?*?Galler?Birleşik Krallık
+Wales Newport-->Galler Newport?*?Galler?Birleşik Krallık
+Wales Newport 2-->Galler Newport 2?*?Galler?Birleşik Krallık
+Wales Pembrokeshire-->Galler Pembrokeshire?*?Galler?Birleşik Krallık
+Wales Powys-->Galler Powys?*?Galler?Birleşik Krallık
+Wales Rhondda Cynon Taf-->Galler Rhondda Cynon Taf?*?Galler?Birleşik Krallık
+Wales Snowdonia-->Galler Snowdonia?*?Galler?Birleşik Krallık
+Wales Swansea-->Wales Swansea?*?Galler?Birleşik Krallık
+Wales Torfaen-->Galler Torfaen?*?Galler?Birleşik Krallık
+Wales Vale of Glamorgan-->Galler Vale of Glamorgan?*?Galler?Birleşik Krallık
+Wales Vale of Glamorgan Barry-->Galler Vale of Glamorgan Barry?*?Galler?Birleşik Krallık
+Wales Wrexham-->Galler Wrexham?*?Galler?Birleşik Krallık
+Wallis-->Wallis?*?Fransa
+Wallis and Futuna-->Wallis ve Futuna Adaları?*?Fransa
+Wangchuck Centennial Park-->Bhutan Wangchuck Yüzyıl Parkı?*?Bhutan
+Wangdue Phodrang Bhutan-->Bhutan Wangdue Phodrang?*?Bhutan
+West Bank-->Batı Şeria?*?Filistin
 Western Europe-->Batı Avrupa
 Western Europe World Heritage Sites-->Batı Avrupa Dünya Mirası Alanları
 Western Europe World Heritage Sites2-->Batı Avrupa Dünya Mirası Alanları2
-Western Galilee-->Batı Celile
-Wiesbaden-->Almanya Wiesbaden
-Yugoslavia-->Yugoslavya
-Zhemgang Bhutan-->Bhutan Zhemgang
+Western Galilee-->Batı Celile?*?Filistin?İsrail
+Wiesbaden-->Almanya Wiesbaden?*?Almanya
+Yugoslavia-->Yugoslavya?*?Yugoslavya
+Zhemgang Bhutan-->Bhutan Zhemgang?*?Bhutan
