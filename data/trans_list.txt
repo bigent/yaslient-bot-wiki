@@ -1,7 +1,7 @@
 Aruba-->Aruba?*?Aruba
 Aruba2-->Aruba2?*?Aruba
 Asia-->Asya
-Asia2-->Asia2
+Asia2-->Asya2
 Atlantic Ocean-->Atlas Okyanusu
 Australia Australian Capital Territory-->Avustralya Avustralya Başkent Bölgesi?*?Avustralya
 Australia Jervis Bay Territory-->Avustralya Jervis Bay Bölgesi?*?Avustralya
