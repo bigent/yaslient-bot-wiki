@@ -1,3 +1,82 @@
+Aruba-->Aruba?*?Aruba
+Aruba2-->Aruba2?*?Aruba
+Asia-->Asya
+Asia2-->Asya2
+Atlantic Ocean-->Atlas Okyanusu
+Australia Australian Capital Territory-->Avustralya Avustralya Başkent Bölgesi?*?Avustralya
+Australia Jervis Bay Territory-->Avustralya Jervis Bay Bölgesi?*?Avustralya
+Australia New South Wales LGAs-->Avustralya Yeni Güney Galler yerel hükümet alanları?*?Avustralya
+Australia Norfolk Island-->Avustralya Norfolk Adası?*?Avustralya
+Australia Northern Territory-->Avustralya Kuzey Toprakları?*?Avustralya
+Australia Queensland-->Avustralya Queensland?*?Avustralya
+Australia South Australia-->Avustralya Güney Avustralya?*?Avustralya
+Australia Sydney-->Avustralya Sidney?*?Avustralya
+Australia Tasmania-->Avustralya Tasmanya?*?Avustralya
+Australia Victoria Alpine Shire-->Avustralya Victoria Alpine shire'ı?*?Avustralya
+Australia Victoria Bass Coast Shire-->Avustralya Victoria Bass Coast shire'ı?*?Avustralya
+Australia Victoria Borough of Queenscliffe-->Avustralya Victoria Queenscliffe ilçesi?*?Avustralya
+Australia Victoria City of Ballarat-->Avustralya Victoria Ballarat şehri?*?Avustralya
+Australia Victoria City of Bendigo-->Avustralya Victoria Bendigo şehri?*?Avustralya
+Australia Victoria City of Greater Bendigo-->Avustralya Victoria Greater Bendigo?*?Avustralya
+Australia Victoria City of Greater Geelong-->Avustralya Victoria Greater Geelong?*?Avustralya
+Australia Victoria City of Greater Shepparton-->Avustralya Victoria Greater Shepparton?*?Avustralya
+Australia Victoria City of Latrobe-->Avustralya Victoria Latrobe şehri?*?Avustralya
+Australia Victoria City of Warrnambool-->Avustralya Victoria Warrnambool şehri?*?Avustralya
+Australia Victoria City of Wodonga-->Avustralya Victoria Wodonga şehri?*?Avustralya
+Australia Victoria Colac Otway Shire-->Avustralya Victoria Colac Otway shire'ı?*?Avustralya
+Australia Victoria Corangamite Shire-->Avustralya Victoria Corangamite shire'ı?*?Avustralya
+Australia Victoria French Island-->Avustralya Victoria Fransız Adası?*?Avustralya
+Australia Victoria Golden Plains Shire-->Avustralya Victoria Golden Plains shire'ı?*?Avustralya
+Australia Victoria Pyrenees Shire-->Avustralya Victoria Pyrenees shire'ı?*?Avustralya
+Australia Victoria Rural City of Ararat-->Avustralya Victoria Ararat şehri?*?Avustralya
+Australia Victoria Rural City of Benalla-->Avustralya Victoria Benalla şehri?*?Avustralya
+Australia Victoria Rural City of Horsham-->Avustralya Victoria Horsham şehri?*?Avustralya
+Australia Victoria Rural City of Mildura-->Avustralya Victoria Mildura şehri?*?Avustralya
+Australia Victoria Rural City of Swan Hill-->Avustralya Victoria Swan Hill şehri?*?Avustralya
+Australia Victoria Rural City of Wangaratta-->Avustralya Victoria Wangaratta şehri?*?Avustralya
+Australia Victoria Shire of Baw Baw-->Avustralya Victoria Baw Baw shire'ı?*?Avustralya
+Australia Victoria Shire of Buloke-->Avustralya Victoria Buloke shire'ı?*?Avustralya
+Australia Victoria Shire of Campaspe-->Avustralya Victoria Campaspe shire'ı?*?Avustralya
+Australia Victoria Shire of Central Goldfields-->Avustralya Victoria Central Goldfields shire'ı?*?Avustralya
+Australia Victoria Shire of East Gippsland-->Avustralya Victoria East Gippsland shire'ı?*?Avustralya
+Australia Victoria Shire of Gannawarra-->Avustralya Victoria Gannawarra shire'ı?*?Avustralya
+Australia Victoria Shire of Glenelg-->Avustralya Victoria Glenelg shire'ı?*?Avustralya
+Australia Victoria Shire of Hepburn-->Avustralya Victoria Hepburn shire'ı?*?Avustralya
+Australia Victoria Shire of Hindmarsh-->Avustralya Victoria Hindmarsh shire'ı?*?Avustralya
+Australia Victoria Shire of Indigo-->Avustralya Victoria Indigo shire'ı?*?Avustralya
+Australia Victoria Shire of Loddon-->Avustralya Victoria Loddon shire'ı?*?Avustralya
+Australia Victoria Shire of Macedon Ranges-->Avustralya Victoria Macedon Ranges shire'ı?*?Avustralya
+Australia Victoria Shire of Mansfield-->Avustralya Victoria Mansfield shire'ı?*?Avustralya
+Australia Victoria Shire of Mitchell-->Avustralya Victoria Mitchell shire'ı?*?Avustralya
+Australia Victoria Shire of Moira-->Avustralya Victoria Moira shire'ı?*?Avustralya
+Australia Victoria Shire of Moorabool-->Avustralya Victoria Moorabool shire'ı?*?Avustralya
+Australia Victoria Shire of Mount Alexander-->Avustralya Victoria Mount Alexander shire'ı?*?Avustralya
+Australia Victoria Shire of Moyne-->Avustralya Victoria Moyne shire'ı?*?Avustralya
+Australia Victoria Shire of Murrindindi-->Avustralya Victoria Murrindindi shire'ı?*?Avustralya
+Australia Victoria Shire of Northern Grampians-->Avustralya Victoria Northern Grampians shire'ı?*?Avustralya
+Australia Victoria Shire of Southern Grampians-->Avustralya Victoria Southern Grampians shire'ı?*?Avustralya
+Australia Victoria Shire of Strathbogie-->Avustralya Victoria Strathbogie shire'ı?*?Avustralya
+Australia Victoria Shire of Towong-->Avustralya Victoria Towong shire'ı?*?Avustralya
+Australia Victoria Shire of Wellington-->Avustralya Victoria Wellington shire'ı?*?Avustralya
+Australia Victoria Shire of West Wimmera-->Avustralya Victoria West Wimmera shire'ı?*?Avustralya
+Australia Victoria Shire of Yarriambiack-->Avustralya Victoria Yarriambiack shire'ı?*?Avustralya
+Australia Victoria South Gippsland Shire-->Avustralya Victoria South Gippsland shire'ı?*?Avustralya
+Australia Victoria Surf Coast Shire-->Avustralya Victoria Surf Coast shire'ı?*?Avustralya
+Australia Victoria Wellington Shire-->Avustralya Victoria Wellington shire'ı?*?Avustralya
+Australia Victoria complete Melbourne metropolitan area-->Avustralya Victoria bütün Melbourne metropolü?*?Avustralya
+Australia Victoria highways-->Avustralya Victoria karayolları?*?Avustralya
+Australia Victoria metropolitan Melbourne-->Avustralya Victoria Melbourne?*?Avustralya
+Australia Western Australia-->Avustralya Batı Avustralya?*?Avustralya
+Australia Western Australia metropolitan Perth-->Avustralya Batı Avustralya metropolitan Perth?*?Avustralya
+Australia and New Zealand-->Avustralya ve Yeni Zelanda
+Australian Capital Territory-->Avustralya Başkent Bölgesi?*?Avustralya
+Austria EBEL-->Avusturya EBEL?*?Avusturya
+Bahamas-->Bahamalar?*?Bahamalar
+Bahrain Manama-->Bahreyn Manama?*?Bahreyn
+Baikonur Cosmodrome-->Baykonur Baykonur Uzay Üssü
+Balkans-->Balkanlar
+Baltic Sea-->Baltık Denizi
+Baltic states-->Baltık devletleri
 Bantayan-->Bantayan
 Barbados-->Barbados?*?Barbados
 Beirut-->Beyrut?*?Beyrut
