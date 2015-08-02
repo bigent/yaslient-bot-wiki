@@ -128,9 +128,12 @@ for locationmap in data:
             }
             asd = api.APIRequest(site, params)
             try:
-                asd.query()
+                asd.query(False)
             except:
-                pass
+		try:
+                    asd.query()
+		except:
+		    pass
             print "Eklenildi."
             break
 
