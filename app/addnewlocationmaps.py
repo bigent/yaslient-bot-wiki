@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from wikitools import wiki, category, api, page
 from models import Content
-import sys, locale
+import sys, locale, getpass
 
 reload(sys)
 sys.setdefaultencoding("UTF-8")
@@ -29,7 +29,7 @@ print("Datalar ayıklandı.")
 f1.close()
 
 site = wiki.Wiki("https://tr.wikipedia.org/w/api.php")
-password = raw_input("Sifrenizi giriniz:")
+password = getpass.getpass("Sifrenizi giriniz:")
 site.login("Yaslient1", password)
 
 for locationmap in data:

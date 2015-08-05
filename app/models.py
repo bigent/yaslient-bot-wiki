@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from wikitools import wiki, category, api, page
 from bs4 import BeautifulSoup
-import locale, datetime, sys, timestring
+import locale, datetime, sys, timestring, re
 
 reload(sys)
 sys.setdefaultencoding("UTF-8")
@@ -102,9 +102,9 @@ class Content(object):
         templates = [
         "Kişi bilgi kutusu şablonları",
         "Futbol bilgi kutusu şablonları",
-        "Kurgusal karakter bilgi kutusu şablonları",
         "Sanat bilgi kutusu şablonları",
         "Askeri bilgi kutusu şablonları",
+        "Sporcu bilgi kutusu şablonları‎"
         ]
         list = []
 
@@ -113,7 +113,7 @@ class Content(object):
             for i in data:
                 i = i[7:]
                 try:
-                    if content.find(i) != -1:
+                    if content.find(i) != -1 and str(i).endswith("bilgi kutusu"):
                         self._getTemplate(i, content)
                         list.append(i)
                 except:
@@ -202,6 +202,8 @@ class Content(object):
                     text_list = [text]
                 if timestring.Date(text_list[0]):
                     try:
+                        text_list[0] = str(text_list[0]).encode("utf-8").replace("[[", "")
+                        text_list[0] = str(text_list[0]).encode("utf-8").replace("]]", "")
                         birthDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
@@ -236,6 +238,14 @@ class Content(object):
 
                 if timestring.Date(text_list[0]):
                     try:
+                        text_list[0] = text_list[0].replace("[[", "")
+                        text_list[0] = text_list[0].replace("]]", "")
+                        try:
+                            m = re.search("((\w+) yaşında)", text_list[0])
+                            print m.groups()
+                            text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
+                        except:
+                            pass
                         deathDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
