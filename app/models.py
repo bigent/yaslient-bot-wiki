@@ -41,7 +41,7 @@ class Content(object):
             elif (c == "}" and braces == 0):
                 endIndex = i
                 break
-        return [startIndex-2-len(infobox_name), endIndex+1]
+        return [startIndex-2-len(infobox_name), endIndex+2]
 
     def _getTemplate(self, name, content):
         input = content
@@ -433,9 +433,18 @@ class Content(object):
     @staticmethod
     def _templateToString(name, dict):
         result="{{"+name+"\n"
+        max_key_len = 1
+
         for key, val in dict.iteritems():
             if str(key) != "0":
-                result += "| "+str(key)+" = "+str(val)+"\n"
+                if max_key_len < int(len(key.strip().decode('utf-8'))):
+                    max_key_len = int(len(key.strip().decode('utf-8')))
+
+        for key, val in dict.iteritems():
+            if str(key) != "0":
+                spaces = " "*(max_key_len - len(str(key).strip().decode('utf-8')))
+                result += "| "+str(key)+spaces+" = "+str(val)+"\n"
+
         result += "}}"
         return result
 
@@ -444,5 +453,34 @@ class Content(object):
         new_content = self._content
         for key, value in self.infoboxes.iteritems():
             indexes = self._getStartEndIndexOfTemplate(key, new_content)
+
+            #birth = self.is_birthDateTemplate(value)
+            #death = self.is_deathDateTemplate(value)
+
+            #if birth["result"] is True:
+            #    if re.findall("{}[ \n]+)=".format(birth["key"]) ,new_content):
+            #        fi = new_content.find("{}{}=".format(birth["key"], re.findall(birth["key"]+"[ \n]+)=" ,new_content)[0]))
+            #        for i in [n for n in xrange(len(new_content)) if fi == n]:
+            #            if i <= new_content.find(value[birth]) <= indexes[1]:
+            #                ram = new_content[i:indexes[1]]
+            #                ram.replace(self.findInfoboxes()[key][birth["key"]], value[birth["key"]], 1)
+            #                print "kk"
+            #                new_content.replace(new_content[i:indexes[1]], ram, 1)
+            #if death["result"] is True:
+            #    print str(death["key"])
+            #    tt = str(death["key"])+"[ \n]+)="
+            #    print re.findall(tt , new_content[indexes[0]:indexes[1]])
+            #    if re.findall(tt , new_content):
+            #        fi = new_content.find("{}{}=".format(death["key"], re.findall(death["key"]+"[ \n]+)=" ,new_content)[0]))
+            #        for i in [n for n in xrange(len(new_content)) if fi == n]:
+            #            if i <= new_content.find(value[birth]) <= indexes[1]:
+            #                ram = new_content[i:indexes[1]]
+            #                ram.replace(self.findInfoboxes()[key][death["key"]], value[death["key"]], 1)
+            #                print "kk"
+            #                new_content.replace(new_content[i:indexes[1]], ram, 1)
+
+            #        #if indexes[0] <= new_content.find("{}{}=".format(birth["key"], re.findall(birth["key"]+"[ \n]+)=" ,a)[0])) <= indexes[1]:
+
+
             new_content = new_content.replace(new_content[indexes[0]:indexes[1]], self._templateToString(key, value))
         return new_content
