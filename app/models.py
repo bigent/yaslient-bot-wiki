@@ -3,6 +3,7 @@
 from wikitools import wiki, category, api, page
 from bs4 import BeautifulSoup
 import locale, datetime, sys, timestring, re
+from collections import OrderedDict
 
 reload(sys)
 sys.setdefaultencoding("UTF-8")
@@ -39,10 +40,29 @@ class Content(object):
                 braces -= 1
             elif (c == "}" and braces == 0):
                 endIndex = i
+                break
         return [startIndex-2-len(infobox_name), endIndex+1]
 
     def _getTemplate(self, name, content):
         input = content
+
+        resolve = BeautifulSoup(input, 'html.parser')
+        for n in resolve.find_all():
+            old = n
+            try:
+                n.replace("|", "%!%!%")
+            except:
+                pass
+            try:
+                n.replace("=", "%@%@%")
+            except:
+                pass
+        try:
+            if n:
+                input.replace(old, n)
+        except:
+            pass
+
         startIndex = input.lower().find("{{" + name.lower()) + 2 + len(name)
         length = len(input)
         braces = 0
@@ -72,8 +92,10 @@ class Content(object):
                 last_char = c
             elif (c == "}" and braces == 0):
                 result = result.strip()
+
+                #asd
                 parts = result.split("|")
-                dict = {}
+                dict = OrderedDict()
                 counter = 0
                 for part in parts:
                     part = part.strip()
@@ -114,8 +136,8 @@ class Content(object):
                 i = i[7:]
                 try:
                     if content.find(i) != -1 and str(i).endswith("bilgi kutusu"):
-                        self._getTemplate(i, content)
-                        list.append(i)
+                        if self._getTemplate(i, content):
+                            list.append(i)
                 except:
                     pass
                 #if i in content.strip():
@@ -157,7 +179,9 @@ class Content(object):
 
         template_list = [
         "doğum tarihi",
-        "doğum tarihi ve yaşı"
+        "doğum tarihi ve yaşı",
+        "doğum yılı",
+        "doğum yılı ve yaşı"
         ]
 
         return self.__is_XXTemplate(infobox, key_list, template_list)
@@ -174,7 +198,9 @@ class Content(object):
 
         template_list = [
         "ölüm tarihi",
-        "ölüm tarihi ve yaşı"
+        "ölüm tarihi ve yaşı",
+        "ölüm yılı",
+        "ölüm yılı ve yaşı"
         ]
 
         return self.__is_XXTemplate(infobox, key_list, template_list)
@@ -190,6 +216,7 @@ class Content(object):
         ]
 
     def _fixBirthDate(self, infobox, isList=False):
+        excepts = ["hayatta", "yaşıyor", "-", ""]
         text = infobox[self.is_birthDateTemplate(infobox)["key"]]
         if self.is_birthDateTemplate(infobox)["result"] is False:
             resolve = BeautifulSoup(text, 'html.parser')
@@ -200,17 +227,59 @@ class Content(object):
                     text_list[1] = str(resolve.find_all()[0]) + text_list[1]
                 except:
                     text_list = [text]
-                if timestring.Date(text_list[0]):
+
+                text_list[0] = str(text_list[0]).encode("utf-8").replace("[[", "")
+                text_list[0] = str(text_list[0]).encode("utf-8").replace("]]", "")
+
+                try:
+                    timestring.Date(text_list[0])
+                    control1 = True
+                except:
                     try:
-                        text_list[0] = str(text_list[0]).encode("utf-8").replace("[[", "")
-                        text_list[0] = str(text_list[0]).encode("utf-8").replace("]]", "")
-                        birthDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
+                        datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
+                        control1 = True
+                    except:
+                        try:
+                            datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%Y")
+                            control1 = True
+                        except:
+                            control1 = False
+
+                try:
+                    datetime.datetime.strptime(text_list[0], '%d %B %Y')
+                    control2 = True
+                except:
+                    control2 = False
+
+                #None= only year, False= month and year, True= all
+                date_control = None
+                if control1 or control2:
+                    try:
+                        try:
+                            birthDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
+                            date_control = False
+                        except:
+                            try:
+                                birthDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%Y")
+                                date_control = None
+                            except:
+                                birthDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
+                                date_control = True
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
-                    if ( self.is_deathDateTemplate(infobox)["result"] is False and not self.is_deathDateTemplate(infobox)["key"] ):
-                        fixBirth = "{{" + "Doğum tarihi ve yaşı|{year}|{month}|{day}".format(year=birthDate.year, month=birthDate.month, day=birthDate.day) + "}}"
+
+                    if ( self.is_deathDateTemplate(infobox)["result"] is False and ((not infobox[self.is_deathDateTemplate(infobox)["key"]])) or infobox[self.is_deathDateTemplate(infobox)["key"]] in excepts ) or self.is_deathDateTemplate(infobox)["result"] is None:
+                        if date_control is None:
+                            fixBirth = "{{" + "Doğum yılı ve yaşı|{year}".format(year=str(birthDate.year)) + "}}"
+                        elif date_control is False:
+                            fixBirth = "{{" + "Doğum yılı ve yaşı|{year}|{month}".format(year=str(birthDate.year), month=str(birthDate.month)) + "}}"
+                        else:
+                            fixBirth = "{{" + "Doğum tarihi ve yaşı|{year}|{month}|{day}".format(year=str(birthDate.year), month=str(birthDate.month), day=str(birthDate.day)) + "}}"
                     else:
-                        fixBirth = "{{" + "Doğum tarihi|{year}|{month}|{day}".format(year=birthDate.year, month=birthDate.month, day=birthDate.day) + "}}"
+                        if date_control is True:
+                            fixBirth = "{{" + "Doğum tarihi|{year}|{month}|{day}".format(year=str(birthDate.year), month=str(birthDate.month), day=str(birthDate.day)) + "}}"
+                        else:
+                            fixBirth = str(birthDate.year)
 
                     text_list[0] = fixBirth
         try:
@@ -236,34 +305,110 @@ class Content(object):
                 except:
                     text_list = [text]
 
-                if timestring.Date(text_list[0]):
+                text_list[0] = text_list[0].replace("[[", "")
+                text_list[0] = text_list[0].replace("]]", "")
+
+                try:
+                    timestring.Date(text_list[0])
+                    control1 = True
+                except:
                     try:
-                        text_list[0] = text_list[0].replace("[[", "")
-                        text_list[0] = text_list[0].replace("]]", "")
+                        datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
+                        control1 = True
+                    except:
+                        try:
+                            datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%Y")
+                            control1 = True
+                        except:
+                            control1 = False
+
+                try:
+                    datetime.datetime.strptime(text_list[0], '%d %B %Y')
+                    control2 = True
+                except:
+                    control2 = False
+
+                #None= only year, False= month and year, True= all
+                date_control = None
+
+                if control1 or control2:
+
+                    try:
                         try:
                             m = re.search("((\w+) yaşında)", text_list[0])
-                            print m.groups()
                             text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
                         except:
-                            pass
-                        deathDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
+                            try:
+                                m = re.search("((\w+) yaşlarında)", text_list[0])
+                                text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
+                            except:
+                                pass
+
+                        try:
+                            deathDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
+                            date_control = False
+                        except:
+                            try:
+                                deathDate = datetime.datetime.strptime(text_list[0], "%Y")
+                                date_control = None
+                            except:
+                                deathDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
+                                date_control = True
+
+
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
                     #if not ( self.is_birthDateTemplate(infobox)["result"] is False and not self.is_birthDateTemplate(infobox)["key"] ):
+
                     if self.is_birthDateTemplate(infobox)["result"] is True:
-                        birthDate = self._getTemplate("Doğum tarihi", self._fixBirthDate(infobox))
-                        fixBirth = "{{" + "Ölüm tarihi ve yaşı|{death_year}|{death_month}|{death_day}|{birth_year}|{birth_month}|{birth_day}".format(
-                        death_year=deathDate.year,
-                        death_month=deathDate.month,
-                        death_day=deathDate.day,
-                        birth_year=birthDate[0],
-                        birth_month=birthDate[1],
-                        birth_day=birthDate[2]) + "}}"
+                        if date_control is None or date_control is False:
+                            try:
+                                birthDate = self._getTemplate("Doğum tarihi", self._fixBirthDate(infobox))
+                                year=str(birthDate[0])
+                            except:
+                                year = str(infobox[self.is_birthDateTemplate(infobox)["key"]])
+
+                            if date_control is None:
+                                fixBirth = "{{" + "Ölüm yılı ve yaşı|{death_year}|{birth_year}".format(
+                                death_year=str(deathDate.year),
+                                birth_year=year) + "}}"
+                            else:
+                                fixBirth = "{{" + "Ölüm yılı ve yaşı|{death_year}|{birth_year}|{death_month}".format(
+                                death_year=str(deathDate.year),
+                                birth_year=year,
+                                death_month=str(deathDate.month)) + "}}"
+                        else:
+                            birthDate = self._getTemplate("Doğum tarihi", self._fixBirthDate(infobox))
+                            fixBirth = "{{" + "Ölüm tarihi ve yaşı|{death_year}|{death_month}|{death_day}|{birth_year}|{birth_month}|{birth_day}".format(
+                            death_year=str(deathDate.year),
+                            death_month=str(deathDate.month),
+                            death_day=str(deathDate.day),
+                            birth_year=birthDate[0],
+                            birth_month=birthDate[1],
+                            birth_day=birthDate[2]) + "}}"
                     else:
-                        fixBirth = "{{" + "Ölüm tarihi|{death_year}|{death_month}|{death_day}".format(
-                        death_year=deathDate.year,
-                        death_month=deathDate.month,
-                        death_day=deathDate.day) + "}}"
+                        if date_control is None or date_control is False:
+                            try:
+                                birthDate = self._getTemplate("Doğum tarihi", self._fixBirthDate(infobox))
+                                year=str(birthDate[0])
+                            except:
+                                year = str(infobox[self.is_birthDateTemplate(infobox)["key"]])
+
+                            if date_control is None:
+                                fixBirth = "{{" + "Ölüm yılı ve yaşı|{death_year}|{birth_year}".format(
+                                death_year=str(deathDate.year),
+                                birth_year=year) + "}}"
+                            else:
+                                fixBirth = "{{" + "Ölüm yılı ve yaşı|{death_year}|{birth_year}|{death_month}".format(
+                                death_year=str(deathDate.year),
+                                birth_year=year,
+                                death_month=str(deathDate.month)) + "}}"
+                        else:
+                            fixBirth = "{{" + "Ölüm tarihi|{death_year}|{death_month}|{death_day}".format(
+                            death_year=str(deathDate.year),
+                            death_month=str(deathDate.month),
+                            death_day=str(deathDate.day)) + "}}"
+
 
                     if fixBirth:
                         text_list[0] = fixBirth

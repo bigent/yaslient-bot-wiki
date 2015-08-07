@@ -17,19 +17,28 @@ data = []
 
 for i in f1.readlines():
     i = str(i).strip()
+    data.append(i)
 
+for i in data:
     if not u"anon" in page.Page(site, title=i).getHistory()[0].keys():
         print "{} adlı maddenın wikitext'i alınıyor...".format(i)
         old_content = page.Page(site, title=i).getWikiText()
         print "Alındı."
 
         con = Content(content=old_content)
+        old_infoboxes = con.findInfoboxes()
         print "Doğum ve ölüm tarihi yenileniyor..."
         con.fixBirthAndDeathDates()
         print "Yenilendi."
 
-        print "Maddenin eski hali yeni haliyle değiştiriliyor..."
-        page.Page(site, i).edit(con.render(), bot="yes", skipmd5=True)
-        print "Değiştirildi."
+        if old_infoboxes == con.infoboxes:
+            print "Herhangi bir değişiklik olmadığından madde düzenlenmiyor."
+        else:
+            print "Maddenin eski hali yeni haliyle değiştiriliyor..."
+            page.Page(site, i).edit(con.render(), bot="yes", skipmd5=True)
+            print "Değiştirildi."
+        #print "====!===="
+        #print con.render()
+        #print "====!===="
         print "============"
 print "İşlemler bitti."
