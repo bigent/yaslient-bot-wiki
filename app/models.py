@@ -11,8 +11,6 @@ locale.setlocale(locale.LC_ALL, ('tr_TR', 'UTF-8'))
 
 site = wiki.Wiki("https://tr.wikipedia.org/w/api.php")
 
-
-
 class Content(object):
     def __init__(self, content):
         self._content = content.encode("utf-8")
@@ -228,22 +226,19 @@ class Content(object):
                 except:
                     text_list = [text]
 
+                backup_text_list = text_list[0]
                 text_list[0] = str(text_list[0]).encode("utf-8").replace("[[", "")
                 text_list[0] = str(text_list[0]).encode("utf-8").replace("]]", "")
 
                 try:
-                    timestring.Date(text_list[0])
+                    datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
                     control1 = True
                 except:
                     try:
-                        datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
+                        datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%Y")
                         control1 = True
                     except:
-                        try:
-                            datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%Y")
-                            control1 = True
-                        except:
-                            control1 = False
+                        control1 = False
 
                 try:
                     datetime.datetime.strptime(text_list[0], '%d %B %Y')
@@ -253,6 +248,11 @@ class Content(object):
 
                 #None= only year, False= month and year, True= all
                 date_control = None
+
+                print control1
+                print control2
+                print date_control
+
                 if control1 or control2:
                     try:
                         try:
@@ -282,6 +282,8 @@ class Content(object):
                             fixBirth = str(birthDate.year)
 
                     text_list[0] = fixBirth
+                elif not control1 and not control2:
+                    text_list[0] = backup_text_list
         try:
             if not isList:
                 return "".join(text_list)
@@ -308,19 +310,19 @@ class Content(object):
                 text_list[0] = text_list[0].replace("[[", "")
                 text_list[0] = text_list[0].replace("]]", "")
 
+            #    try:
+             #       timestring.Date(text_list[0])
+              #      control1 = True
+               # except:
                 try:
-                    timestring.Date(text_list[0])
+                    datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
                     control1 = True
                 except:
                     try:
-                        datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
+                        datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%Y")
                         control1 = True
                     except:
-                        try:
-                            datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%Y")
-                            control1 = True
-                        except:
-                            control1 = False
+                        control1 = False
 
                 try:
                     datetime.datetime.strptime(text_list[0], '%d %B %Y')
@@ -393,16 +395,21 @@ class Content(object):
                                 year=str(birthDate[0])
                             except:
                                 year = str(infobox[self.is_birthDateTemplate(infobox)["key"]])
+                                try:
+                                    datetime.datetime.strptime(year, "%Y")
 
-                            if date_control is None:
-                                fixBirth = "{{" + "Ölüm yılı ve yaşı|{death_year}|{birth_year}".format(
-                                death_year=str(deathDate.year),
-                                birth_year=year) + "}}"
-                            else:
-                                fixBirth = "{{" + "Ölüm yılı ve yaşı|{death_year}|{birth_year}|{death_month}".format(
-                                death_year=str(deathDate.year),
-                                birth_year=year,
-                                death_month=str(deathDate.month)) + "}}"
+                                    if date_control is None:
+                                        fixBirth = "{{" + "Ölüm yılı ve yaşı|{death_year}|{birth_year}".format(
+                                        death_year=str(deathDate.year),
+                                        birth_year=year) + "}}"
+                                    else:
+                                        fixBirth = "{{" + "Ölüm yılı ve yaşı|{death_year}|{birth_year}|{death_month}".format(
+                                        death_year=str(deathDate.year),
+                                        birth_year=year,
+                                        death_month=str(deathDate.month)) + "}}"
+                                except:
+                                    fixBirth = text_list[0]
+
                         else:
                             fixBirth = "{{" + "Ölüm tarihi|{death_year}|{death_month}|{death_day}".format(
                             death_year=str(deathDate.year),
@@ -437,8 +444,8 @@ class Content(object):
 
         for key, val in dict.iteritems():
             if str(key) != "0":
-                if max_key_len < int(len(key.strip().decode('utf-8'))):
-                    max_key_len = int(len(key.strip().decode('utf-8')))
+                if max_key_len < int(len(str(key).strip().decode('utf-8'))):
+                    max_key_len = int(len(str(key).strip().decode('utf-8')))
 
         for key, val in dict.iteritems():
             if str(key) != "0":
