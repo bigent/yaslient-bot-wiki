@@ -44,7 +44,7 @@ class Content(object):
     def _getTemplate(self, name, content):
         input = content
 
-        resolve = BeautifulSoup(input, 'html.parser')
+        resolve = BeautifulSoup(input, 'html.parser', from_encoding="utf-8")
         for n in resolve.find_all():
             old = n
             try:
@@ -169,10 +169,12 @@ class Content(object):
         key_list = [
         "doğum_tarihi",
         "dogum_tarihi",
-        "doğum tarihi"
+        "doğum tarihi",
         "dogum tarihi",
         "doğumtarihi",
-        "dogumtarihi"
+        "dogumtarihi",
+        "Doğum",
+        "doğum"
         ]
 
         template_list = [
@@ -188,10 +190,12 @@ class Content(object):
         key_list = [
         "ölüm_tarihi",
         "olum_tarihi",
-        "ölüm tarihi"
+        "ölüm tarihi",
         "olum tarihi",
         "ölümtarihi",
-        "olumtarihi"
+        "olumtarihi",
+        "Ölüm",
+        "ölüm"
         ]
 
         template_list = [
@@ -214,19 +218,33 @@ class Content(object):
         ]
 
     def _fixBirthDate(self, infobox, isList=False):
-        excepts = ["hayatta", "yaşıyor", "-", ""]
+        excepts = ["hayatta", "yaşıyor", "-", "", "<!-- {{ölüm tarihi ve yaşı|yıl|ay|gün}} -->", "<!-- {{Ölüm tarihi ve yaşı|yıl|ay|gün}} -->", "<!-- {{ölüm tarihi|yıl|ay|gün}} -->", "<!-- {{Ölüm tarihi|yıl|ay|gün}} -->"]
         text = infobox[self.is_birthDateTemplate(infobox)["key"]]
+        text = text.replace("<br>", "<br/>")
         if self.is_birthDateTemplate(infobox)["result"] is False:
-            resolve = BeautifulSoup(text, 'html.parser')
+            resolve = BeautifulSoup(text, 'html.parser', from_encoding="utf-8")
             if resolve:
-                text = infobox[self.is_birthDateTemplate(infobox)["key"]]
                 try:
-                    text_list = text.split(str(resolve.find_all()[0]))
-                    text_list[1] = str(resolve.find_all()[0]) + text_list[1]
+                    text_list = [x.encode('utf-8') for x in resolve.find_all(text=True)]
+                    count = 1
+                    for i in resolve.find_all():
+                        text_list[count] = str(i) + text_list[count]
+                        count += 1
+                    del count
                 except:
                     text_list = [text]
 
+                sss = []
+                sss.append(text_list[0].split(",")[0])
+                sss.extend([ "," + x for x in text_list[0].split(",")[1:]])
+                sss.extend(text_list[1:])
+
+                text_list = sss
+
                 backup_text_list = text_list[0]
+
+                text_list[0] = text_list[0].strip()
+
                 text_list[0] = str(text_list[0]).encode("utf-8").replace("[[", "")
                 text_list[0] = str(text_list[0]).encode("utf-8").replace("]]", "")
 
@@ -248,10 +266,6 @@ class Content(object):
 
                 #None= only year, False= month and year, True= all
                 date_control = None
-
-                print control1
-                print control2
-                print date_control
 
                 if control1 or control2:
                     try:
@@ -278,7 +292,9 @@ class Content(object):
                     else:
                         if date_control is True:
                             fixBirth = "{{" + "Doğum tarihi|{year}|{month}|{day}".format(year=str(birthDate.year), month=str(birthDate.month), day=str(birthDate.day)) + "}}"
-                        else:
+                        elif date_control is False:
+                            fixBirth = backup_text_list
+                        elif date_control is None:
                             fixBirth = str(birthDate.year)
 
                     text_list[0] = fixBirth
@@ -297,15 +313,32 @@ class Content(object):
             text = infobox[self.is_deathDateTemplate(infobox)["key"]]
         except:
             text = ""
+
+        text = text.replace("<br>", "<br/>")
+
         if self.is_deathDateTemplate(infobox)["result"] is False:
-            resolve = BeautifulSoup(text, 'html.parser')
+            resolve = BeautifulSoup(text, 'html.parser', from_encoding="utf-8")
             if resolve:
-                text = infobox[self.is_deathDateTemplate(infobox)["key"]]
                 try:
-                    text_list = text.split(str(resolve.find_all()[0]))
-                    text_list[1] = str(resolve.find_all()[0]) + text_list[1]
+                    text_list = [x.encode('utf-8') for x in resolve.find_all(text=True)]
+                    count = 1
+                    for i in resolve.find_all():
+                        text_list[count] = str(i) + text_list[count]
+                        count += 1
+                    del count
                 except:
                     text_list = [text]
+
+                sss = []
+                sss.append(text_list[0].split(",")[0])
+                sss.extend([ "," + x for x in text_list[0].split(",")[1:]])
+                sss.extend(text_list[1:])
+
+                text_list = sss
+
+                backup_text_list = text_list[0]
+
+                text_list[0] = text_list[0].strip()
 
                 text_list[0] = text_list[0].replace("[[", "")
                 text_list[0] = text_list[0].replace("]]", "")
@@ -314,6 +347,17 @@ class Content(object):
              #       timestring.Date(text_list[0])
               #      control1 = True
                # except:
+
+                try:
+                    m = re.search("((\w+) yaşında)", text_list[0])
+                    text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
+                except:
+                    try:
+                        m = re.search("((\w+) yaşlarında)", text_list[0])
+                        text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
+                    except:
+                        pass
+
                 try:
                     datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
                     control1 = True
@@ -334,18 +378,7 @@ class Content(object):
                 date_control = None
 
                 if control1 or control2:
-
                     try:
-                        try:
-                            m = re.search("((\w+) yaşında)", text_list[0])
-                            text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
-                        except:
-                            try:
-                                m = re.search("((\w+) yaşlarında)", text_list[0])
-                                text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
-                            except:
-                                pass
-
                         try:
                             deathDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
                             date_control = False
@@ -356,8 +389,6 @@ class Content(object):
                             except:
                                 deathDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
                                 date_control = True
-
-
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
                     #if not ( self.is_birthDateTemplate(infobox)["result"] is False and not self.is_birthDateTemplate(infobox)["key"] ):
@@ -388,6 +419,7 @@ class Content(object):
                             birth_year=birthDate[0],
                             birth_month=birthDate[1],
                             birth_day=birthDate[2]) + "}}"
+
                     else:
                         if date_control is None or date_control is False:
                             try:
@@ -415,10 +447,11 @@ class Content(object):
                             death_year=str(deathDate.year),
                             death_month=str(deathDate.month),
                             death_day=str(deathDate.day)) + "}}"
-
-
                     if fixBirth:
                         text_list[0] = fixBirth
+
+                elif not control1 and not control2:
+                    text_list[0] = backup_text_list
         try:
             return "".join(text_list)
         except:
@@ -431,6 +464,7 @@ class Content(object):
                     self.infoboxes[key][self.is_birthDateTemplate(val)["key"]] = self._fixBirthDate(val)
                 except:
                     pass
+
             if self.is_deathDateTemplate(val)["result"] is False:
                 try:
                     self.infoboxes[key][self.is_deathDateTemplate(val)["key"]] = self._fixDeathDate(val)
