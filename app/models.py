@@ -16,6 +16,7 @@ class Content(object):
         self._content = content.encode("utf-8")
         self.infoboxes = self.findInfoboxes()
 
+    #It finds start-end indexes of the template.
     @staticmethod
     def _getStartEndIndexOfTemplate(infobox_name, content):
         input = content
@@ -41,25 +42,23 @@ class Content(object):
                 break
         return [startIndex-2-len(infobox_name), endIndex+2]
 
+    #It finds the template and exports as dict it.
     def _getTemplate(self, name, content):
         input = content
+        #It changes some codes for process without bugs.
+        input = input.replace("<br>", "<br/>").replace("</br>", "<br/>").replace("|df=yes", "").replace("|df=y", "").replace("|mf=yes", "").replace("|mf=y", "")
+        input = BeautifulSoup(input, 'html.parser', from_encoding="utf-8").decode()
 
         resolve = BeautifulSoup(input, 'html.parser', from_encoding="utf-8")
-        for n in resolve.find_all():
-            old = n
-            try:
-                n.replace("|", "%!%!%")
-            except:
-                pass
-            try:
-                n.replace("=", "%@%@%")
-            except:
-                pass
-        try:
-            if n:
-                input.replace(old, n)
-        except:
-            pass
+
+        #It finds HTML codes and changes them for process without bugs.
+        for i in resolve.findChildren():
+            old = str(i)
+            i = str(i).replace("|", "%!%!%").replace("=", "%@%@%")
+            if old != i:
+                input = input.replace(old, i)
+
+        input = input.encode('utf-8').replace('/">', '" />').replace("/'>", "' />")
 
         startIndex = input.lower().find("{{" + name.lower()) + 2 + len(name)
         length = len(input)
@@ -90,8 +89,6 @@ class Content(object):
                 last_char = c
             elif (c == "}" and braces == 0):
                 result = result.strip()
-
-                #asd
                 parts = result.split("|")
                 dict = OrderedDict()
                 counter = 0
@@ -131,6 +128,7 @@ class Content(object):
         for template in templates:
             data = category.Category(site, template).getAllMembers(True)
             for i in data:
+                #i[7:] for 'Şablon:'. i[9:] for 'Template:'.
                 i = i[7:]
                 try:
                     if content.find(i) != -1 and str(i).endswith("bilgi kutusu"):
@@ -138,12 +136,6 @@ class Content(object):
                             list.append(i)
                 except:
                     pass
-                #if i in content.strip():
-                #    print content.strip()[:content.strip().find(i)+1]
-                #    print content.strip()[:content.strip().find(i)+2]
-                #if ( i in content.strip() ) and content.strip()[:content.strip().find(i)+1].endswith("{"):
-
-
         return list
 
     def findInfoboxes(self):
@@ -174,7 +166,8 @@ class Content(object):
         "doğumtarihi",
         "dogumtarihi",
         "Doğum",
-        "doğum"
+        "doğum",
+        "birth_date"
         ]
 
         template_list = [
@@ -195,7 +188,8 @@ class Content(object):
         "ölümtarihi",
         "olumtarihi",
         "Ölüm",
-        "ölüm"
+        "ölüm",
+        "death_date"
         ]
 
         template_list = [
@@ -207,30 +201,25 @@ class Content(object):
 
         return self.__is_XXTemplate(infobox, key_list, template_list)
 
-    @staticmethod
-    def __turkishDateFormatToDefault(text):
-        months_turkish=[
-        "Ocak",
-        "Şubat",
-        "Mart",
-        "Nisan",
-        "Mayıs"
-        ]
-
     def _fixBirthDate(self, infobox, isList=False):
         excepts = ["hayatta", "yaşıyor", "-", "", "<!-- {{ölüm tarihi ve yaşı|yıl|ay|gün}} -->", "<!-- {{Ölüm tarihi ve yaşı|yıl|ay|gün}} -->", "<!-- {{ölüm tarihi|yıl|ay|gün}} -->", "<!-- {{Ölüm tarihi|yıl|ay|gün}} -->"]
         text = infobox[self.is_birthDateTemplate(infobox)["key"]]
-        text = text.replace("<br>", "<br/>")
         if self.is_birthDateTemplate(infobox)["result"] is False:
             resolve = BeautifulSoup(text, 'html.parser', from_encoding="utf-8")
             if resolve:
                 try:
-                    text_list = [x.encode('utf-8') for x in resolve.find_all(text=True)]
-                    count = 1
-                    for i in resolve.find_all():
-                        text_list[count] = str(i) + text_list[count]
-                        count += 1
-                    del count
+                    if resolve.findChildren():
+                        separators = [x.encode('utf-8') for x in resolve.findChildren()]
+                        separators_text = ""
+                        for i in separators:
+                            if i is not None:
+                                if separators.index(i) == 0:
+                                    separators_text =+ "("+i+")"
+                                else:
+                                    separators_text =+ "|("+i+")"
+                                    text_list = re.split(separators_text, text)
+                    else:
+                        text_list = [text]
                 except:
                     text_list = [text]
 
@@ -248,6 +237,7 @@ class Content(object):
                 text_list[0] = str(text_list[0]).encode("utf-8").replace("[[", "")
                 text_list[0] = str(text_list[0]).encode("utf-8").replace("]]", "")
 
+                #It controls whether it matches the date format or not.
                 try:
                     datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
                     control1 = True
@@ -274,11 +264,12 @@ class Content(object):
                             date_control = False
                         except:
                             try:
-                                birthDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%Y")
+                                birthDate = datetime.datetime.strptime(text_list[0], "%Y")
                                 date_control = None
                             except:
                                 birthDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
                                 date_control = True
+
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
 
@@ -320,12 +311,18 @@ class Content(object):
             resolve = BeautifulSoup(text, 'html.parser', from_encoding="utf-8")
             if resolve:
                 try:
-                    text_list = [x.encode('utf-8') for x in resolve.find_all(text=True)]
-                    count = 1
-                    for i in resolve.find_all():
-                        text_list[count] = str(i) + text_list[count]
-                        count += 1
-                    del count
+                    if resolve.findChildren():
+                        separators = [x.encode('utf-8') for x in resolve.findChildren()]
+                        separators_text = ""
+                        for i in separators:
+                            if i is not None:
+                                if separators.index(i) == 0:
+                                    separators_text =+ "("+i+")"
+                                else:
+                                    separators_text =+ "|("+i+")"
+                                    text_list = re.split(separators_text, text)
+                    else:
+                        text_list = [text]
                 except:
                     text_list = [text]
 
@@ -343,11 +340,6 @@ class Content(object):
                 text_list[0] = text_list[0].replace("[[", "")
                 text_list[0] = text_list[0].replace("]]", "")
 
-            #    try:
-             #       timestring.Date(text_list[0])
-              #      control1 = True
-               # except:
-
                 try:
                     m = re.search("((\w+) yaşında)", text_list[0])
                     text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
@@ -356,8 +348,13 @@ class Content(object):
                         m = re.search("((\w+) yaşlarında)", text_list[0])
                         text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
                     except:
-                        pass
+                        try:
+                            m = re.search("((\w+) yaş)", text_list[0])
+                            text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
+                        except:
+                            pass
 
+                #It controls whether it matches the date format or not.
                 try:
                     datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%B %Y")
                     control1 = True
@@ -389,9 +386,9 @@ class Content(object):
                             except:
                                 deathDate = datetime.datetime.strptime(str(text_list[0]).encode("utf-8"), "%d %B %Y")
                                 date_control = True
+
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
-                    #if not ( self.is_birthDateTemplate(infobox)["result"] is False and not self.is_birthDateTemplate(infobox)["key"] ):
 
                     if self.is_birthDateTemplate(infobox)["result"] is True:
                         if date_control is None or date_control is False:
@@ -471,6 +468,7 @@ class Content(object):
                 except:
                     pass
 
+    #It converts the template to string.
     @staticmethod
     def _templateToString(name, dict):
         result="{{"+name+"\n"
@@ -489,39 +487,10 @@ class Content(object):
         result += "}}"
         return result
 
-
+    #It renders the content with new template.
     def render(self):
         new_content = self._content
         for key, value in self.infoboxes.iteritems():
             indexes = self._getStartEndIndexOfTemplate(key, new_content)
-
-            #birth = self.is_birthDateTemplate(value)
-            #death = self.is_deathDateTemplate(value)
-
-            #if birth["result"] is True:
-            #    if re.findall("{}[ \n]+)=".format(birth["key"]) ,new_content):
-            #        fi = new_content.find("{}{}=".format(birth["key"], re.findall(birth["key"]+"[ \n]+)=" ,new_content)[0]))
-            #        for i in [n for n in xrange(len(new_content)) if fi == n]:
-            #            if i <= new_content.find(value[birth]) <= indexes[1]:
-            #                ram = new_content[i:indexes[1]]
-            #                ram.replace(self.findInfoboxes()[key][birth["key"]], value[birth["key"]], 1)
-            #                print "kk"
-            #                new_content.replace(new_content[i:indexes[1]], ram, 1)
-            #if death["result"] is True:
-            #    print str(death["key"])
-            #    tt = str(death["key"])+"[ \n]+)="
-            #    print re.findall(tt , new_content[indexes[0]:indexes[1]])
-            #    if re.findall(tt , new_content):
-            #        fi = new_content.find("{}{}=".format(death["key"], re.findall(death["key"]+"[ \n]+)=" ,new_content)[0]))
-            #        for i in [n for n in xrange(len(new_content)) if fi == n]:
-            #            if i <= new_content.find(value[birth]) <= indexes[1]:
-            #                ram = new_content[i:indexes[1]]
-            #                ram.replace(self.findInfoboxes()[key][death["key"]], value[death["key"]], 1)
-            #                print "kk"
-            #                new_content.replace(new_content[i:indexes[1]], ram, 1)
-
-            #        #if indexes[0] <= new_content.find("{}{}=".format(birth["key"], re.findall(birth["key"]+"[ \n]+)=" ,a)[0])) <= indexes[1]:
-
-
             new_content = new_content.replace(new_content[indexes[0]:indexes[1]], self._templateToString(key, value))
         return new_content
