@@ -13,14 +13,19 @@ site = wiki.Wiki("https://tr.wikipedia.org/w/api.php")
 
 class Content(object):
     def __init__(self, content):
-        self._content = content.encode("utf-8")
+        if content.find("Futbolcu bilgi kutusu2") != -1:
+            self._content = content.encode("utf-8").replace("Futbolcu bilgi kutusu2", "Futbolcu bilgi kutusu")
+        else:
+            self._content = content.encode("utf-8")
         self.infoboxes = self.findInfoboxes()
+        self.infoboxNames = self._findInfoboxesName()
 
     #It finds start-end indexes of the template.
     @staticmethod
     def _getStartEndIndexOfTemplate(infobox_name, content):
         input = content
         length = len(input)
+        endIndex = 0
         startIndex = input.lower().find("{{" + infobox_name.lower()) + 2 + len(infobox_name)
         braces = 0
         for i in range(startIndex, length):
@@ -136,7 +141,22 @@ class Content(object):
                             list.append(i)
                 except:
                     pass
-        return list
+
+        newlist = []
+
+        for i in list:
+            if not i in newlist:
+                newlist.append(i)
+
+        di = {}
+
+        for i in newlist:
+            di[i] = self._getStartEndIndexOfTemplate(i, content)
+
+        keylist = di.keys()
+        keylist.sort()
+
+        return [i.encode("utf-8") for i in keylist]
 
     def findInfoboxes(self):
         boxes = self._findInfoboxesName()
@@ -490,6 +510,7 @@ class Content(object):
     #It renders the content with new template.
     def render(self):
         new_content = self._content
+
         for key, value in self.infoboxes.iteritems():
             indexes = self._getStartEndIndexOfTemplate(key, new_content)
             new_content = new_content.replace(new_content[indexes[0]:indexes[1]], self._templateToString(key, value))

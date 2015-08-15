@@ -27,6 +27,7 @@ for i in data:
 
         con = Content(content=old_content)
         old_infoboxes = con.findInfoboxes()
+
         print "Doğum ve ölüm tarihi yenileniyor..."
         con.fixBirthAndDeathDates()
         print "Yenilendi."
