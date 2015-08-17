@@ -65,6 +65,11 @@ class Content(object):
 
         input = input.encode('utf-8').replace('/">', '" />').replace("/'>", "' />")
 
+        for i in re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', input):
+            new = i
+            new = new.replace("|", "%!%!%").replace("=", "%@%@%")
+            input = input.replace(i, new)
+
         startIndex = input.lower().find("{{" + name.lower()) + 2 + len(name)
         length = len(input)
         braces = 0
@@ -187,7 +192,8 @@ class Content(object):
         "dogumtarihi",
         "Doğum",
         "doğum",
-        "birth_date"
+        "birth_date",
+        "birthdate"
         ]
 
         template_list = [
@@ -209,7 +215,8 @@ class Content(object):
         "olumtarihi",
         "Ölüm",
         "ölüm",
-        "death_date"
+        "death_date",
+        "deathbirth"
         ]
 
         template_list = [
