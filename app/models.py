@@ -179,6 +179,10 @@ class Content(object):
                 for i in template_list:
                     if self._getTemplate(i, infobox[key].lower()):
                         return {"result": True, "key": key}
+                try:
+                    key
+                except:
+                    key = ""
                 return {"result": False, "key": key}
         return {"result": None, "key":""}
 
@@ -227,6 +231,13 @@ class Content(object):
         ]
 
         return self.__is_XXTemplate(infobox, key_list, template_list)
+
+    @staticmethod
+    def _is_in_infobox(infobox, key):
+        if key in infobox.keys():
+            return infobox[key]
+        else:
+            return False
 
     def _fixBirthDate(self, infobox, isList=False):
         excepts = ["hayatta", "yaşıyor", "-", "", "<!-- {{ölüm tarihi ve yaşı|yıl|ay|gün}} -->", "<!-- {{Ölüm tarihi ve yaşı|yıl|ay|gün}} -->", "<!-- {{ölüm tarihi|yıl|ay|gün}} -->", "<!-- {{Ölüm tarihi|yıl|ay|gün}} -->"]
@@ -300,7 +311,7 @@ class Content(object):
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
 
-                    if ( self.is_deathDateTemplate(infobox)["result"] is False and ((not infobox[self.is_deathDateTemplate(infobox)["key"]])) or infobox[self.is_deathDateTemplate(infobox)["key"]] in excepts ) or self.is_deathDateTemplate(infobox)["result"] is None:
+                    if ( self.is_deathDateTemplate(infobox)["result"] is False and (not self._is_in_infobox(infobox, self.is_deathDateTemplate(infobox)["key"])) or self._is_in_infobox(infobox, self.is_deathDateTemplate(infobox)["key"]) in excepts ) or self.is_deathDateTemplate(infobox)["result"] is None:
                         if date_control is None:
                             fixBirth = "{{" + "Doğum yılı ve yaşı|{year}".format(year=str(birthDate.year)) + "}}"
                         elif date_control is False:
@@ -367,19 +378,34 @@ class Content(object):
                 text_list[0] = text_list[0].replace("[[", "")
                 text_list[0] = text_list[0].replace("]]", "")
 
-                try:
-                    m = re.search("((\w+) yaşında)", text_list[0])
-                    text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
-                except:
+                for text in text_list:
+                    old = text
                     try:
-                        m = re.search("((\w+) yaşlarında)", text_list[0])
-                        text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
+                        m = re.search("((\w+) yaşında)", text)
+                        text = text.replace("(" + m.groups()[0] + ")", "")
+                        #text = text[:(text.find("(" + m.groups()[0] + ")")-1)]
                     except:
                         try:
-                            m = re.search("((\w+) yaş)", text_list[0])
-                            text_list[0] = text_list[0][:(text_list[0].find("(" + m.groups()[0] + ")")-1)]
+                            m = re.search("((\w+) yaşlarında)", text)
+                            text = text.replace("(" + m.groups()[0] + ")", "")
                         except:
-                            pass
+                            try:
+                                m = re.search("((\w+) yaş)", text)
+                                text = text.replace("(" + m.groups()[0] + ")", "")
+                            except:
+                                try:
+                                    m = re.search("((\w+) Yaşında)", text)
+                                    text = text.replace("(" + m.groups()[0] + ")", "")
+                                except:
+                                    pass
+
+                    if text == ", " and len(text_list) >= text_list.index(old)+1:
+                        del text_list[text_list.index(old)]
+                    else:
+                        text_list[text_list.index(old)] = text
+
+                if len(text_list) == 1 and text_list[0][-1] == " ":
+                    text_list[0] = text_list[0][:-1]
 
                 #It controls whether it matches the date format or not.
                 try:
@@ -417,7 +443,7 @@ class Content(object):
                     except:
                         raise ValueError("The format must be 'dd mm yy'.")
 
-                    if self.is_birthDateTemplate(infobox)["result"] is True:
+                    if self.is_birthDateTemplate(infobox)["result"] is True and infobox[self.is_birthDateTemplate(infobox)["key"]].lower().find("doğum tarihi ve yaşı") == -1:
                         if date_control is None or date_control is False:
                             try:
                                 birthDate = self._getTemplate("Doğum tarihi", self._fixBirthDate(infobox))
@@ -444,7 +470,7 @@ class Content(object):
                             birth_month=birthDate[1],
                             birth_day=birthDate[2]) + "}}"
 
-                    else:
+                    elif infobox[self.is_birthDateTemplate(infobox)["key"]].lower().find("doğum tarihi ve yaşı") == -1:
                         if date_control is None or date_control is False:
                             try:
                                 birthDate = self._getTemplate("Doğum tarihi", self._fixBirthDate(infobox))
@@ -476,6 +502,29 @@ class Content(object):
 
                 elif not control1 and not control2:
                     text_list[0] = backup_text_list
+
+        if self.is_deathDateTemplate(infobox)["result"] is True and text.lower().find("ölüm tarihi ve yaşı") == -1:
+            try:
+                text_list
+            except:
+                def if_first_is_str(the_dict):
+                    try:
+                        int(the_dict[0])
+                    except:
+                        del the_dict[0]
+                    return the_dict
+
+                if len(self._getTemplate("Ölüm tarihi", text).keys()) <= 4 and (self.is_birthDateTemplate(infobox)["result"] is True and infobox[self.is_birthDateTemplate(infobox)["key"]].lower().find("doğum tarihi ve yaşı") == -1):
+                    birthDate = if_first_is_str(self._getTemplate("Doğum tarihi", self._fixBirthDate(infobox)))
+                    deathDate = if_first_is_str(self._getTemplate("Ölüm tarihi", text.encode("utf-8")))
+                    text = "{{"+"Ölüm tarihi ve yaşı|{death_year}|{death_month}|{death_day}|{birth_year}|{birth_month}|{birth_day}".format(
+                    death_year = deathDate.values()[0],
+                    death_month = deathDate.values()[1],
+                    death_day = deathDate.values()[2],
+                    birth_year = birthDate.values()[0],
+                    birth_month = birthDate.values()[1],
+                    birth_day = birthDate.values()[2]
+                    )+"}}"
         try:
             return "".join(text_list)
         except:
@@ -489,7 +538,7 @@ class Content(object):
                 except:
                     pass
 
-            if self.is_deathDateTemplate(val)["result"] is False:
+            if self.is_deathDateTemplate(val)["result"] is False or self.is_deathDateTemplate(val)["result"] is True:
                 try:
                     self.infoboxes[key][self.is_deathDateTemplate(val)["key"]] = self._fixDeathDate(val)
                 except:
