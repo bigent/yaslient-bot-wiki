@@ -517,14 +517,17 @@ class Content(object):
                 if len(self._getTemplate("Ölüm tarihi", text).keys()) <= 4 and (self.is_birthDateTemplate(infobox)["result"] is True and infobox[self.is_birthDateTemplate(infobox)["key"]].lower().find("doğum tarihi ve yaşı") == -1):
                     birthDate = if_first_is_str(self._getTemplate("Doğum tarihi", self._fixBirthDate(infobox)))
                     deathDate = if_first_is_str(self._getTemplate("Ölüm tarihi", text.encode("utf-8")))
-                    text = "{{"+"Ölüm tarihi ve yaşı|{death_year}|{death_month}|{death_day}|{birth_year}|{birth_month}|{birth_day}".format(
+
+                    indexes = self._getStartEndIndexOfTemplate("ölüm tarihi", text.lower().encode("utf-8"))
+
+                    text = text.replace(text[indexes[0]:indexes[1]], "{{"+"Ölüm tarihi ve yaşı|{death_year}|{death_month}|{death_day}|{birth_year}|{birth_month}|{birth_day}".format(
                     death_year = deathDate.values()[0],
                     death_month = deathDate.values()[1],
                     death_day = deathDate.values()[2],
                     birth_year = birthDate.values()[0],
                     birth_month = birthDate.values()[1],
                     birth_day = birthDate.values()[2]
-                    )+"}}"
+                    )+"}}")
         try:
             return "".join(text_list)
         except:
